@@ -1,0 +1,19 @@
+# Requirements for Chinese Grammar Wiki Formatter
+# Currently no external dependencies required - uses only Python standard library
+
+# Development and testing dependencies (optional)
+# markdownlint-cli  # For markdown linting (install via npm)
+
+# Future dependencies (commented out for now)
+# requests>=2.25.0     # For future web scraping or API integration
+# beautifulsoup4>=4.9.0 # For HTML parsing if needed
+# lxml>=4.6.0          # For XML/HTML processing
+# regex>=2021.4.4      # For advanced regex features beyond standard re
+# colorama>=0.4.4      # For colored terminal output on Windows
+# rich>=10.0.0         # For rich terminal formatting
+# typer>=0.3.0         # For better CLI interface in future versions
+
+# Optional linting and formatting tools
+# black>=21.0.0        # Python code formatter
+# flake8>=3.9.0        # Python linter
+# mypy>=0.812          # Type checking

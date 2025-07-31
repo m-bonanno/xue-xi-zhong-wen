@@ -1,0 +1,31 @@
+# Include non-Python files in the package
+include README.md
+include FORMATTER_README.md
+include LICENSE.md
+include requirements.txt
+include requirements-dev.txt
+include format_config.ini
+include Makefile
+include format.bat
+
+# Include all markdown files
+recursive-include . *.md
+
+# Include configuration files
+include *.ini
+include *.toml
+include *.cfg
+
+# Exclude compiled Python files
+global-exclude *.pyc
+global-exclude *.pyo
+global-exclude *~
+global-exclude .*
+
+# Exclude cache and build directories
+prune __pycache__
+prune .pytest_cache
+prune .mypy_cache
+prune build
+prune dist
+prune *.egg-info
