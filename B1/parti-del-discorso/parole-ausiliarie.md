@@ -4,7 +4,7 @@ Questo file contiene le parole ausiliarie avanzate per il livello B1.
 
 ## Punti Grammaticali (3 totali)
 
-### 1. Terminare liste non esaustive con "shenme de" (什么的)
+### 1. Terminare liste non esaustive con "Shénme de" (什么的)
 
 #### Struttura
 
@@ -24,7 +24,7 @@ Equivale a "e cose del genere", "eccetera", per indicare che ci sono altri eleme
 | 他 喜欢 音乐，电影 什么的。 | Tā xǐhuān yīnyuè, diànyǐng shénme de. | Gli piace la musica, i film e cose del genere. |
 | 桌子 上 有 书，笔 什么的。 | Zhuōzi shàng yǒu shū, bǐ shénme de. | Sul tavolo ci sono libri, penne e cose del genere. |
 
-### 2. Esprimere "roba come quella" con "zhileide" (之类的)
+### 2. Esprimere "roba come quella" con "Zhīlèide" (之类的)
 
 #### Struttura
 
@@ -44,7 +44,7 @@ Più formale di 什么的, significa "cose come", "roba del tipo".
 | 我 想 买 iPhone 之类的 手机。 | Wǒ xiǎng mǎi iPhone zhī lèi de shǒujī. | Voglio comprare un telefono tipo iPhone. |
 | 他 学 汉语，日语 之类的 语言。 | Tā xué Hànyǔ, Rìyǔ zhī lèi de yǔyán. | Studia lingue come cinese e giapponese. |
 
-### 3. Liste non esaustive con "dengdeng" (等/等等)
+### 3. Liste non esaustive con "Děngděng" (等/等等)
 
 #### Struttura
 

@@ -2,7 +2,7 @@
 
 Le congiunzioni del livello B2 introducono connessioni logiche complesse per argomentazioni sofisticate. Questa sezione copre 2 punti grammaticali essenziali.
 
-## 1. "Erqie" per Enfatizzare Aggiunta (而且)
+## 1. "Érqiě" per Enfatizzare Aggiunta (而且)
 
 ### Struttura
 
@@ -56,7 +56,7 @@ Frase 1，而且 + Frase 2
 - La seconda parte è solitamente più forte della prima
 - Può esprimere frustrazione se entrambe le parti sono negative
 
-## 2. "Buguo" per Limitazioni Lievi (不过)
+## 2. "Bùguò" per Limitazioni Lievi (不过)
 
 ### Struttura
 

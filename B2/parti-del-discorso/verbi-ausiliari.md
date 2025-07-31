@@ -2,7 +2,7 @@
 
 I verbi ausiliari del livello B2 introducono modi avanzati di esprimere capacità, necessità e atteggiamenti complessi. Questa sezione copre 1 punto grammaticale essenziale.
 
-## 1. "Gan" per Osare (敢)
+## 1. "Gǎn" per Osare (敢)
 
 ### Struttura
 

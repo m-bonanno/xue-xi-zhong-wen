@@ -2,7 +2,7 @@
 
 Le espressioni condizionali del livello B2 introducono costruzioni sofisticate per ipotesi, contrasti e situazioni complesse. Questa sezione copre 9 punti grammaticali essenziali.
 
-## 1. Condizioni Controfattuali con "yaoshi" (要是)
+## 1. Condizioni Controfattuali con "yàoshi" (要是)
 
 ### Struttura
 
@@ -77,7 +77,7 @@ Le espressioni condizionali del livello B2 introducono costruzioni sofisticate p
 - Più formale di "就算"
 - Spesso in contesti ispiranti o drammatici
 
-## 3. Condizioni Minime con "zhiyao" (只要)
+## 3. Condizioni Minime con "zhǐyào" (只要)
 
 ### Struttura
 
@@ -151,7 +151,7 @@ Le espressioni condizionali del livello B2 introducono costruzioni sofisticate p
 - Spesso implica limitazione di opzioni
 - Più colloquiale di "要么...要么..."
 
-## 5. Condizioni Eccezionali con "chufei" (除非)
+## 5. Condizioni Eccezionali con "chúfēi" (除非)
 
 ### Struttura
 
@@ -181,7 +181,7 @@ Le espressioni condizionali del livello B2 introducono costruzioni sofisticate p
 - Spesso usato per ultimatum o situazioni limite
 - Implica che senza quella condizione, il risultato è inevitabile
 
-## 6. Condizioni Temporali con "dengdao" (等到)
+## 6. Condizioni Temporali con "děngdào" (等到)
 
 ### Struttura
 
@@ -211,7 +211,7 @@ Le espressioni condizionali del livello B2 introducono costruzioni sofisticate p
 - Spesso implica pazienza o procrastinazione
 - Indica sequenza temporale necessaria
 
-## 7. Condizioni Progressive con "yuelaiyue" (越来越)
+## 7. Condizioni Progressive con "yuèláiyuè" (越来越)
 
 ### Struttura
 

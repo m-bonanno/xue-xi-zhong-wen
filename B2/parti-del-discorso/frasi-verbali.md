@@ -23,7 +23,7 @@ Soggetto + 把 + Oggetto + Verbo + Risultato/Direzione
 - Enfatizza l'effetto dell'azione sull'oggetto
 - Oggetto deve essere determinato
 
-## 2. Passivo con "bei" (被)
+## 2. Passivo con "bèi" (被)
 
 ### Struttura
 
@@ -44,7 +44,7 @@ Soggetto + 被 + (Agente) + Verbo
 - Spesso indica situazioni negative
 - Agente può essere omesso
 
-## 3. Causativo con "shi" (使)
+## 3. Causativo con "shǐ" (使)
 
 ### Struttura
 
@@ -65,7 +65,7 @@ Soggetto + 使 + Oggetto + Verbo/Aggettivo
 - Indica causa ed effetto diretto
 - Più formale di 让
 
-## 4. Causativo con "rang" (让)
+## 4. Causativo con "ràng" (让)
 
 ### Struttura
 
@@ -170,7 +170,7 @@ Verbo + 得/不 + Direzione
 - Abilità fisica di compiere movimento
 - Spesso con considerazioni spaziali
 
-## 9. Esprimere Tentativo con "shi" (试)
+## 9. Esprimere Tentativo con "shì" (试)
 
 ### Struttura
 
@@ -191,7 +191,7 @@ Verbo + 得/不 + Direzione
 - Azioni sperimentali
 - Spesso con 看 per enfatizzare l'esplorazione
 
-## 10. Esprimere Continuazione con "jixu" (继续)
+## 10. Esprimere Continuazione con "jìxù" (继续)
 
 ### Struttura
 
@@ -233,7 +233,7 @@ Verbo + 得/不 + Direzione
 - Due azioni contemporanee
 - Spesso una principale e una secondaria
 
-## 12. Esprimere Intenzione con "dasuan" (打算)
+## 12. Esprimere Intenzione con "dǎsuàn" (打算)
 
 ### Struttura
 
@@ -254,7 +254,7 @@ Soggetto + 打算 + Verbo
 - Piani concreti per il futuro
 - Più specifico di 想
 
-## 13. Esprimere Abitudine con "xiguan" (习惯)
+## 13. Esprimere Abitudine con "xíguàn" (习惯)
 
 ### Struttura
 
@@ -275,7 +275,7 @@ Soggetto + 打算 + Verbo
 - Comportamenti acquisiti nel tempo
 - Spesso difficili da cambiare
 
-## 14. Esprimere "Iniziare a" con "kaishi" (开始)
+## 14. Esprimere "Iniziare a" con "kāishǐ" (开始)
 
 ### Struttura
 
@@ -296,7 +296,7 @@ Soggetto + 打算 + Verbo
 - Punto di inizio di azioni o processi
 - Spesso con cambiamenti di stato
 
-## 15. Esprimere "Smettere di" con "tingzhi" (停止)
+## 15. Esprimere "Smettere di" con "tíngzhǐ" (停止)
 
 ### Struttura
 
@@ -317,7 +317,7 @@ Soggetto + 打算 + Verbo
 - Interruzione definitiva di azioni
 - Più formale di 不...了
 
-## 16. Esprimere Completamento con "wancheng" (完成)
+## 16. Esprimere Completamento con "wánchéng" (完成)
 
 ### Struttura
 
@@ -338,7 +338,7 @@ Soggetto + 打算 + Verbo
 - Raggiungimento di obiettivi
 - Senso di realizzazione
 
-## 17. Esprimere Progressione con "jinbu" (进步)
+## 17. Esprimere Progressione con "jìnbù" (进步)
 
 ### Struttura
 
@@ -360,7 +360,7 @@ Soggetto + 有 + 进步
 - Miglioramento graduale
 - Spesso in contesti educativi
 
-## 18. Esprimere Deterioramento con "tuibu" (退步)
+## 18. Esprimere Deterioramento con "tuìbù" (退步)
 
 ### Struttura
 
@@ -381,7 +381,7 @@ Soggetto + 退步 + 了
 - Peggioramento di abilità o condizioni
 - Spesso temporaneo
 
-## 19. Esprimere Recupero con "huifu" (恢复)
+## 19. Esprimere Recupero con "huīfù" (恢复)
 
 ### Struttura
 
@@ -402,7 +402,7 @@ Soggetto + 退步 + 了
 - Ritorno a stato precedente
 - Spesso dopo difficoltà
 
-## 20. Esprimere Mantenimento con "baochi" (保持)
+## 20. Esprimere Mantenimento con "bǎochí" (保持)
 
 ### Struttura
 
@@ -423,7 +423,7 @@ Soggetto + 退步 + 了
 - Continuità di stati positivi
 - Richiede sforzo cosciente
 
-## 21. Esprimere Sviluppo con "fazhan" (发展)
+## 21. Esprimere Sviluppo con "fāzhǎn" (发展)
 
 ### Struttura
 
@@ -444,7 +444,7 @@ Soggetto + 退步 + 了
 - Crescita e espansione
 - Spesso in contesti economici/sociali
 
-## 22. Esprimere Trasformazione con "bianhua" (变化)
+## 22. Esprimere Trasformazione con "biànhuà" (变化)
 
 ### Struttura
 
@@ -466,7 +466,7 @@ Soggetto + 变化 + 了
 - Cambiamenti evidenti
 - Spesso nel tempo
 
-## 23. Esprimere Preparazione con "zhunbei" (准备)
+## 23. Esprimere Preparazione con "zhǔnbèi" (准备)
 
 ### Struttura
 
@@ -487,7 +487,7 @@ Soggetto + 变化 + 了
 - Azioni preliminari
 - Orientamento verso il futuro
 
-## 24. Esprimere Decisione con "jueding" (决定)
+## 24. Esprimere Decisione con "juédìng" (决定)
 
 ### Struttura
 
@@ -510,31 +510,31 @@ Soggetto + 变化 + 了
 
 ## 25-29. Altre Costruzioni Verbali Avanzate
 
-### Esprimere Esperienza con "jingli" (经历)
+### Esprimere Esperienza con "jīnglì" (经历)
 
 | Cinese | Pinyin | Italiano |
 |--------|--------|----------|
 | 他经历了很多困难 | tā jīnglì le hěnduō kùnnan | Ha attraversato molte difficoltà |
 
-### Esprimere Ottenimento con "dedao" (得到)
+### Esprimere Ottenimento con "dédào" (得到)
 
 | Cinese | Pinyin | Italiano |
 |--------|--------|----------|
 | 他得到了大家的支持 | tā dédào le dàjiā de zhīchí | Ha ottenuto il supporto di tutti |
 
-### Esprimere Perdita con "shiqu" (失去)
+### Esprimere Perdita con "shīqù" (失去)
 
 | Cinese | Pinyin | Italiano |
 |--------|--------|----------|
 | 不要失去信心 | bùyào shīqù xìnxīn | Non perdere la fiducia |
 
-### Esprimere Possesso con "yongyou" (拥有)
+### Esprimere Possesso con "yōngyǒu" (拥有)
 
 | Cinese | Pinyin | Italiano |
 |--------|--------|----------|
 | 他拥有很多财富 | tā yōngyǒu hěnduō cáifù | Possiede molta ricchezza |
 
-### Esprimere Raggiungimento con "dadao" (达到)
+### Esprimere Raggiungimento con "dádào" (达到)
 
 | Cinese | Pinyin | Italiano |
 |--------|--------|----------|

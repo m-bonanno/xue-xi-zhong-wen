@@ -152,7 +152,7 @@ A呢，还是B？
 | Situazione continuativa | 呢 | 你在做什么呢？ |
 | Contrasto/Alternative | 呢 | 你呢？ |
 
-### Domande Retoriche con "Nandao" (难道)
+### Domande Retoriche con "Nándào" (难道)
 
 ```
 难道 + Domanda + 吗/不成？

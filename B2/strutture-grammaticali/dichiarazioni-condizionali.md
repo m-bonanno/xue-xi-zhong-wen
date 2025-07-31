@@ -113,7 +113,7 @@ Le dichiarazioni condizionali del livello B2 introducono forme avanzate per espr
 - "就" enfatizza la certezza del risultato
 - Comune in minacce gentili, promesse e supposizioni personali
 
-## 3. "Jiaru" per Ipotesi Teoriche (假如)
+## 3. "Jiǎrú" per Ipotesi Teoriche (假如)
 
 ### Struttura
 
@@ -167,7 +167,7 @@ Le dichiarazioni condizionali del livello B2 introducono forme avanzate per espr
 - Comune in discussioni filosofiche, esperimenti mentali e analisi
 - Spesso usato per esplorare alternative teoriche
 
-## 4. "Shizai" per Condizioni Reali Enfatiche (实在)
+## 4. "Shízài" per Condizioni Reali Enfatiche (实在)
 
 ### Struttura
 
@@ -222,7 +222,7 @@ Le dichiarazioni condizionali del livello B2 introducono forme avanzate per espr
 - Indica che la situazione ha raggiunto un limite
 - Può esprimere frustrazione, rassegnazione o enfasi positiva
 
-## 5. "Fanzheng" per Condizioni Indifferenti (反正)
+## 5. "Fǎnzhèng" per Condizioni Indifferenti (反正)
 
 ### Struttura
 

@@ -2,7 +2,7 @@
 
 Gli avverbi del livello B2 introducono usi avanzati per valutazioni, enfasi, modalità e atteggiamenti sofisticati. Questa sezione copre 36 punti grammaticali fondamentali.
 
-## 1. Usi Avanzati di "dou" (都)
+## 1. Usi Avanzati di "dōu" (都)
 
 ### Struttura
 
@@ -23,7 +23,7 @@ Soggetto + 都 + Predicato
 - Enfatizza sorpresa o intensità
 - Spesso con sfumatura di "persino" o "già"
 
-## 2. Usi Avanzati di "hai" (还)
+## 2. Usi Avanzati di "hái" (还)
 
 ### Struttura
 
@@ -44,7 +44,7 @@ Soggetto + 还 + Predicato + 呢
 - Esprime disapprovazione o ironia
 - Contrasto tra aspettative e realtà
 
-## 3. Usi Avanzati di "zong" (总)
+## 3. Usi Avanzati di "zǒng" (总)
 
 ### Struttura
 
@@ -65,7 +65,7 @@ Soggetto + 还 + Predicato + 呢
 - Esprime necessità logica o morale
 - Spesso in domande retoriche
 
-## 4. Valutare Situazioni con "kanlai" (看来)
+## 4. Valutare Situazioni con "kànlái" (看来)
 
 ### Struttura
 
@@ -87,7 +87,7 @@ Soggetto + 还 + Predicato + 呢
 - Introdurre conclusioni basate su osservazioni
 - Esprimere opinioni personali
 
-## 5. Dichiarare l'Unica Opzione con "zhihao" (只好)
+## 5. Dichiarare l'Unica Opzione con "zhǐhǎo" (只好)
 
 ### Struttura
 
@@ -130,7 +130,7 @@ Soggetto + 还 + Predicato + 呢
 - Comune nella lingua parlata
 - Spesso con 了 finale
 
-## 7. Esprimere "Dopotutto" con "bijing" (毕竟)
+## 7. Esprimere "Dopotutto" con "bìjìng" (毕竟)
 
 ### Struttura
 
@@ -172,7 +172,7 @@ Soggetto + 还 + Predicato + 呢
 - Urgenza e ultimatum
 - Conseguenze negative inevitabili
 
-## 9. Esprimere "Quasi" con "chadian mei" (差点没)
+## 9. Esprimere "Quasi" con "chàdiǎn méi" (差点没)
 
 ### Struttura
 
@@ -193,7 +193,7 @@ Soggetto + 差点没 + Verbo
 - Situazioni estreme evitate per poco
 - Spesso iperbolico
 
-## 10. Esprimere "Comunque" con "fanzheng" (反正)
+## 10. Esprimere "Comunque" con "fǎnzhèng" (反正)
 
 ### Struttura
 
@@ -213,7 +213,7 @@ Soggetto + 差点没 + Verbo
 - Atteggiamento di indifferenza o accettazione
 - Spesso all'inizio della frase
 
-## 11. Esprimere "Il Più Possibile" con "jinliang" (尽量)
+## 11. Esprimere "Il Più Possibile" con "jǐnliàng" (尽量)
 
 ### Struttura
 
@@ -234,7 +234,7 @@ Soggetto + 差点没 + Verbo
 - Impegno sincero ma non garantito
 - Spesso in promesse o richieste educate
 
-## 12. Esprimere Preoccupazione con "kongpa" (恐怕)
+## 12. Esprimere Preoccupazione con "kǒngpà" (恐怕)
 
 ### Struttura
 
@@ -276,7 +276,7 @@ Soggetto + 差点没 + Verbo
 - Enfatizza la difficoltà o il tempo necessario
 - Spesso con 才 o 就
 
-## 14. Esprimere "Addirittura" con "shenzhi" (甚至)
+## 14. Esprimere "Addirittura" con "shènzhì" (甚至)
 
 ### Struttura
 
@@ -296,7 +296,7 @@ Soggetto + 差点没 + Verbo
 - Introduce l'esempio più estremo
 - Spesso con 连...都
 
-## 15. Esprimere "Sentiti Libero" con "jinguan" (尽管)
+## 15. Esprimere "Sentiti Libero" con "jǐnguǎn" (尽管)
 
 ### Struttura
 
@@ -317,7 +317,7 @@ Soggetto + 差点没 + Verbo
 - Incoraggiamento a non esitare
 - Molto educato e disponibile
 
-## 16. Esprimere "Dovere" con "budebu" (不得不)
+## 16. Esprimere "Dovere" con "bùdébù" (不得不)
 
 ### Struttura
 
@@ -337,7 +337,7 @@ Soggetto + 不得不 + Verbo
 - Obbligo contro la propria volontà
 - Più formale di 只好
 
-## 17. Esprimere "Alla Fine" con "daodi" (到底)
+## 17. Esprimere "Alla Fine" con "dàodǐ" (到底)
 
 ### Struttura
 
@@ -358,7 +358,7 @@ Soggetto + 不得不 + Verbo
 - Enfatizza conclusione o verità finale
 - Spesso in domande insistenti
 
-## 18. Esprimere "Alla Fine" con "jiujing" (究竟)
+## 18. Esprimere "Alla Fine" con "jiūjìng" (究竟)
 
 ### Struttura
 
@@ -379,7 +379,7 @@ Soggetto + 不得不 + Verbo
 - Più insistente di 到底
 - Richiede chiarezza definitiva
 
-## 19. Esprimere "Semplicemente" con "gancui" (干脆)
+## 19. Esprimere "Semplicemente" con "gāncuì" (干脆)
 
 ### Struttura
 
@@ -399,7 +399,7 @@ Soggetto + 干脆 + Verbo/Frase
 - Decisione diretta e pragmatica
 - Evitare complicazioni
 
-## 20. Esprimere "Quasi" con "jihu" (几乎)
+## 20. Esprimere "Quasi" con "jīhū" (几乎)
 
 ### Struttura
 
@@ -440,7 +440,7 @@ Soggetto + 再也 + 不 + Verbo + 了
 - Decisione definitiva
 - Spesso emotiva
 
-## 22. Esprimere "Una Volta" con "cengjing" (曾经)
+## 22. Esprimere "Una Volta" con "céngjīng" (曾经)
 
 ### Struttura
 
@@ -460,7 +460,7 @@ Soggetto + 曾经 + Verbo + 过 (+ Oggetto)
 - Esperienze passate, spesso distanti
 - Spesso con 过
 
-## 23. Esprimere "In Origine" con "benlai" (本来)
+## 23. Esprimere "In Origine" con "běnlái" (本来)
 
 ### Struttura
 
@@ -480,7 +480,7 @@ Soggetto + 曾经 + Verbo + 过 (+ Oggetto)
 - Situazione originale o naturale
 - Spesso contrapposta alla realtà attuale
 
-## 24. Esprimere "Ripetutamente" con "zaisan" (再三)
+## 24. Esprimere "Ripetutamente" con "zàisān" (再三)
 
 ### Struttura
 
@@ -500,7 +500,7 @@ Soggetto + 曾经 + Verbo + 过 (+ Oggetto)
 - Azioni ripetute con insistenza
 - Enfatizza l'importanza
 
-## 25. Esprimere "Semplicemente" con "jianzhi" (简直)
+## 25. Esprimere "Semplicemente" con "jiǎnzhí" (简直)
 
 ### Struttura
 
@@ -521,7 +521,7 @@ Soggetto + 曾经 + Verbo + 过 (+ Oggetto)
 - Enfasi estrema
 - Spesso con incredulità
 
-## 26. Esprimere "Da Sempre" con "yixiang" (一向)
+## 26. Esprimere "Da Sempre" con "yīxiàng" (一向)
 
 ### Struttura
 
@@ -542,7 +542,7 @@ Soggetto + 曾经 + Verbo + 过 (+ Oggetto)
 - Abitudini o caratteristiche costanti
 - Spesso con caratteristiche personali
 
-## 27. Esprimere "Assolutamente" con "qianwan" (千万)
+## 27. Esprimere "Assolutamente" con "qiānwàn" (千万)
 
 ### Struttura
 
@@ -563,7 +563,7 @@ Soggetto + 曾经 + Verbo + 过 (+ Oggetto)
 - Enfasi molto forte
 - Spesso in avvertimenti importanti
 
-## 28. Esprimere Sforzi Sprecati con "bai" (白)
+## 28. Esprimere Sforzi Sprecati con "bái" (白)
 
 ### Struttura
 
@@ -584,7 +584,7 @@ Soggetto + 曾经 + Verbo + 过 (+ Oggetto)
 - Azioni senza risultato utile
 - Spesso con frustrazione
 
-## 29. Esprimere "Già Che Ci Sei" con "shunbian" (顺便)
+## 29. Esprimere "Già Che Ci Sei" con "shùnbiàn" (顺便)
 
 ### Struttura
 
@@ -604,7 +604,7 @@ Soggetto + Verbo 1，顺便 + Verbo 2
 - Azioni aggiuntive comode
 - Efficienza nell'uso del tempo
 
-## 30. Azioni Ripetute nel Passato con "you" (又)
+## 30. Azioni Ripetute nel Passato con "yòu" (又)
 
 ### Struttura
 
@@ -624,7 +624,7 @@ Soggetto + Verbo + 了 + 又 + Verbo
 - Azioni ripetute con insistenza
 - Spesso senza successo
 
-## 31. Domande Retoriche con "nandao" (难道)
+## 31. Domande Retoriche con "nándào" (难道)
 
 ### Struttura
 
@@ -644,7 +644,7 @@ Soggetto + Verbo + 了 + 又 + Verbo
 - Enfatizza l'ovvietà di qualcosa
 - Spesso critica o stupore
 
-## 32. L'Opposto di "chabuduo" è "cha hen duo" (差很多)
+## 32. L'Opposto di "chàbùduō" è "chà hěn duō" (差很多)
 
 ### Struttura
 
@@ -667,25 +667,25 @@ Soggetto + 差很多
 
 ## 33-36. Altri Avverbi Avanzati
 
-### Esprimere "Specialmente" con "tebie" (特别)
+### Esprimere "Specialmente" con "tèbié" (特别)
 
 | Cinese | Pinyin | Italiano |
 |--------|--------|----------|
 | 他今天特别忙 | tā jīntiān tèbié máng | Oggi è particolarmente occupato |
 
-### Esprimere "Fortunatamente" con "haozai" (好在)
+### Esprimere "Fortunatamente" con "hǎozài" (好在)
 
 | Cinese | Pinyin | Italiano |
 |--------|--------|----------|
 | 好在我带了伞 | hǎozài wǒ dài le sǎn | Fortunatamente ho portato l'ombrello |
 
-### Esprimere "Naturalmente" con "dangran" (当然)
+### Esprimere "Naturalmente" con "dāngrán" (当然)
 
 | Cinese | Pinyin | Italiano |
 |--------|--------|----------|
 | 这当然很重要 | zhè dāngrán hěn zhòngyào | Questo è naturalmente molto importante |
 
-### Esprimere "Gradualmente" con "zhujian" (逐渐)
+### Esprimere "Gradualmente" con "zhújiàn" (逐渐)
 
 | Cinese | Pinyin | Italiano |
 |--------|--------|----------|

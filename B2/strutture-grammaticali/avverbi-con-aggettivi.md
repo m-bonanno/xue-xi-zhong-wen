@@ -2,7 +2,7 @@
 
 Gli avverbi con aggettivi del livello B2 introducono costruzioni speciali per enfatizzare e modificare aggettivi con sfumature precise e registro appropriato. Questa sezione copre 1 punto grammaticale essenziale.
 
-## "Ting" per Enfasi Speciale (挺)
+## "Tǐng" per Enfasi Speciale (挺)
 
 ### Struttura Base
 

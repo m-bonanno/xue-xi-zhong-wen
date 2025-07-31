@@ -2,7 +2,7 @@
 
 Le parole ausiliarie del livello B2 introducono espressioni raffinate per completezza e totalità. Questa sezione copre 1 punto grammaticale essenziale.
 
-## 1. "Quanbu" per Completezza (全部)
+## 1. "Quánbù" per Completezza (全部)
 
 ### Struttura Base
 

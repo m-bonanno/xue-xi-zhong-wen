@@ -2,7 +2,7 @@
 
 Gli aggettivi del livello B2 introducono complementi aggettivali avanzati per esprimere intensità estrema e eccesso.
 
-## 1. Complemento Aggettivale "de budeliao" (得不得了)
+## 1. Complemento Aggettivale "dé bùdéliǎo" (得不得了)
 
 ### Struttura
 
@@ -40,7 +40,7 @@ Esprime un grado estremo di una qualità, spesso con una sfumatura emotiva forte
 | Adj + 得不得了 | Estremo | Colloquiale/emotivo | 热得不得了 |
 | Adj + 极了 | Estremo | Neutro | 热极了 |
 
-## 2. Complemento Aggettivale "de hen" (得很)
+## 2. Complemento Aggettivale "dé hěn" (得很)
 
 ### Struttura
 
@@ -114,7 +114,7 @@ Esprime che qualcosa eccede leggermente il livello desiderato o appropriato.
 | Adj + 了一点儿 | Più enfatico | 贵了一点儿 | un po' troppo caro |
 | Adj + 了些 | Formale | 贵了些 | un po' troppo caro |
 
-## 4. Dire "molto" con "youdeshi" (有的是)
+## 4. Dire "molto" con "yǒudeshì" (有的是)
 
 ### Struttura
 

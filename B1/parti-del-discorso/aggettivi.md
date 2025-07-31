@@ -4,7 +4,7 @@ Questo file contiene le forme avanzate di aggettivi per il livello B1.
 
 ## Punti Grammaticali (5 totali)
 
-### 1. Aggettivi con "-ji le" (极了)
+### 1. Aggettivi con "-Jí le" (极了)
 
 #### Struttura
 
@@ -32,7 +32,7 @@ Esprime un grado estremo dell'aggettivo, equivalente a "estremamente" o "moltiss
 - È più enfatico di "很" (hěn)
 - Spesso usato in situazioni emotive
 
-### 2. Esprimere "non molto" con "bu zenme" (不怎么)
+### 2. Esprimere "non molto" con "Bù zěnme" (不怎么)
 
 #### Struttura
 
@@ -60,7 +60,7 @@ Indica che qualcosa non è particolarmente caratterizzato dall'aggettivo, equiva
 - Spesso usato per essere cortesi
 - Può essere seguito da complementi
 
-### 3. Indicare il tutto con "quan" (全)
+### 3. Indicare il tutto con "Quán" (全)
 
 #### Struttura
 

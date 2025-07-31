@@ -2,7 +2,7 @@
 
 Le dichiarazioni "ma" del livello B2 introducono costruzioni avanzate per esprimere contrasti, avversità e situazioni contrapposte con maggiore sofisticazione e precisione semantica. Questa sezione copre 4 punti grammaticali essenziali.
 
-## 1. "Danshi" per Contrasti Formali (但是)
+## 1. "Dànshì" per Contrasti Formali (但是)
 
 ### Struttura Base
 
@@ -168,7 +168,7 @@ Situazione A，但是 + Situazione Contrastante B
 - Spesso usata per descrivere comportamenti estremi
 - Può avere valore retorico per forzare una scelta
 
-## 4. "Zhishi" per Attenuazioni e Limitazioni (只是)
+## 4. "Zhǐshì" per Attenuazioni e Limitazioni (只是)
 
 ### Struttura
 

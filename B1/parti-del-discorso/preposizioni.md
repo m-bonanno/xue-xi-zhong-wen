@@ -4,7 +4,7 @@ Questo file contiene le preposizioni avanzate per il livello B1.
 
 ## Punti Grammaticali (9 totali)
 
-### 1. Esprimere "riguardo a" con "guanyu" (关于)
+### 1. Esprimere "riguardo a" con "guānyú" (关于)
 
 #### Struttura
 
@@ -18,7 +18,7 @@ Questo file contiene le preposizioni avanzate per il livello B1.
 |--------|--------|----------|
 | 关于 中国 历史，我 知道 的 不 多。 | Guānyú Zhōngguó lìshǐ, wǒ zhīdao de bù duō. | Riguardo alla storia cinese, non ne so molto. |
 
-### 2. Esprimere "fino a" con "zhidao" (直到)
+### 2. Esprimere "fino a" con "zhídào" (直到)
 
 #### Struttura
 
@@ -60,7 +60,7 @@ Soggetto + 给 + Destinatario + Frase Verbale
 |--------|--------|----------|
 | 为 人民 服务！ | Wèi rénmín fúwù! | Servire il popolo! |
 
-### 5. Esprimere "meno di" con "budao" (不到)
+### 5. Esprimere "meno di" con "bù dào" (不到)
 
 #### Struttura
 

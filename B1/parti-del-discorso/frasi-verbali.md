@@ -4,7 +4,7 @@ Questo file contiene le frasi verbali avanzate per il livello B1.
 
 ## Punti Grammaticali (9 totali)
 
-### 1. Fare meno con "shao" (少)
+### 1. Fare meno con "Shǎo" (少)
 
 #### Struttura
 
@@ -19,7 +19,7 @@ Questo file contiene le frasi verbali avanzate per il livello B1.
 | 请 少 放 点 盐。 | Qǐng shǎo fàng diǎn yán. | Per favore metti meno sale. |
 | 少 说 话。 | Shǎo shuōhuà. | Parla di meno. |
 
-### 2. Fare di più con "duo" (多)
+### 2. Fare di più con "Duō" (多)
 
 #### Struttura
 
@@ -49,7 +49,7 @@ Questo file contiene le frasi verbali avanzate per il livello B1.
 | 我 正在 吃饭 呢。 | Wǒ zhèngzài chīfàn ne. | Sto mangiando. |
 | 他 正在 工作 着 呢。 | Tā zhèngzài gōngzuò zhe ne. | Sta lavorando. |
 
-### 4. Esprimere "non spesso" con "bu zenme" (不怎么)
+### 4. Esprimere "non spesso" con "Bù zěnme" (不怎么)
 
 #### Struttura
 
@@ -64,7 +64,7 @@ Questo file contiene le frasi verbali avanzate per il livello B1.
 | 我 儿子 不怎么 吃 零食。 | Wǒ érzi bù zěnme chī língshí. | Mio figlio non mangia spesso snack. |
 | 他 不怎么 说话。 | Tā bù zěnme shuōhuà. | Non parla molto. |
 
-### 5. Esprimere "fino a" con "dao" (到)
+### 5. Esprimere "fino a" con "Dào" (到)
 
 #### Struttura
 
@@ -111,7 +111,7 @@ Verbo-Oggetto separato
 | 他 洗 了 澡。 | Tā xǐ le zǎo. | Ha fatto il bagno. |
 | 说 中文。 | Shuō Zhōngwén. | Parlare cinese. |
 
-### 8. Verbi seguiti da "gei" (给)
+### 8. Verbi seguiti da "Gěi" (给)
 
 #### Struttura
 
@@ -126,7 +126,7 @@ Soggetto + Verbo + 给 + Destinatario + Oggetto
 | 他 送给 我 一 束 花。 | Tā sòng gěi wǒ yī shù huā. | Mi ha regalato un mazzo di fiori. |
 | 我 借给 你 钱。 | Wǒ jiè gěi nǐ qián. | Ti presto dei soldi. |
 
-### 9. Verbi preceduti da "gei" (给)
+### 9. Verbi preceduti da "Gěi" (给)
 
 #### Struttura
 

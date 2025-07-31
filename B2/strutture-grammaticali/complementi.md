@@ -2,7 +2,7 @@
 
 I complementi del livello B2 introducono forme avanzate per esprimere grado, intensità, potenzialità e risultato con maggiore precisione e sofisticazione. Questa sezione copre 8 punti grammaticali essenziali.
 
-## 1. Complemento di Grado Estremo con "De Budeliao" (得不得了)
+## 1. Complemento di Grado Estremo con "Dé Bùdéliǎo" (得不得了)
 
 ### Struttura
 
@@ -50,7 +50,7 @@ Aggettivo/Verbo + 得不得了
 - Comune nel linguaggio parlato espressivo
 - Può essere usato sia positivamente che negativamente
 
-## 2. Complemento di Risultato Negativo con "Bu Qi" (不起)
+## 2. Complemento di Risultato Negativo con "Bù Qǐ" (不起)
 
 ### Struttura
 

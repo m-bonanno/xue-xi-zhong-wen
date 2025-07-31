@@ -111,7 +111,7 @@ A是A，B是B
 - Spesso con osservazioni empiriche
 - Può esprimere preoccupazione o soddisfazione
 
-## 4. Schema di Condizione Contraria "Yaobushi" (要不是)
+## 4. Schema di Condizione Contraria "Yàobùshì" (要不是)
 
 ### Struttura
 

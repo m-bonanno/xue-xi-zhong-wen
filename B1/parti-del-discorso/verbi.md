@@ -46,7 +46,7 @@ Soggetto + 让/叫/请/使 + Persona + Predicato
 | 他 好像 是 英国 人。 | Tā hǎoxiàng shì Yīngguó rén. | Sembra che sia inglese. |
 | 好像 要 下雨 了。 | Hǎoxiàng yào xiàyǔ le. | Sembra che stia per piovere. |
 
-### 5. Esprimere "pensare erroneamente" con "yiwei" (以为)
+### 5. Esprimere "pensare erroneamente" con "yǐwéi" (以为)
 
 #### Esempi
 
@@ -71,7 +71,7 @@ Soggetto + 让/叫/请/使 + Persona + Predicato
 |--------|--------|----------|
 | 我们 是 通过 他 的 朋友 找到 他 的。 | Wǒmen shì tōngguò tā de péngyǒu zhǎodào tā de. | L'abbiamo trovato attraverso i suoi amici. |
 
-### 8. Esprimere "venire da" con "laizi" (来自)
+### 8. Esprimere "venire da" con "láizì" (来自)
 
 #### Esempi
 

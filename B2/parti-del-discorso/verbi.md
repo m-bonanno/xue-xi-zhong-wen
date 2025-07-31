@@ -2,7 +2,7 @@
 
 I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanzate per espressioni sofisticate. Questa sezione copre 6 punti grammaticali essenziali.
 
-## 1. Usare "lai" per Sostituire Altri Verbi (来)
+## 1. Usare "lái" per Sostituire Altri Verbi (来)
 
 ### Struttura
 
@@ -124,7 +124,7 @@ I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanz
 - Spesso con grado di intensità
 - Può descrivere reazioni collettive
 
-## 5. Costruzioni Verbali con "Worth" (值得)
+## 5. Costruzioni Verbali con "Worth" (zhídé)
 
 ### Struttura
 

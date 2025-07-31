@@ -24,7 +24,7 @@ Indica relazioni temporali formali, più elegante di 以前/以后.
 | 吃饭 之前 要 洗手。 | Chīfàn zhīqián yào xǐshǒu. | Prima di mangiare bisogna lavarsi le mani. |
 | 毕业 之后，我 想 工作。 | Bìyè zhīhòu, wǒ xiǎng gōngzuò. | Dopo la laurea, voglio lavorare. |
 
-### 2. Esprimere "da quando" con "yilai" (以来)
+### 2. Esprimere "da quando" con "yǐlái" (以来)
 
 #### Struttura
 

@@ -2,7 +2,7 @@
 
 Le dichiarazioni "se" del livello B2 introducono costruzioni sofisticate per esprimere condizioni ipotetiche, controfattuali e alternative con precisione semantica e registro appropriato. Questa sezione copre 4 punti grammaticali essenziali.
 
-## 1. "Yaobushi" per Controfattuali (要不是)
+## 1. "Yàobùshì" per Controfattuali (要不是)
 
 ### Struttura
 
@@ -56,7 +56,7 @@ Le dichiarazioni "se" del livello B2 introducono costruzioni sofisticate per esp
 - Indica che senza quella condizione il risultato sarebbe stato diverso
 - Comune per descrivere situazioni fortunate o disastri evitati
 
-## 2. "Ruofei" per Condizioni Eccezionali (若非)
+## 2. "Ruòfēi" per Condizioni Eccezionali (若非)
 
 ### Struttura
 

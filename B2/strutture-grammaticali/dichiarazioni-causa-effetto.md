@@ -49,7 +49,7 @@ Le dichiarazioni causa/effetto del livello B2 introducono costruzioni sofisticat
 - Spesso usato quando si vuole chiarire malintesi
 - Comune in argomentazioni e spiegazioni dettagliate
 
-## 2. "Youyu" per Cause Formali (由于)
+## 2. "Yóuyú" per Cause Formali (由于)
 
 ### Struttura
 
@@ -99,7 +99,7 @@ Risultato + 是由于 + Causa
 - Comune in notizie, rapporti e documenti ufficiali
 - Può essere seguito da "因此" o "所以" per enfatizzare l'effetto
 
-## 3. "Yinci" per Conseguenze Logiche (因此)
+## 3. "Yīncǐ" per Conseguenze Logiche (因此)
 
 ### Struttura
 
