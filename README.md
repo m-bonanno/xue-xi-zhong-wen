@@ -7,7 +7,7 @@ Benvenuto nella wiki italiana della grammatica cinese! Questa è una traduzione 
 ### Livelli di Grammatica
 
 - [**A1 - Principiante**](./A1/README.md) - 40 punti grammaticali fondamentali
-- A2 - Elementare (in arrivo)
+- [**A2 - Elementare**](./A2/README.md) - 99 punti grammaticali intermedi
 - B1 - Intermedio (in arrivo)
 - B2 - Intermedio-Avanzato (in arrivo)
 
