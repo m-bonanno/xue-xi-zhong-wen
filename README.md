@@ -8,8 +8,10 @@ Benvenuto nella wiki italiana della grammatica cinese! Questa è una traduzione 
 
 - [**A1 - Principiante**](./A1/README.md) - 40 punti grammaticali fondamentali
 - [**A2 - Elementare**](./A2/README.md) - 99 punti grammaticali intermedi
-- B1 - Intermedio (in arrivo)
-- B2 - Intermedio-Avanzato (in arrivo)
+- [**B1 - Intermedio**](./B1/README.md) - 143 punti grammaticali avanzati
+- [**B2 - Intermedio-Avanzato**](./B2/README.md) - 154 punti grammaticali sofisticati
+
+**Totale: 436 punti grammaticali completati** ✅
 
 ### Come Navigare
 
