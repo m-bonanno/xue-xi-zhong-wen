@@ -2,7 +2,7 @@
 
 I confronti tra preposizioni del livello B2 aiutano a distinguere sottili differenze semantiche e d'uso tra preposizioni che hanno funzioni simili ma sfumature diverse nel significato, registro e contesto spaziale, temporale o logico. Questa sezione copre 4 punti grammaticali essenziali.
 
-## 1. Confronto tra "Zai" e "Yu" (在 vs 于)
+## 1. Confronto tra "Zài" e "Yú" (在 vs 于)
 
 ### Differenze Principali
 
@@ -38,7 +38,7 @@ I confronti tra preposizioni del livello B2 aiutano a distinguere sottili differ
 | 会议于明天举行 | huìyì yú míngtiān jǔxíng | La riunione si terrà domani |
 | 学校位于市中心 | xuéxiào wèi yú shì zhōngxīn | La scuola si trova nel centro città |
 
-## 2. Confronto tra "Cong" e "Zi" (从 vs 自)
+## 2. Confronto tra "Cóng" e "Zì" (从 vs 自)
 
 ### Differenze Principali
 
@@ -74,7 +74,7 @@ I confronti tra preposizioni del livello B2 aiutano a distinguere sottili differ
 | 自然而然 | zìrán ér rán | Naturalmente |
 | 自主选择 | zìzhǔ xuǎnzé | Scegliere autonomamente |
 
-## 3. Confronto tra "Dui" e "Xiang" (对 vs 向)
+## 3. Confronto tra "Duì" e "Xiàng" (对 vs 向)
 
 ### Differenze Principali
 
@@ -110,7 +110,7 @@ I confronti tra preposizioni del livello B2 aiutano a distinguere sottili differ
 | 向前进 | xiàng qián jìn | Andare avanti |
 | 向左转 | xiàng zuǒ zhuǎn | Girare a sinistra |
 
-## 4. Confronto tra "Genju" e "Anzhao" (根据 vs 按照)
+## 4. Confronto tra "Gēnjù" e "Ànzhào" (根据 vs 按照)
 
 ### Differenze Principali
 

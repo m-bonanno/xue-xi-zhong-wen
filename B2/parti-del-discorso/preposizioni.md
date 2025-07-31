@@ -2,7 +2,7 @@
 
 Le preposizioni del livello B2 introducono relazioni spaziali, temporali e logiche complesse per espressioni sofisticate. Questa sezione copre 8 punti grammaticali essenziali.
 
-## 1. "Duiyu" per Esprimere "Riguardo a" (对于)
+## 1. "Duìyú" per Esprimere "Riguardo a" (对于)
 
 ### Struttura
 
@@ -31,7 +31,7 @@ Le preposizioni del livello B2 introducono relazioni spaziali, temporali e logic
 - Più formale di 关于
 - Spesso all'inizio delle frasi
 
-## 2. "Zhiyu" per Cambiare Argomento (至于)
+## 2. "Zhìyú" per Cambiare Argomento (至于)
 
 ### Struttura
 
@@ -53,7 +53,7 @@ Le preposizioni del livello B2 introducono relazioni spaziali, temporali e logic
 - Indica transizione nell'argomentazione
 - Spesso contrastivo
 
-## 3. "Weile" per Esprimere Scopo (为了)
+## 3. "Wèile" per Esprimere Scopo (为了)
 
 ### Struttura
 
@@ -83,7 +83,7 @@ Le preposizioni del livello B2 introducono relazioni spaziali, temporali e logic
 - Può precedere o seguire il soggetto
 - Spesso implica sacrificio o sforzo
 
-## 4. "Yinwei" vs "Youyu" per Cause (因为 vs 由于)
+## 4. "Yīnwèi" vs "Yóuyú" per Cause (因为 vs 由于)
 
 ### Struttura con "因为"
 
@@ -118,7 +118,7 @@ Le preposizioni del livello B2 introducono relazioni spaziali, temporali e logic
 | 因为 | Colloquiale | Conversazioni quotidiane |
 | 由于 | Formale | Documenti ufficiali, notizie |
 
-## 5. "Cong...dao..." per Intervalli (从...到...)
+## 5. "Cóng...dào..." per Intervalli (从...到...)
 
 ### Struttura Temporale
 
@@ -155,7 +155,7 @@ Le preposizioni del livello B2 introducono relazioni spaziali, temporali e logic
 | 从理论到实践 | cóng lǐlùn dào shíjiàn | Dalla teoria alla pratica |
 | 从简单到复杂 | cóng jiǎndān dào fùzá | Dal semplice al complesso |
 
-## 6. "Chule...yiwai" per Eccezioni (除了...以外)
+## 6. "Chúle...yǐwài" per Eccezioni (除了...以外)
 
 ### Struttura Esclusiva
 
@@ -184,7 +184,7 @@ Le preposizioni del livello B2 introducono relazioni spaziali, temporali e logic
 | 除了学生以外，老师也参加了 | chúle xuésheng yǐwài, lǎoshī yě cānjiā le | Oltre agli studenti, hanno partecipato anche gli insegnanti |
 | 除了看书以外，我还喜欢看电影 | chúle kàn shū yǐwài, wǒ hái xǐhuan kàn diànyǐng | Oltre a leggere, mi piace anche guardare film |
 
-## 7. "An(zhao)" per Standard e Metodi (按/按照)
+## 7. "Àn(zhào)" per Standard e Metodi (按/按照)
 
 ### Struttura
 
@@ -215,7 +215,7 @@ Le preposizioni del livello B2 introducono relazioni spaziali, temporali e logic
 | 按 | Più breve, standard semplici |
 | 按照 | Più formale, istruzioni dettagliate |
 
-## 8. "Dangzuo" per Considerare Come (当作/当做)
+## 8. "Dàngzuò" per Considerare Come (当作/当做)
 
 ### Struttura
 

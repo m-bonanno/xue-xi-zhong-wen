@@ -2,7 +2,7 @@
 
 I confronti tra avverbi del livello B2 aiutano a distinguere sottili differenze semantiche e d'uso tra avverbi che possono sembrare simili ma hanno sfumature diverse nel significato, registro e contesto d'uso. Questa sezione copre 4 punti grammaticali essenziali.
 
-## 1. Confronto tra "Feichang" e "Shifen" (非常 vs 十分)
+## 1. Confronto tra "Fēicháng" e "Shífēn" (非常 vs 十分)
 
 ### Differenze Principali
 
@@ -45,7 +45,7 @@ I confronti tra avverbi del livello B2 aiutano a distinguere sottili differenze 
 - **十分** ha una connotazione più misurata e controllata
 - **非常** può esprimere emozioni più spontanee
 
-## 2. Confronto tra "Hen" e "Ting" (很 vs 挺)
+## 2. Confronto tra "Hěn" e "Tǐng" (很 vs 挺)
 
 ### Differenze Semantiche
 
@@ -87,7 +87,7 @@ I confronti tra avverbi del livello B2 aiutano a distinguere sottili differenze 
 - **挺** è più tipico del cinese del nord
 - **很** è universalmente compreso e usato
 
-## 3. Confronto tra "Yiding" e "Kending" (一定 vs 肯定)
+## 3. Confronto tra "Yīdìng" e "Kěndìng" (一定 vs 肯定)
 
 ### Differenze di Certezza
 
@@ -136,7 +136,7 @@ I confronti tra avverbi del livello B2 aiutano a distinguere sottili differenze 
 - Entrambi possono essere intercambiabili in molti contesti
 - **一定** ha una sfumatura più volitiva, **肯定** più constatativa
 
-## 4. Confronto tra "Ganggang" e "Gangang" (刚刚 vs 刚)
+## 4. Confronto tra "Gānggāng" e "Gānggang" (刚刚 vs 刚)
 
 ### Differenze Temporali e Stilistiche
 

@@ -2,7 +2,7 @@
 
 I confronti tra congiunzioni del livello B2 aiutano a distinguere sottili differenze semantiche e d'uso tra congiunzioni che hanno funzioni simili ma sfumature diverse nel significato, registro e contesto logico. Questa sezione copre 1 punto grammaticale essenziale.
 
-## Confronto tra "Erqie" e "Bingqie" (而且 vs 并且)
+## Confronto tra "Érqiě" e "Bìngqiě" (而且 vs 并且)
 
 ### Differenze Principali
 
