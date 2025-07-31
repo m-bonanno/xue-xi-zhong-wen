@@ -8,14 +8,14 @@ Questo confronto analizza le differenze tra verbi ausiliari che esprimono necess
 
 #### Necessità forte, obbligo
 
-```
+```text
 Soggetto + 得 + Verbo
 ```
 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我得去上班 | wǒ děi qù shàngbān | Devo andare al lavoro |
 | 你得快点 | nǐ děi kuàidiǎn | Devi sbrigarti |
 | 他得回家了 | tā děi huíjiā le | Deve tornare a casa |
@@ -32,14 +32,14 @@ Soggetto + 得 + Verbo
 
 #### Assenza di necessità
 
-```
+```text
 Soggetto + 不用 + Verbo
 ```
 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你不用担心 | nǐ bùyòng dānxīn | Non c'è bisogno che ti preoccupi |
 | 不用谢 | bùyòng xiè | Non c'è bisogno di ringraziare |
 | 明天不用上班 | míngtiān bùyòng shàngbān | Domani non c'è bisogno di lavorare |
@@ -57,7 +57,7 @@ Soggetto + 不用 + Verbo
 #### Situazioni di Obbligo vs. Libertà
 
 | Contesto | Con 得 | Con 不用 | Atteggiamento |
-|----------|--------|----------|---------------|
+| ---------- | -------- | ---------- | --------------- |
 | Lavoro | 我得去上班 (devo andare al lavoro) | 不用去上班 (non c'è bisogno di andare al lavoro) | Obbligo vs. Libertà |
 | Tempo | 得快点 (devi sbrigarti) | 不用着急 (non c'è fretta) | Urgenza vs. Calma |
 | Cortesia | - | 不用谢 (prego) | - vs. Modestia |
@@ -65,7 +65,7 @@ Soggetto + 不用 + Verbo
 #### Pattern di Risposta
 
 | Domanda | Risposta Affermativa | Risposta Negativa |
-|---------|---------------------|------------------|
+| --------- | --------------------- | ------------------ |
 | 要不要去？ | 得去 (devo andare) | 不用去 (non c'è bisogno di andare) |
 | 需要帮忙吗？ | - | 不用，谢谢 (non serve, grazie) |
 | 要快点吗？ | 得快点 (devi sbrigarti) | 不用着急 (non c'è fretta) |
@@ -75,21 +75,21 @@ Soggetto + 不用 + Verbo
 #### Situazioni di Emergenza
 
 | Cinese | Pinyin | Italiano | Urgenza |
-|--------|--------|----------|---------|
+| -------- | -------- | ---------- | --------- |
 | 得赶紧去医院 | děi gǎnjǐn qù yīyuàn | Devo andare subito in ospedale | Molto alta |
 | 不用叫救护车 | bùyòng jiào jiùhùchē | Non c'è bisogno di chiamare l'ambulanza | Situazione sotto controllo |
 
 #### Situazioni Sociali
 
 | Cinese | Pinyin | Italiano | Contesto |
-|--------|--------|----------|----------|
+| -------- | -------- | ---------- | ---------- |
 | 得穿正式一点 | děi chuān zhèngshì yīdiǎn | Devo vestirmi più formalmente | Evento importante |
 | 不用穿得太正式 | bùyòng chuān de tài zhèngshì | Non c'è bisogno di vestirsi troppo formalmente | Evento informale |
 
 #### Consigli e Rassicurazioni
 
 | Cinese | Pinyin | Italiano | Funzione |
-|--------|--------|----------|----------|
+| -------- | -------- | ---------- | ---------- |
 | 你得多休息 | nǐ děi duō xiūxi | Devi riposare di più | Consiglio forte |
 | 不用太担心 | bùyòng tài dānxīn | Non preoccuparti troppo | Rassicurazione |
 
@@ -103,7 +103,7 @@ Soggetto + 不用 + Verbo
 #### Combinazioni Common
 
 | Con 得 | Con 不用 | Traduzione |
-|--------|----------|------------|
+| -------- | ---------- | ------------ |
 | 得注意 | 不用注意 | dover fare attenzione / non dover fare attenzione |
 | 得小心 | 不用小心 | dover stare attento / non dover stare attento |
 | 得等 | 不用等 | dover aspettare / non dover aspettare |

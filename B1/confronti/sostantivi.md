@@ -8,14 +8,14 @@ Questa sezione confronta sostantivi temporali che spesso creano confusione agli 
 
 #### Uso per momenti specifici nel tempo
 
-```
+```text
 在...的时候 (nel momento in cui, quando)
 ```
 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 小时候我很调皮 | xiǎo shíhou wǒ hěn tiáopí | Quando ero piccolo ero molto vivace |
 | 吃饭的时候别说话 | chīfàn de shíhou bié shuōhuà | Non parlare mentre mangi |
 | 什么时候走？ | shénme shíhou zǒu? | Quando parti? |
@@ -33,7 +33,7 @@ Questa sezione confronta sostantivi temporali che spesso creano confusione agli 
 
 #### Uso per durata e quantità di tempo
 
-```
+```text
 有时间 (avere tempo)
 没时间 (non avere tempo)
 时间 + 量词 (quantità di tempo)
@@ -42,7 +42,7 @@ Questa sezione confronta sostantivi temporali che spesso creano confusione agli 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我没有时间 | wǒ méiyǒu shíjiān | Non ho tempo |
 | 时间过得很快 | shíjiān guò de hěn kuài | Il tempo passa molto velocemente |
 | 浪费时间 | làngfèi shíjiān | Sprecare tempo |
@@ -61,15 +61,15 @@ Questa sezione confronta sostantivi temporali che spesso creano confusione agli 
 #### Domande Temporali
 
 | Domanda | Risposta con 时候 | Risposta con 时间 | Differenza |
-|---------|------------------|------------------|-----------|
-| 什么时候？| 明天的时候 | - | Momento specifico |
-| 多长时间？| - | 两个小时的时间 | Durata |
+| --------- | ------------------ | ------------------ | ----------- |
+| 什么时候？ | 明天的时候 | - | Momento specifico |
+| 多长时间？ | - | 两个小时的时间 | Durata |
 | 有空吗？ | 有空的时候来 | 有时间就来 | Circostanza vs. Disponibilità |
 
 #### Contesti d'Uso
 
 | Contesto | 时候 | 时间 | Funzione |
-|----------|------|------|---------|
+| ---------- | ------ | ------ | --------- |
 | Ricordi | 小时候 | - | Periodo della vita |
 | Programmi | - | 没时间 | Disponibilità |
 | Condizioni | 下雨的时候 | - | Circostanze |
@@ -88,7 +88,7 @@ Questa sezione confronta sostantivi temporali che spesso creano confusione agli 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这个地方很漂亮 | zhège dìfang hěn piàoliang | Questo posto è molto bello |
 | 找个地方坐下 | zhǎo ge dìfang zuòxia | Trova un posto dove sederti |
 | 什么地方？ | shénme dìfang? | Che posto? |
@@ -106,7 +106,7 @@ Questa sezione confronta sostantivi temporali che spesso creano confusione agli 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 会议地点 | huìyì dìdiǎn | Luogo della riunione |
 | 出生地点 | chūshēng dìdiǎn | Luogo di nascita |
 | 犯罪地点 | fànzuì dìdiǎn | Luogo del crimine |
@@ -118,7 +118,7 @@ Questa sezione confronta sostantivi temporali che spesso creano confusione agli 
 #### Formalità
 
 | Contesto | 地方 | 地点 | Preferenza |
-|----------|------|------|-----------|
+| ---------- | ------ | ------ | ----------- |
 | Conversazione | 这个地方不错 | - | Informale |
 | Documenti | - | 工作地点 | Formale |
 | Indicazioni | 在什么地方？ | - | Colloquiale |
@@ -127,7 +127,7 @@ Questa sezione confronta sostantivi temporali che spesso creano confusione agli 
 #### Specificità
 
 | Uso | 地方 | 地点 | Funzione |
-|-----|------|------|---------|
+| ----- | ------ | ------ | --------- |
 | Generico | 找个地方 | - | Area approssimativa |
 | Preciso | - | 确切地点 | Coordinate esatte |
 | Metaforico | 心中的地方 | - | Concetto astratto |
@@ -138,14 +138,14 @@ Questa sezione confronta sostantivi temporali che spesso creano confusione agli 
 #### Situazioni Quotidiane
 
 | Cinese | Pinyin | Italiano | Registro |
-|--------|--------|----------|----------|
+| -------- | -------- | ---------- | ---------- |
 | 我们去哪个地方吃饭？ | wǒmen qù nǎge dìfang chīfàn? | Dove andiamo a mangiare? | Colloquiale |
 | 请确认用餐地点 | qǐng quèrèn yòngcān dìdiǎn | Si prega di confermare il luogo del pasto | Formale |
 
 #### Documenti e Moduli
 
 | Cinese | Pinyin | Italiano | Contesto |
-|--------|--------|----------|----------|
+| -------- | -------- | ---------- | ---------- |
 | 居住地方 | jūzhù dìfang | Luogo di residenza | Informale |
 | 居住地点 | jūzhù dìdiǎn | Indirizzo di residenza | Ufficiale |
 

@@ -6,7 +6,7 @@ Le particelle A2 introducono concetti cruciali di aspetto temporale e modalità 
 
 ### Struttura
 
-```
+```text
 Soggetto + Predicato + 了
 ```
 
@@ -17,7 +17,7 @@ Soggetto + Predicato + 了
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 25 岁 了。 | Wǒ èrshíwǔ suì le. | Ho 25 anni (ora, sono cresciuto). |
 | 天 黑 了。 | Tiān hēi le. | Si è fatto buio. |
 | 他 高 了。 | Tā gāo le. | È diventato più alto. |
@@ -28,7 +28,7 @@ Soggetto + Predicato + 了
 
 ### Struttura
 
-```
+```text
 Frase + 吧
 ```
 
@@ -39,7 +39,7 @@ Frase + 吧
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 那 好 吧。 | Nà hǎo ba. | Va bene allora (con riluttanza). |
 | 算了 吧。 | Suànle ba. | Lascia perdere. |
 
@@ -49,7 +49,7 @@ Frase + 吧
 
 ### Struttura
 
-```
+```text
 Soggetto + Verbo + 了
 ```
 
@@ -60,7 +60,7 @@ Soggetto + Verbo + 了
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 应该 问 老师。我 问 了。 | Nǐ yīnggāi wèn lǎoshī. Wǒ wèn le. | Dovresti chiedere al professore. L'ho già fatto. |
 | 他 来 了 吗？ | Tā lái le ma? | È già venuto? |
 
@@ -70,7 +70,7 @@ Soggetto + Verbo + 了
 
 ### Struttura
 
-```
+```text
 Soggetto + Verbo + 了 + Oggetto
 ```
 
@@ -81,7 +81,7 @@ Soggetto + Verbo + 了 + Oggetto
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 吃 了 两 个 苹果。 | Wǒ chī le liǎng gè píngguǒ. | Ho mangiato due mele. |
 | 她 买 了 一 件 衣服。 | Tā mǎi le yī jiàn yīfu. | Ha comprato un vestito. |
 
@@ -91,7 +91,7 @@ Soggetto + Verbo + 了 + Oggetto
 
 ### Struttura
 
-```
+```text
 Soggetto + Verbo + 过 + (Oggetto)
 ```
 
@@ -102,7 +102,7 @@ Soggetto + Verbo + 过 + (Oggetto)
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 去 过 中国。 | Wǒ qù guò Zhōngguó. | Sono stato in Cina (ho l'esperienza). |
 | 你 吃 过 北京烤鸭 吗？ | Nǐ chī guò Běijīng kǎoyā ma? | Hai mai mangiato l'anatra laccata di Pechino? |
 
@@ -112,7 +112,7 @@ Soggetto + Verbo + 过 + (Oggetto)
 
 ### Struttura
 
-```
+```text
 不/没(有) + Verbo + 了
 ```
 
@@ -123,7 +123,7 @@ Soggetto + Verbo + 过 + (Oggetto)
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 不 想 吃 了。 | Wǒ bù xiǎng chī le. | Non voglio più mangiare. |
 | 他 没有 钱 了。 | Tā méiyǒu qián le. | Non ha più soldi. |
 
@@ -133,7 +133,7 @@ Soggetto + Verbo + 过 + (Oggetto)
 
 ### Struttura
 
-```
+```text
 Situazione nuova + 了
 ```
 
@@ -144,7 +144,7 @@ Situazione nuova + 了
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 吃饭 了！ | Chīfàn le! | È ora di mangiare! |
 | 上课 了。 | Shàngkè le. | È ora della lezione. |
 
@@ -154,7 +154,7 @@ Situazione nuova + 了
 
 ### Struttura
 
-```
+```text
 Frase + 呢
 ```
 
@@ -165,7 +165,7 @@ Frase + 呢
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 不 要 回家。还 早 呢！ | Wǒ bù yào huíjiā. Hái zǎo ne! | Non voglio tornare a casa. È ancora presto! |
 | 他 在 做 什么 呢？ | Tā zài zuò shénme ne? | Cosa sta facendo? |
 
@@ -175,7 +175,7 @@ Frase + 呢
 
 ### Struttura
 
-```
+```text
 Frase + 啊
 ```
 
@@ -186,7 +186,7 @@ Frase + 啊
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 是 啊！ | Shì a! | Infatti! / È vero! |
 | 谁 啊？ | Shuí a? | Chi è? |
 | 好 香 啊！ | Hǎo xiāng a! | Che buon profumo! |
@@ -197,7 +197,7 @@ Frase + 啊
 
 ### Struttura
 
-```
+```text
 Affermazione + 吧
 ```
 
@@ -208,7 +208,7 @@ Affermazione + 吧
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这样 不 太 好 吧。 | Zhèyàng bù tài hǎo ba. | Così non va molto bene (diplomaticamente). |
 | 你 说 得 对 吧。 | Nǐ shuō de duì ba. | Hai ragione (suppongo). |
 
@@ -218,7 +218,7 @@ Affermazione + 吧
 
 ### Struttura
 
-```
+```text
 的/得/地 + ...
 ```
 
@@ -233,7 +233,7 @@ Tre forme di "de" con funzioni diverse:
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 红色 的 车 | hóngsè de chē | macchina rossa |
 | 跑 得 很 快 | pǎo de hěn kuài | correre velocemente |
 | 慢慢 地 走 | mànmàn de zǒu | camminare lentamente |
@@ -244,7 +244,7 @@ Tre forme di "de" con funzioni diverse:
 
 ### Struttura
 
-```
+```text
 Verbo + 过 + 了
 ```
 
@@ -255,14 +255,14 @@ La combinazione "过了" indica che un'esperienza passata ha rilevanza per la si
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 她 吃 过 了。 | Tā chī guò le. | Ha già mangiato (ed è rilevante ora). |
 | 我 去 过 了 那个 地方。 | Wǒ qù guò le nàge dìfang. | Sono già stato in quel posto. |
 
 ### Differenze tra le particelle temporali
 
 | Particella | Funzione | Esempio | Significato |
-|------------|----------|---------|-------------|
+| ------------ | ---------- | --------- | ------------- |
 | **了** (completamento) | Azione completata | 吃了 | Ha mangiato |
 | **了** (cambiamento) | Nuovo stato | 他高了 | È diventato alto |
 | **过** | Esperienza passata | 去过 | È stato (ha esperienza) |
@@ -272,14 +272,14 @@ La combinazione "过了" indica che un'esperienza passata ha rilevanza per la si
 
 #### Con "了"
 
-```
+```text
 Q: 你吃饭了吗？ (Hai mangiato?)
 A: 吃了。/ 还没吃。 (Sì. / Non ancora.)
 ```
 
 #### Con "过"
 
-```
+```text
 Q: 你去过中国吗？ (Sei mai stato in Cina?)
 A: 去过。/ 没去过。 (Ci sono stato. / Non ci sono mai stato.)
 ```

@@ -6,7 +6,7 @@ I sintagmi nominali A2 introducono modi più sofisticati per esprimere quantità
 
 ### Struttura
 
-```
+```text
 一些 + Sostantivo
 ```
 
@@ -17,7 +17,7 @@ I sintagmi nominali A2 introducono modi più sofisticati per esprimere quantità
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 买 了 一些 苹果。 | Wǒ mǎi le yīxiē píngguǒ. | Ho comprato alcune mele. |
 | 桌子 上 有 一些 书。 | Zhuōzi shàng yǒu yīxiē shū. | Sul tavolo ci sono alcuni libri. |
 | 她 给 了 我 一些 建议。 | Tā gěi le wǒ yīxiē jiànyì. | Mi ha dato alcuni consigli. |
@@ -25,7 +25,7 @@ I sintagmi nominali A2 introducono modi più sofisticati per esprimere quantità
 ### Con sostantivi non numerabili
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 喝 一些 水。 | Hē yīxiē shuǐ. | Bere un po' d'acqua. |
 | 需要 一些 时间。 | Xūyào yīxiē shíjiān. | Aver bisogno di un po' di tempo. |
 | 有 一些 问题。 | Yǒu yīxiē wèntí. | Ci sono alcuni problemi. |
@@ -36,7 +36,7 @@ I sintagmi nominali A2 introducono modi più sofisticati per esprimere quantità
 
 ### Struttura
 
-```
+```text
 有的 + Sostantivo + Verbo/Aggettivo
 ```
 
@@ -47,7 +47,7 @@ I sintagmi nominali A2 introducono modi più sofisticati per esprimere quantità
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 学生 很 多。有的 喜欢 数学，有的 喜欢 英语。 | Xuésheng hěn duō. Yǒude xǐhuan shùxué, yǒude xǐhuan Yīngyǔ. | Ci sono molti studenti. Alcuni amano la matematica, altri l'inglese. |
 | 这些 书 有的 很 有 意思，有的 很 无聊。 | Zhèxiē shū yǒude hěn yǒu yìsi, yǒude hěn wúliáo. | Di questi libri, alcuni sono interessanti, altri noiosi. |
 | 水果 有的 很 甜，有的 很 酸。 | Shuǐguǒ yǒude hěn tián, yǒude hěn suān. | Della frutta, alcuni sono dolci, altri aspri. |
@@ -55,21 +55,21 @@ I sintagmi nominali A2 introducono modi più sofisticati per esprimere quantità
 ### Uso contrastivo con "有的...有的..."
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 有的 人 喜欢 冬天，有的 人 喜欢 夏天。 | Yǒude rén xǐhuan dōngtiān, yǒude rén xǐhuan xiàtiān. | Alcune persone amano l'inverno, altre l'estate. |
 | 电影 有的 好看，有的 不 好看。 | Diànyǐng yǒude hǎokàn, yǒude bù hǎokàn. | Dei film, alcuni sono belli, altri no. |
 
 ### Differenze tra "一些" e "有的"
 
 | Termine | Funzione | Contesto | Esempio d'uso |
-|---------|----------|----------|---------------|
+| --------- | ---------- | ---------- | --------------- |
 | **一些** | Quantificatore indefinito | Introdurre nuovi elementi | 买一些书 (comprare alcuni libri) |
 | **有的** | Partitivo | Riferirsi a parti di un gruppo | 有的书很贵 (alcuni libri sono cari) |
 
 ### Confronto con altri quantificatori indefiniti
 
 | Quantificatore | Significato | Quantità implicita | Esempio |
-|----------------|-------------|-------------------|---------|
+| ---------------- | ------------- | ------------------- | --------- |
 | **一些** | alcuni/un po' | quantità media | 一些朋友 (alcuni amici) |
 | **几** | alcuni (2-9) | piccola quantità | 几个朋友 (alcuni amici) |
 | **有的** | alcuni di... | parte di un gruppo | 有的朋友 (alcuni degli amici) |
@@ -79,7 +79,7 @@ I sintagmi nominali A2 introducono modi più sofisticati per esprimere quantità
 
 #### Con verbi
 
-```
+```text
 买一些 (mǎi yīxiē) - comprare alcuni
 做一些 (zuò yīxiē) - fare alcune
 给一些 (gěi yīxiē) - dare alcuni/un po'
@@ -88,7 +88,7 @@ I sintagmi nominali A2 introducono modi più sofisticati per esprimere quantità
 #### Con aggettivi descrittivi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 一些 有 意思 的 书。 | Yīxiē yǒu yìsi de shū. | Alcuni libri interessanti. |
 | 一些 便宜 的 东西。 | Yīxiē piányi de dōngxi. | Alcune cose economiche. |
 | 一些 新 的 朋友。 | Yīxiē xīn de péngyou. | Alcuni nuovi amici. |
@@ -97,14 +97,14 @@ I sintagmi nominali A2 introducono modi più sofisticati per esprimere quantità
 
 #### Pattern contrastivo completo
 
-```
+```text
 有的...有的...还有的... (alcuni...altri...e altri ancora...)
 ```
 
 #### Esempi di contrasti multipli
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 有的 高，有的 矮，还有的 不 高 不 矮。 | Yǒude gāo, yǒude ǎi, hái yǒude bù gāo bù ǎi. | Alcuni sono alti, altri bassi, e altri ancora né alti né bassi. |
 
 ### Uso in frasi negative
@@ -112,14 +112,14 @@ I sintagmi nominali A2 introducono modi più sofisticati per esprimere quantità
 #### Con "一些"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 没 买 一些 苹果。 | Wǒ méi mǎi yīxiē píngguǒ. | Non ho comprato alcune mele. |
 | 没有 一些 时间。 | Méiyǒu yīxiē shíjiān. | Non ho un po' di tempo. |
 
 #### Con "有的"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 有的 不 太 好。 | Yǒude bù tài hǎo. | Alcuni non sono molto buoni. |
 | 有的 人 不 喜欢。 | Yǒude rén bù xǐhuan. | Alcune persone non amano. |
 
@@ -132,7 +132,7 @@ I sintagmi nominali A2 introducono modi più sofisticati per esprimere quantità
 
 ### Espressioni comuni
 
-```
+```text
 一些人 (yīxiē rén) - alcune persone
 一些时候 (yīxiē shíhou) - alcune volte
 一些地方 (yīxiē dìfang) - alcuni posti

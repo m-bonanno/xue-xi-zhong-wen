@@ -4,11 +4,11 @@ Questo file contiene le combinazioni avanzate di avverbi con aggettivi per il li
 
 ## Punti Grammaticali (3 totali)
 
-### 1. Aggettivi con "name" e "zheme" (那么/这么)
+### 1. Aggettivi con "name" e "Zheme" (那么/这么)
 
 #### Struttura
 
-```
+```text
 那么/这么 + Aggettivo
 ```
 
@@ -24,7 +24,7 @@ Esprime un grado intenso di una qualità, equivalente a "così", "tanto", "a tal
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 怎么 那么 忙？ | Nǐ zěnme nàme máng? | Perché sei così occupato? |
 | 没想到 这么 难。 | Méi xiǎngdào zhème nán. | Non pensavo fosse così difficile. |
 | 天气 那么 冷，别 出去 了。 | Tiānqì nàme lěng, bié chūqù le. | Fa così freddo, non uscire. |
@@ -36,7 +36,7 @@ Esprime un grado intenso di una qualità, equivalente a "così", "tanto", "a tal
 ##### Con domande (spesso con 怎么)
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 怎么 这么 吵？ | Zěnme zhème chǎo? | Perché c'è così tanto rumore? |
 | 你 怎么 那么 高兴？ | Nǐ zěnme nàme gāoxìng? | Perché sei così felice? |
 | 怎么 这么 热？ | Zěnme zhème rè? | Perché fa così caldo? |
@@ -44,16 +44,16 @@ Esprime un grado intenso di una qualità, equivalente a "così", "tanto", "a tal
 ##### Con esclamazioni
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 太阳 这么 大！ | Tàiyáng zhème dà! | Il sole è così forte! |
 | 人 那么 多！ | Rén nàme duō! | C'è così tanta gente! |
 | 时间 过 得 这么 快！ | Shíjiān guò de zhème kuài! | Il tempo passa così velocemente! |
 
-### 2. Esprimere "abbastanza" con "ting" (挺)
+### 2. Esprimere "abbastanza" con "Ting" (挺)
 
 #### Struttura
 
-```
+```text
 挺 + Aggettivo + 的
 ```
 
@@ -70,7 +70,7 @@ Esprime un grado moderato ma positivo, equivalente a "abbastanza", "piuttosto", 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 男朋友 挺 帅 的。 | Nǐ nánpéngyǒu tǐng shuài de. | Il tuo ragazzo è piuttosto bello. |
 | 这 部 电影 挺 有趣 的。 | Zhè bù diànyǐng tǐng yǒuqù de. | Questo film è abbastanza interessante. |
 | 他 说 中文 说 得 挺 好 的。 | Tā shuō Zhōngwén shuō de tǐng hǎo de. | Parla cinese piuttosto bene. |
@@ -91,11 +91,11 @@ Esprime un grado moderato ma positivo, equivalente a "abbastanza", "piuttosto", 
 - Molto comune nel parlato
 - Crea un'atmosfera amichevole e informale
 
-### 3. Esprimere "piuttosto" con "bijiao" (比较)
+### 3. Esprimere "piuttosto" con "Bijiao" (比较)
 
 #### Struttura
 
-```
+```text
 Soggetto + 比较 + Aggettivo
 ```
 
@@ -112,7 +112,7 @@ Esprime un grado moderato, equivalente a "piuttosto", "relativamente", "abbastan
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这个 问题 比较 简单。 | Zhège wèntí bǐjiào jiǎndān. | Questo problema è relativamente semplice. |
 | 他 比较 内向。 | Tā bǐjiào nèixiàng. | È piuttosto introverso. |
 | 这 条 路 比较 安全。 | Zhè tiáo lù bǐjiào ānquán. | Questa strada è relativamente sicura. |
@@ -122,7 +122,7 @@ Esprime un grado moderato, equivalente a "piuttosto", "relativamente", "abbastan
 #### Confronto con altre espressioni
 
 | Espressione | Grado | Formalità | Sfumatura |
-|-------------|-------|-----------|-----------|
+| ------------- | ------- | ----------- | ----------- |
 | 很 (hěn) | Standard | Neutro | Grado normale |
 | 挺 (tǐng) | Moderato+ | Informale | Valutazione positiva |
 | 比较 (bǐjiào) | Moderato | Formale | Confronto implicito |
@@ -132,7 +132,7 @@ Esprime un grado moderato, equivalente a "piuttosto", "relativamente", "abbastan
 #### Esempi comparativi
 
 | Grado | Cinese | Pinyin | Italiano |
-|--------|--------|--------|----------|
+| -------- | -------- | -------- | ---------- |
 | Basso | 不怎么好 | bù zěnme hǎo | non molto buono |
 | Moderato- | 比较好 | bǐjiào hǎo | piuttosto buono |
 | Moderato+ | 挺好的 | tǐng hǎo de | abbastanza buono |
@@ -142,7 +142,7 @@ Esprime un grado moderato, equivalente a "piuttosto", "relativamente", "abbastan
 #### Contesti formali con 比较
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这个 方案 比较 可行。 | Zhège fāng'àn bǐjiào kěxíng. | Questo piano è relativamente fattibile. |
 | 情况 比较 复杂。 | Qíngkuàng bǐjiào fùzá. | La situazione è piuttosto complessa. |
 | 结果 比较 满意。 | Jiéguǒ bǐjiào mǎnyì. | Il risultato è relativamente soddisfacente. |
@@ -166,7 +166,7 @@ Esprime un grado moderato, equivalente a "piuttosto", "relativamente", "abbastan
 ## Errori comuni da evitare
 
 | ❌ Sbagliato | ✅ Corretto | Spiegazione |
-|-------------|-------------|-------------|
+| ------------- | ------------- | ------------- |
 | 挺好 | 挺好的 | Manca la particella 的 |
 | 很比较好 | 比较好 | Non combinare 很 con 比较 |
 | 这么的大 | 这么大 | Non aggiungere 的 dopo 这么 |

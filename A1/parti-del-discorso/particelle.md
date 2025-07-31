@@ -6,7 +6,7 @@ Le particelle in cinese sono parole funzionali che modificano il significato o l
 
 ### Struttura
 
-```
+```text
 Pronome + Sostantivo (familiare/intimo)
 ```
 
@@ -17,7 +17,7 @@ Con pronomi e relazioni strette o intime, si può omettere "的". Questo rende l
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 女朋友 | wǒ nǚpéngyǒu | la mia ragazza |
 | 他 妈妈 | tā māma | sua mamma |
 | 你 名字 | nǐ míngzi | il tuo nome |
@@ -40,7 +40,7 @@ Con pronomi e relazioni strette o intime, si può omettere "的". Questo rende l
 
 ### Struttura
 
-```
+```text
 Sostantivo1 + 的 + Sostantivo2
 ```
 
@@ -51,14 +51,14 @@ Sostantivo1 + 的 + Sostantivo2
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 的 老师 | wǒ de lǎoshī | il mio insegnante |
 | 学校 的 图书馆 | xuéxiào de túshūguǎn | la biblioteca della scuola |
 | 中国 的 文化 | Zhōngguó de wénhuà | la cultura della Cina |
 
 ### Altri usi di "的"
 
-```
+```text
 红色的车 = macchina rossa (aggettivo + 的 + sostantivo)
 hóngsè de chē
 
@@ -81,7 +81,7 @@ zuótiān mǎi de shū
 
 ### Struttura
 
-```
+```text
 Frase/Domanda + 呢？
 ```
 
@@ -92,7 +92,7 @@ Frase/Domanda + 呢？
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 很 好。你 呢？ | Wǒ hěn hǎo. Nǐ ne? | Sto bene. E tu? |
 | 他 在 家，她 呢？ | Tā zài jiā, tā ne? | Lui è a casa, e lei? |
 | 这个 不 错，那个 呢？ | Zhège bù cuò, nàge ne? | Questo non è male, e quello? |
@@ -105,7 +105,7 @@ Frase/Domanda + 呢？
 
 ### Esempi in contesto
 
-```
+```text
 A: 我是学生。
 B: 你呢？
 A: 我也是学生。
@@ -127,7 +127,7 @@ A: Anch'io sono uno studente.
 
 ### Struttura
 
-```
+```text
 Comando/Suggerimento + 吧
 ```
 
@@ -138,7 +138,7 @@ Comando/Suggerimento + 吧
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我们 走 吧。 | Wǒmen zǒu ba. | Andiamo. / Su, andiamocene. |
 | 你 休息 吧。 | Nǐ xiūxi ba. | Riposati pure. |
 | 吃饭 吧！ | Chīfàn ba! | Mangiamo! |
@@ -153,7 +153,7 @@ Comando/Suggerimento + 吧
 ### Confronto con e senza "吧"
 
 | Senza "吧" | Con "吧" | Differenza |
-|------------|----------|------------|
+| ------------ | ---------- | ------------ |
 | 我们走！ | 我们走吧。 | Comando diretto → Suggerimento gentile |
 | 你去！ | 你去吧。 | Ordine → Invito |
 | 吃饭！ | 吃饭吧！ | Comando → Proposta amichevole |
@@ -170,7 +170,7 @@ Comando/Suggerimento + 吧
 
 ### "的" + "呢"
 
-```
+```text
 你的书呢？
 Nǐ de shū ne?
 Dov'è il tuo libro? (E il tuo libro?)
@@ -185,7 +185,7 @@ Quando si combinano più particelle, l'ordine è importante:
 
 ### Esempi comuni nella conversazione
 
-```
+```text
 A: 我想吃中国菜。
 B: 好吧。你想吃什么的？
 A: 四川菜吧。

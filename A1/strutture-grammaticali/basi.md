@@ -6,7 +6,7 @@ Le strutture grammaticali di base sono i mattoni fondamentali per costruire fras
 
 ### Struttura
 
-```
+```text
 Soggetto + Verbo + (Oggetto)
 ```
 
@@ -17,23 +17,23 @@ L'ordine delle parole in cinese segue la struttura Soggetto-Verbo-Oggetto (SVO),
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 爱 你。 | Wǒ ài nǐ. | Ti amo. |
 | 他 喝 茶。 | Tā hē chá. | Beve tè. |
 | 学生 读 书。 | Xuésheng dú shū. | Gli studenti leggono libri. |
 
 ### Espansioni dell'ordine base
 
-```
+```text
 基本: 我 吃 苹果。
      Wǒ chī píngguǒ.
      Mangio una mela.
 
-+ 时间: 我 今天 吃 苹果。
+- 时间: 我 今天 吃 苹果。
        Wǒ jīntiān chī píngguǒ.
        Oggi mangio una mela.
 
-+ 地点: 我 今天 在家 吃 苹果。
+- 地点: 我 今天 在家 吃 苹果。
        Wǒ jīntiān zài jiā chī píngguǒ.
        Oggi mangio una mela a casa.
 ```
@@ -51,7 +51,7 @@ L'ordine delle parole in cinese segue la struttura Soggetto-Verbo-Oggetto (SVO),
 
 ### Struttura
 
-```
+```text
 A + 是 + B
 ```
 
@@ -62,7 +62,7 @@ A + 是 + B
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 是 学生。 | Wǒ shì xuésheng. | Sono uno studente. |
 | 他 是 老师。 | Tā shì lǎoshī. | È un insegnante. |
 | 这 是 我 的 书。 | Zhè shì wǒ de shū. | Questo è il mio libro. |
@@ -76,7 +76,7 @@ A + 是 + B
 
 ### Negazione di "是"
 
-```
+```text
 我不是学生。
 Wǒ bù shì xuésheng.
 Non sono uno studente.
@@ -84,7 +84,7 @@ Non sono uno studente.
 
 ### Domande con "是"
 
-```
+```text
 Q: 你是老师吗？
 A: 是的，我是老师。/ 不，我不是老师。
 
@@ -98,7 +98,7 @@ A: Sì, sono un insegnante. / No, non sono un insegnante.
 
 ### Struttura
 
-```
+```text
 太 + Aggettivo + 了
 ```
 
@@ -109,14 +109,14 @@ A: Sì, sono un insegnante. / No, non sono un insegnante.
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 太 好 了！ | Tài hǎo le! | Fantastico! / Troppo bello! |
 | 太 贵 了。 | Tài guì le. | È troppo caro. |
 | 太 难 了。 | Tài nán le. | È troppo difficile. |
 
 ### Emozioni con "太...了"
 
-```
+```text
 太开心了！ = Sono troppo felice!
 太累了。 = Sono troppo stanco.
 太好笑了！ = È troppo divertente!
@@ -125,7 +125,7 @@ A: Sì, sono un insegnante. / No, non sono un insegnante.
 
 ### Senza "了" (meno enfatico)
 
-```
+```text
 太贵。 = È troppo caro. (fatto oggettivo)
 太贵了！ = È troppo caro! (reazione emotiva)
 ```
@@ -142,7 +142,7 @@ A: Sì, sono un insegnante. / No, non sono un insegnante.
 
 ### Struttura
 
-```
+```text
 Sostantivo + 很 + Aggettivo
 ```
 
@@ -153,7 +153,7 @@ In cinese, per dire che qualcosa "è + aggettivo", si usa "很" (molto) anche qu
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 很 好。 | Wǒ hěn hǎo. | Sto bene. |
 | 天气 很 热。 | Tiānqì hěn rè. | Il tempo è caldo. |
 | 中文 很 难。 | Zhōngwén hěn nán. | Il cinese è difficile. |
@@ -162,7 +162,7 @@ In cinese, per dire che qualcosa "è + aggettivo", si usa "很" (molto) anche qu
 
 In cinese, l'aggettivo da solo ha una sfumatura comparativa:
 
-```
+```text
 我好。 = Sto meglio (di prima/altri)
 我很好。 = Sto bene (stato generale)
 
@@ -173,7 +173,7 @@ In cinese, l'aggettivo da solo ha una sfumatura comparativa:
 ### Altri intensificatori
 
 | Intensificatore | Significato | Esempio |
-|----------------|-------------|---------|
+| ---------------- | ------------- | --------- |
 | 很 (hěn) | Molto (neutro) | 很好 |
 | 非常 (fēicháng) | Molto (enfatico) | 非常好 |
 | 特别 (tèbié) | Particolarmente | 特别好 |
@@ -181,7 +181,7 @@ In cinese, l'aggettivo da solo ha una sfumatura comparativa:
 
 ### Negazione con aggettivi
 
-```
+```text
 不太好 = Non molto bene
 不是很好 = Non è molto bene
 不好 = Non bene / Male
@@ -193,7 +193,7 @@ In cinese, l'aggettivo da solo ha una sfumatura comparativa:
 
 ### Ordine complesso
 
-```
+```text
 我 昨天 在 学校 很 忙。
 Wǒ zuótiān zài xuéxiào hěn máng.
 Ieri a scuola ero molto occupato.
@@ -203,14 +203,14 @@ Struttura: Soggetto + Tempo + Luogo + 很 + Aggettivo
 
 ### "是" + aggettivo (enfatico)
 
-```
+```text
 他是很聪明。 (enfasi su "molto intelligente")
 他很聪明。 (semplicemente "intelligente")
 ```
 
 ### "太" vs "很"
 
-```
+```text
 很好 = Bene/Buono
 太好了 = Fantastico!/Troppo bello!
 
@@ -220,7 +220,7 @@ Struttura: Soggetto + Tempo + Luogo + 很 + Aggettivo
 
 ### Conversazione tipica
 
-```
+```text
 A: 你好吗？
 B: 我很好，谢谢。你呢？
 A: 我也很好。今天天气太好了！

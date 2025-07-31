@@ -6,7 +6,7 @@ Gli aggettivi in cinese A2 introducono strutture più complesse per esprimere in
 
 ### Struttura
 
-```
+```text
 Aggettivo + 死了
 ```
 
@@ -17,7 +17,7 @@ Aggettivo + 死了
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 今天 累 死了。 | Wǒ jīntiān lèi sǐle. | Oggi sono stanco morto. |
 | 这个 考试 难 死了。 | Zhège kǎoshì nán sǐle. | Questo esame è difficile da morire. |
 | 外面 冷 死了。 | Wàimiàn lěng sǐle. | Fuori fa un freddo terribile. |
@@ -43,7 +43,7 @@ Aggettivo + 死了
 ### Confronto con altre intensificazioni
 
 | Struttura | Livello | Esempio | Traduzione |
-|-----------|---------|---------|-------------|
+| ----------- | --------- | --------- | ------------- |
 | 很 + Agg | Neutro | 很累 | Stanco |
 | 太 + Agg + 了 | Enfatico | 太累了 | Troppo stanco |
 | Agg + 死了 | Estremo/Colloquiale | 累死了 | Stanco morto |
@@ -56,7 +56,7 @@ Aggettivo + 死了
 
 ### Esempi in conversazione
 
-```
+```text
 A: 你怎么了？
 B: 我累死了！工作太多了。
 A: 那你早点休息吧。

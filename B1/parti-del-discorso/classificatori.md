@@ -8,7 +8,7 @@ Questo file contiene i classificatori avanzati per il livello B1.
 
 #### Struttura
 
-```
+```text
 Classificatore + Classificatore
 ```
 
@@ -19,7 +19,7 @@ La ripetizione del classificatore esprime totalità distributiva, equivale a "og
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 个 个 都 很 好。 | Gè gè dōu hěn hǎo. | Ognuno è molto bravo. |
 | 人 人 都 知道。 | Rén rén dōu zhīdao. | Tutti lo sanno. (ogni singola persona) |
 | 家 家 都 有 电视。 | Jiā jiā dōu yǒu diànshì. | Ogni famiglia ha la televisione. |
@@ -29,7 +29,7 @@ La ripetizione del classificatore esprime totalità distributiva, equivale a "og
 #### Classificatori comuni ridondanti
 
 | Ridondanza | Significato | Esempio |
-|------------|-------------|---------|
+| ------------ | ------------- | --------- |
 | 个个 | ognuno/ciascuno | 个个都聪明 |
 | 人人 | tutti (distributivo) | 人人平等 |
 | 家家 | ogni famiglia | 家家户户 |
@@ -48,7 +48,7 @@ La ripetizione del classificatore esprime totalità distributiva, equivale a "og
 #### Differenza con forme simili
 
 | Forma | Significato | Esempio |
-|-------|-------------|---------|
+| ------- | ------------- | --------- |
 | 一个一个 | uno per uno | 一个一个地说 |
 | 个个 | ognuno (enfatico) | 个个都好 |
 | 每个 | ogni/ciascuno | 每个人都来了 |

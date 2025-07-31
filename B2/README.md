@@ -1,4 +1,5 @@
 # Grammatica Cinese - Livello B2
+
 Questo livello B2 (Intermedio-Avanzato) è il quarto livello secondo il Quadro Comune Europeo ed è **grossomodo equivalente agli HSK 4-5**.
 
 ## Statistiche del Livello B2
@@ -9,7 +10,9 @@ Questo livello B2 (Intermedio-Avanzato) è il quarto livello secondo il Quadro C
 - **HSK equivalente**: 4-5
 
 ## Indice Generale
+
 ### 📚 [Parti del Discorso](./parti-del-discorso/)
+
 **102 punti grammaticali** suddivisi in:
 
 - **[Aggettivi](./parti-del-discorso/aggettivi.md)** (4 punti) - Complementi aggettivali intensivi, eccesso
@@ -26,6 +29,7 @@ Questo livello B2 (Intermedio-Avanzato) è il quarto livello secondo il Quadro C
 - **[Frasi Verbali](./parti-del-discorso/frasi-verbali.md)** (29 punti) - Combinazioni, enfasi, passivo, complementi avanzati
 
 ### 🏗️ [Strutture Grammaticali](./strutture-grammaticali/)
+
 **41 punti grammaticali** suddivisi in:
 
 - **[Avverbi con Aggettivi](./strutture-grammaticali/avverbi-con-aggettivi.md)** (1 punto) - Enfasi speciale
@@ -39,6 +43,7 @@ Questo livello B2 (Intermedio-Avanzato) è il quarto livello secondo il Quadro C
 - **[Espressioni Condizionali](./strutture-grammaticali/espressioni-condizionali.md)** (9 punti) - Costruzioni sofisticate per ipotesi e contrasti
 
 ### ⚖️ [Confronti](./confronti/)
+
 **11 punti grammaticali** che confrontano parole simili:
 
 - **[Avverbi](./confronti/avverbi.md)** (4 punti) - Confronti avanzati tra avverbi
@@ -48,7 +53,9 @@ Questo livello B2 (Intermedio-Avanzato) è il quarto livello secondo il Quadro C
 - **[Funzioni Separate](./confronti/funzioni-separate.md)** (1 punto) - Distinzioni semantiche
 
 ## Caratteristiche del Livello B2
+
 ### Competenze Linguistiche
+
 A questo livello gli studenti dovrebbero essere in grado di:
 
 - Comprendere testi complessi e astratti
@@ -96,6 +103,7 @@ A questo livello gli studenti dovrebbero essere in grado di:
 - **Precisione**: A questo livello la precisione semantica diventa cruciale
 
 ## 📚 Prerequisiti
+
 Prima di iniziare B2, assicurati di aver completato:
 
 - **[A1 - Principiante](../A1/README.md)** - 40 punti grammaticali fondamentali

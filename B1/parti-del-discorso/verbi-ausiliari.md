@@ -4,11 +4,11 @@ Questo file contiene i verbi ausiliari avanzati per il livello B1.
 
 ## Punti Grammaticali (2 totali)
 
-### 1. Esprimere "non c'è bisogno" con "buyong" (不用)
+### 1. Esprimere "non c'è bisogno" con "Buyong" (不用)
 
 #### Struttura
 
-```
+```text
 Soggetto + 不用 + Frase Verbale
 ```
 
@@ -19,7 +19,7 @@ Indica che qualcosa non è necessario, equivale a "non c'è bisogno", "non serve
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 不用 担心。 | Bùyòng dānxīn. | Non c'è bisogno di preoccuparsi. |
 | 你 不用 来。 | Nǐ bùyòng lái. | Non devi venire. |
 | 不用 客气。 | Bùyòng kèqì. | Non fare complimenti. |
@@ -33,11 +33,11 @@ Indica che qualcosa non è necessario, equivale a "non c'è bisogno", "non serve
 - **不能**: non potere (impossibilità)
 - **不可以**: non essere permesso (divieto)
 
-### 2. Esprimere "dovere" con "dei" (得)
+### 2. Esprimere "dovere" con "Dei" (得)
 
 #### Struttura
 
-```
+```text
 得 + Verbo
 ```
 
@@ -48,7 +48,7 @@ Indica necessità o obbligo forte, equivale a "dovere", "bisognare".
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我们 得 走 了。 | Wǒmen děi zǒu le. | Dobbiamo andare. |
 | 你 得 小心 点。 | Nǐ děi xiǎoxīn diǎn. | Devi stare attento. |
 | 得 快点。 | Děi kuàidiǎn. | Bisogna sbrigarsi. |
@@ -65,7 +65,7 @@ Indica necessità o obbligo forte, equivale a "dovere", "bisognare".
 ## Confronto tra ausiliari di necessità
 
 | Ausiliare | Significato | Urgenza | Esempio |
-|-----------|-------------|---------|---------|
+| ----------- | ------------- | --------- | --------- |
 | 要 | volere/dovere | Media | 我要去 |
 | 得 | dovere (necessità) | Alta | 我得去 |
 | 应该 | dovere (morale) | Media | 我应该去 |

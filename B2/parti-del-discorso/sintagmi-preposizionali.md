@@ -6,14 +6,14 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 
 ### Struttura Base
 
-```
+```text
 在 + Sostantivo/Situazione + 中
 ```
 
 ### Uso Spaziale - "Nel Mezzo Di"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 在人群中 | zài rénqún zhōng | in mezzo alla folla |
 | 在森林中 | zài sēnlín zhōng | nel mezzo della foresta |
 | 在水中游泳 | zài shuǐ zhōng yóuyǒng | nuotare nell'acqua |
@@ -22,7 +22,7 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 ### Uso Temporale - "Durante/Nel Corso Di"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 在战争中 | zài zhànzhēng zhōng | durante la guerra |
 | 在会议中 | zài huìyì zhōng | durante la riunione |
 | 在谈话中 | zài tánhuà zhōng | durante la conversazione |
@@ -31,7 +31,7 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 ### Uso Astratto - "Nel Contesto Di"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 在学习中进步 | zài xuéxí zhōng jìnbù | progredire nello studio |
 | 在工作中成长 | zài gōngzuò zhōng chéngzhǎng | crescere nel lavoro |
 | 在困难中坚持 | zài kùnnan zhōng jiānchí | perseverare nelle difficoltà |
@@ -40,7 +40,7 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 ### Uso Emotivo/Psicologico - "In Stato Di"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 在痛苦中生活 | zài tòngkǔ zhōng shēnghuó | vivere nel dolore |
 | 在快乐中成长 | zài kuàilè zhōng chéngzhǎng | crescere nella felicità |
 | 在焦虑中等待 | zài jiāolǜ zhōng děngdài | aspettare nell'ansia |
@@ -49,7 +49,7 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 ### "在...中" vs Alternative Preposizionali
 
 | Struttura | Uso | Sfumatura | Esempio |
-|----------|-----|-----------|---------|
+| ---------- | ----- | ----------- | --------- |
 | 在...中 | Immersione/contesto | Essere completamente dentro | 在讨论中 |
 | 在...里 | Localizzazione fisica | Posizione specifica | 在房子里 |
 | 在...上 | Superficie/argomento | Su qualcosa | 在桌子上 |
@@ -60,7 +60,7 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 #### Con Processi Dinamici
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 在发展中国家 | zài fāzhǎn zhōng guójiā | nei paesi in via di sviluppo |
 | 在建设中 | zài jiànshè zhōng | in costruzione |
 | 在进行中 | zài jìnxíng zhōng | in corso |
@@ -69,7 +69,7 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 #### Con Stati Mentali
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 在思考中 | zài sīkǎo zhōng | in riflessione |
 | 在回忆中 | zài huíyì zhōng | nei ricordi |
 | 在梦想中 | zài mèngxiǎng zhōng | nei sogni |
@@ -78,7 +78,7 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 #### Con Attività Sociali
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 在交流中学习 | zài jiāoliú zhōng xuéxí | imparare attraverso lo scambio |
 | 在合作中成功 | zài hézuò zhōng chénggōng | avere successo attraverso la collaborazione |
 | 在冲突中解决 | zài chōngtū zhōng jiějué | risolvere attraverso il conflitto |
@@ -87,7 +87,7 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 ### Espressioni Idiomatiche e Letterarie
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 在风雨中成长 | zài fēngyǔ zhōng chéngzhǎng | crescere nella tempesta (affrontando difficoltà) |
 | 在血与火中诞生 | zài xuè yǔ huǒ zhōng dànshēng | nascere nel sangue e nel fuoco |
 | 在岁月中流逝 | zài suìyuè zhōng liúshì | scorrere negli anni |
@@ -96,7 +96,7 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 ### Uso in Contesti Formali
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 在调查中发现 | zài diàochá zhōng fāxiàn | scoprire nel corso dell'indagine |
 | 在研究中证明 | zài yánjiū zhōng zhèngmíng | dimostrare nella ricerca |
 | 在实验中观察 | zài shíyàn zhōng guānchá | osservare nell'esperimento |
@@ -105,14 +105,14 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 ### Differenze con "...的时候"
 
 | Struttura | Enfasi | Esempio | Significato |
-|----------|--------|---------|-------------|
+| ---------- | -------- | --------- | ------------- |
 | 在...中 | Immersione/processo | 在学习中 | nel processo di studio |
 | ...的时候 | Momento specifico | 学习的时候 | quando si studia |
 
 ### Costruzioni Negative
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 不在讨论中 | bù zài tǎolùn zhōng | non in discussione |
 | 没在计划中 | méi zài jìhuà zhōng | non nei piani |
 | 不在考虑中 | bù zài kǎolǜ zhōng | non in considerazione |
@@ -120,7 +120,7 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 ### Domande con "在...中"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 在什么情况中？ | zài shénme qíngkuàng zhōng? | In quale situazione? |
 | 你在思考中吗？ | nǐ zài sīkǎo zhōng ma? | Sei in riflessione? |
 | 项目在进行中吗？ | xiàngmù zài jìnxíng zhōng ma? | Il progetto è in corso? |
@@ -128,7 +128,7 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 ### Uso Letterario e Poetico
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 在月光中漫步 | zài yuèguāng zhōng mànbù | passeggiare al chiaro di luna |
 | 在诗歌中寻找 | zài shīgē zhōng xúnzhǎo | cercare nella poesia |
 | 在音乐中沉醉 | zài yīnyuè zhōng chénzuì | perdersi nella musica |
@@ -137,7 +137,7 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 ### Combinazioni con Verbi Specifici
 
 | Verbo + 在...中 | Significato | Contesto |
-|----------------|-------------|----------|
+| ---------------- | ------------- | ---------- |
 | 生活在...中 | vivere in | condizioni |
 | 成长在...中 | crescere in | ambiente |
 | 死在...中 | morire in | circostanze |
@@ -146,7 +146,7 @@ I sintagmi preposizionali del livello B2 introducono costruzioni complesse per e
 ### Sfumature Stilistiche
 
 | Contesto | Esempio | Effetto |
-|----------|---------|---------|
+| ---------- | --------- | --------- |
 | Drammatico | 在绝望中挣扎 | Intensità emotiva |
 | Filosofico | 在思辨中前进 | Profondità intellettuale |
 | Descrittivo | 在阳光中闪耀 | Immagine vivida |

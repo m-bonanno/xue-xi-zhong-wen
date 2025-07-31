@@ -8,14 +8,14 @@ Questo file contiene le frasi verbali avanzate per il livello B1.
 
 #### Struttura
 
-```
+```text
 少 + Verbo
 ```
 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 请 少 放 点 盐。 | Qǐng shǎo fàng diǎn yán. | Per favore metti meno sale. |
 | 少 说 话。 | Shǎo shuōhuà. | Parla di meno. |
 
@@ -23,14 +23,14 @@ Questo file contiene le frasi verbali avanzate per il livello B1.
 
 #### Struttura
 
-```
+```text
 多 + Verbo
 ```
 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 多 吃 点。 | Duō chī diǎn. | Mangia di più. |
 | 多 休息。 | Duō xiūxi. | Riposa di più. |
 
@@ -38,14 +38,14 @@ Questo file contiene le frasi verbali avanzate per il livello B1.
 
 #### Struttura
 
-```
+```text
 正在 + Verbo + 着 + 呢
 ```
 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 正在 吃饭 呢。 | Wǒ zhèngzài chīfàn ne. | Sto mangiando. |
 | 他 正在 工作 着 呢。 | Tā zhèngzài gōngzuò zhe ne. | Sta lavorando. |
 
@@ -53,14 +53,14 @@ Questo file contiene le frasi verbali avanzate per il livello B1.
 
 #### Struttura
 
-```
+```text
 不怎么 + Verbo
 ```
 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 儿子 不怎么 吃 零食。 | Wǒ érzi bù zěnme chī língshí. | Mio figlio non mangia spesso snack. |
 | 他 不怎么 说话。 | Tā bù zěnme shuōhuà. | Non parla molto. |
 
@@ -68,14 +68,14 @@ Questo file contiene le frasi verbali avanzate per il livello B1.
 
 #### Struttura
 
-```
+```text
 Verbo + 到 + Tempo/Evento
 ```
 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 昨天 晚上 工作 到 十二 点 半。 | Wǒ zuótiān wǎnshàng gōngzuò dào shí'èr diǎn bàn. | Ieri sera ho lavorato fino a mezzanotte e mezza. |
 | 等 到 明年。 | Děng dào míngnián. | Aspettare fino all'anno prossimo. |
 
@@ -83,14 +83,14 @@ Verbo + 到 + Tempo/Evento
 
 #### Struttura
 
-```
+```text
 Verbo + Numero + Classificatore
 ```
 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 做 三 次。 | Zuò sān cì. | Fare tre volte. |
 | 读 两 遍。 | Dú liǎng biàn. | Leggere due volte. |
 | 看 一 眼。 | Kàn yī yǎn. | Dare un'occhiata. |
@@ -99,14 +99,14 @@ Verbo + Numero + Classificatore
 
 #### Struttura
 
-```
+```text
 Verbo-Oggetto separato
 ```
 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我们 见 过 面。 | Wǒmen jiàn guò miàn. | Ci siamo incontrati. |
 | 他 洗 了 澡。 | Tā xǐ le zǎo. | Ha fatto il bagno. |
 | 说 中文。 | Shuō Zhōngwén. | Parlare cinese. |
@@ -115,14 +115,14 @@ Verbo-Oggetto separato
 
 #### Struttura
 
-```
+```text
 Soggetto + Verbo + 给 + Destinatario + Oggetto
 ```
 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他 送给 我 一 束 花。 | Tā sòng gěi wǒ yī shù huā. | Mi ha regalato un mazzo di fiori. |
 | 我 借给 你 钱。 | Wǒ jiè gěi nǐ qián. | Ti presto dei soldi. |
 
@@ -130,14 +130,14 @@ Soggetto + Verbo + 给 + Destinatario + Oggetto
 
 #### Struttura
 
-```
+```text
 Soggetto + 给 + Destinatario + Verbo + Oggetto
 ```
 
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 现在 不要 给 他 打 电话。 | Xiànzài bùyào gěi tā dǎ diànhuà. | Ora non telefonargli. |
 | 给 我 买 本 书。 | Gěi wǒ mǎi běn shū. | Comprami un libro. |
 

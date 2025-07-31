@@ -6,7 +6,7 @@ Le forme di domanda A2 introducono strutture più sofisticate per ottenere infor
 
 ### Struttura
 
-```
+```text
 Soggetto + 怎么样？
 ... + 怎么样？
 ```
@@ -18,7 +18,7 @@ Soggetto + 怎么样？
 ### Esempi - Chiedere come va
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 怎么样？ | Nǐ zěnmeyàng? | Come stai? |
 | 工作 怎么样？ | Gōngzuò zěnmeyàng? | Come va il lavoro? |
 | 天气 怎么样？ | Tiānqì zěnmeyàng? | Com'è il tempo? |
@@ -27,7 +27,7 @@ Soggetto + 怎么样？
 ### Esempi - Chiedere opinioni
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这个 电影 怎么样？ | Zhège diànyǐng zěnmeyàng? | Come è questo film? |
 | 我们 明天 去 怎么样？ | Wǒmen míngtiān qù zěnmeyàng? | Che ne dici se andiamo domani? |
 | 这家 餐厅 怎么样？ | Zhè jiā cāntīng zěnmeyàng? | Com'è questo ristorante? |
@@ -35,7 +35,7 @@ Soggetto + 怎么样？
 ### Risposte tipiche a "怎么样"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 很 好！ | Hěn hǎo! | Molto bene! |
 | 不错。 | Bùcuò. | Non male. |
 | 还 可以。 | Hái kěyǐ. | Va bene così. |
@@ -47,7 +47,7 @@ Soggetto + 怎么样？
 
 ### Struttura
 
-```
+```text
 怎么 + Verbo/Aggettivo？
 ```
 
@@ -58,7 +58,7 @@ Soggetto + 怎么样？
 ### Esempi - "Perché" (sorpresa)
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 怎么 不 来？ | Zěnme bù lái? | Perché non vieni? |
 | 怎么 这么 贵？ | Zěnme zhème guì? | Perché è così caro? |
 | 你 怎么 哭 了？ | Nǐ zěnme kū le? | Perché piangi? |
@@ -67,7 +67,7 @@ Soggetto + 怎么样？
 ### Esempi - "Come" (metodo)
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 怎么 做？ | Zěnme zuò? | Come si fa? |
 | 怎么 走？ | Zěnme zǒu? | Come si va? |
 | 怎么 说？ | Zěnme shuō? | Come si dice? |
@@ -76,7 +76,7 @@ Soggetto + 怎么样？
 ### Differenza tra "怎么" e "为什么"
 
 | Parola | Uso | Tono | Esempio |
-|--------|-----|------|---------|
+| -------- | ----- | ------ | --------- |
 | **怎么** | sorpresa/metodo | emotivo | 怎么不来？ (perché non vieni?!) |
 | **为什么** | richiesta logica | neutrale | 为什么不来？ (perché non vieni?) |
 
@@ -86,7 +86,7 @@ Soggetto + 怎么样？
 
 ### Struttura
 
-```
+```text
 Soggetto + Verbo + 了 + 吗？
 ```
 
@@ -97,7 +97,7 @@ Soggetto + Verbo + 了 + 吗？
 ### Esempi - Azioni completate
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 吃饭 了 吗？ | Nǐ chīfàn le ma? | Hai mangiato? |
 | 作业 做 了 吗？ | Zuòyè zuò le ma? | Hai fatto i compiti? |
 | 他 来 了 吗？ | Tā lái le ma? | È venuto? |
@@ -106,7 +106,7 @@ Soggetto + Verbo + 了 + 吗？
 ### Esempi - Cambiamenti di stato
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 天 黑 了 吗？ | Tiān hēi le ma? | Si è fatto buio? |
 | 你 累 了 吗？ | Nǐ lèi le ma? | Sei stanco? |
 | 下雨 了 吗？ | Xiàyǔ le ma? | Ha iniziato a piovere? |
@@ -116,7 +116,7 @@ Soggetto + Verbo + 了 + 吗？
 #### Risposte positive
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 吃 了。 | Chī le. | Sì, ho mangiato. |
 | 做 了。 | Zuò le. | Sì, l'ho fatto. |
 | 来 了。 | Lái le. | Sì, è venuto. |
@@ -124,7 +124,7 @@ Soggetto + Verbo + 了 + 吗？
 #### Risposte negative
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 还 没 吃。 | Hái méi chī. | Non ho ancora mangiato. |
 | 还 没 做。 | Hái méi zuò. | Non l'ho ancora fatto. |
 | 还 没 来。 | Hái méi lái. | Non è ancora venuto. |
@@ -133,23 +133,23 @@ Soggetto + Verbo + 了 + 吗？
 
 #### Domande alternative
 
-```
+```text
 A 还是 B？ (A háishì B?) - A o B?
 ```
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 茶 还是 咖啡？ | Chá háishì kāfēi? | Tè o caffè? |
 | 走路 还是 坐车？ | Zǒulù háishì zuòchē? | A piedi o in macchina? |
 
 #### Domande con "多"
 
-```
+```text
 多 + Aggettivo？
 ```
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 多 大？ | Duō dà? | Quanto grande? (età) |
 | 多 长？ | Duō cháng? | Quanto lungo? |
 | 多 远？ | Duō yuǎn? | Quanto lontano? |
@@ -157,12 +157,12 @@ A 还是 B？ (A háishì B?) - A o B?
 
 #### Domande di conferma
 
-```
+```text
 ..., 对 吗？ / ..., 是 吗？
 ```
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 是 学生，对 吗？ | Nǐ shì xuésheng, duì ma? | Sei uno studente, vero? |
 | 明天 下雨，是 吗？ | Míngtiān xiàyǔ, shì ma? | Domani piove, vero? |
 
@@ -170,23 +170,23 @@ A 还是 B？ (A háishì B?) - A o B?
 
 #### Con "呢"
 
-```
+```text
 ... + 呢？
 ```
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 呢？ | Nǐ ne? | E tu? |
 | 他 在 哪里 呢？ | Tā zài nǎlǐ ne? | Dov'è lui? |
 
 #### Con "啊"
 
-```
+```text
 ... + 啊？
 ```
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 真的 啊？ | Zhēnde a? | Davvero? |
 | 是 这样 啊？ | Shì zhèyàng a? | È così? |
 
@@ -199,7 +199,7 @@ A 还是 B？ (A háishì B?) - A o B?
 
 ### Ordine delle parole nelle domande
 
-```
+```text
 (Tempo) + Soggetto + (Avverbio) + Verbo + (Oggetto) + 吗？
 ```
 

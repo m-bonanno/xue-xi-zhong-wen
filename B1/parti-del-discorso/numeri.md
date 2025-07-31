@@ -4,11 +4,11 @@ Questo file contiene le espressioni numeriche avanzate per il livello B1.
 
 ## Punti Grammaticali (2 totali)
 
-### 1. Esprimere frazioni con "fenzhi" (分之)
+### 1. Esprimere frazioni con "Fenzhi" (分之)
 
 #### Struttura
 
-```
+```text
 Denominatore + 分之 + Numeratore
 ```
 
@@ -25,7 +25,7 @@ Forma standard per esprimere frazioni in cinese.
 #### Esempi
 
 | Frazione | Cinese | Pinyin | Italiano |
-|----------|--------|--------|----------|
+| ---------- | -------- | -------- | ---------- |
 | 1/3 | 三 分之 一 | sān fēnzhī yī | un terzo |
 | 2/5 | 五 分之 二 | wǔ fēnzhī èr | due quinti |
 | 3/4 | 四 分之 三 | sì fēnzhī sān | tre quarti |
@@ -34,7 +34,7 @@ Forma standard per esprimere frazioni in cinese.
 #### Frasi complete
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 在 我们 班，外国 学生 占 三 分之 一。 | Zài wǒmen bān, wàiguó xuéshēng zhàn sān fēnzhī yī. | Nella nostra classe, gli studenti stranieri rappresentano un terzo. |
 | 这个 项目 完成 了 四 分之 三。 | Zhège xiàngmù wánchéng le sì fēnzhī sān. | Questo progetto è completato per tre quarti. |
 | 五 分之 二 的 人 同意 这个 建议。 | Wǔ fēnzhī èr de rén tóngyì zhège jiànyì. | Due quinti delle persone sono d'accordo con questa proposta. |
@@ -51,7 +51,7 @@ Forma standard per esprimere frazioni in cinese.
 
 #### Struttura
 
-```
+```text
 Numero + 多
 ```
 
@@ -62,7 +62,7 @@ Indica "più di" o "oltre" un numero specifico, equivale a "circa", "più di".
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 三 十 多 岁 | sān shí duō suì | sui trent'anni (30+) |
 | 一 百 多 人 | yī bǎi duō rén | più di cento persone |
 | 五十 多 块 钱 | wǔshí duō kuài qián | più di cinquanta yuan |
@@ -72,7 +72,7 @@ Indica "più di" o "oltre" un numero specifico, equivale a "circa", "più di".
 #### Frasi complete
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他 今年 四十 多 岁。 | Tā jīnnián sìshí duō suì. | Quest'anno ha più di quarant'anni. |
 | 这 本 书 有 三百 多 页。 | Zhè běn shū yǒu sānbǎi duō yè. | Questo libro ha più di trecento pagine. |
 | 我们 公司 有 五十 多 个 员工。 | Wǒmen gōngsī yǒu wǔshí duō gè yuángōng. | La nostra azienda ha più di cinquanta dipendenti. |
@@ -88,7 +88,7 @@ Indica "più di" o "oltre" un numero specifico, equivale a "circa", "più di".
 #### Differenza con altre espressioni
 
 | Espressione | Significato | Esempio |
-|-------------|-------------|---------|
+| ------------- | ------------- | --------- |
 | 三十多 | poco più di 30 | 三十多岁 (31-39 anni) |
 | 三十几 | 30 e qualcosa | 三十几岁 (30-39 anni) |
 | 差不多三十 | circa 30 | 差不多三十岁 (28-32 anni) |

@@ -6,7 +6,7 @@ I verbi ausiliari A2 esprimono concetti complessi di modalità, futuro, desideri
 
 ### Struttura
 
-```
+```text
 Soggetto + 要 + Verbo/Sostantivo
 ```
 
@@ -17,7 +17,7 @@ Soggetto + 要 + Verbo/Sostantivo
 ### Esempi - Significato "volere"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 要 咖啡。 | Wǒ yào kāfēi. | Voglio il caffè. |
 | 你 要 什么？ | Nǐ yào shénme? | Cosa vuoi? |
 | 他 不 要 这个。 | Tā bù yào zhège. | Non vuole questo. |
@@ -25,7 +25,7 @@ Soggetto + 要 + Verbo/Sostantivo
 ### Esempi - Significato "aver bisogno"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 要 钱。 | Wǒ yào qián. | Ho bisogno di soldi. |
 | 植物 要 水。 | Zhíwù yào shuǐ. | Le piante hanno bisogno d'acqua. |
 | 学习 要 时间。 | Xuéxí yào shíjiān. | Studiare richiede tempo. |
@@ -33,7 +33,7 @@ Soggetto + 要 + Verbo/Sostantivo
 ### Esempi - Significato "futuro/intenzione"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 要 去 中国。 | Wǒ yào qù Zhōngguó. | Andrò in Cina. |
 | 天 要 下雨 了。 | Tiān yào xiàyǔ le. | Sta per piovere. |
 | 他 要 结婚 了。 | Tā yào jiéhūn le. | Sta per sposarsi. |
@@ -44,7 +44,7 @@ Soggetto + 要 + Verbo/Sostantivo
 
 ### Struttura
 
-```
+```text
 Soggetto + 应该 + Verbo
 ```
 
@@ -55,7 +55,7 @@ Soggetto + 应该 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 学生 应该 努力 学习。 | Xuésheng yīnggāi nǔlì xuéxí. | Gli studenti dovrebbero studiare sodo. |
 | 你 应该 早点 睡觉。 | Nǐ yīnggāi zǎodiǎn shuìjiào. | Dovresti andare a letto presto. |
 | 我们 应该 帮助 别人。 | Wǒmen yīnggāi bāngzhù biérén. | Dovremmo aiutare gli altri. |
@@ -63,7 +63,7 @@ Soggetto + 应该 + Verbo
 ### Negazione con "应该"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 不 应该 抽烟。 | Nǐ bù yīnggāi chōuyān. | Non dovresti fumare. |
 | 不 应该 这样 做。 | Bù yīnggāi zhèyàng zuò. | Non si dovrebbe fare così. |
 
@@ -73,7 +73,7 @@ Soggetto + 应该 + Verbo
 
 ### Struttura
 
-```
+```text
 Soggetto + 会 + Verbo
 ```
 
@@ -84,7 +84,7 @@ Soggetto + 会 + Verbo
 ### Esempi - Capacità
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 会 说 英语。 | Wǒ huì shuō Yīngyǔ. | So parlare inglese. |
 | 他 会 开车。 | Tā huì kāichē. | Sa guidare. |
 | 你 会 做饭 吗？ | Nǐ huì zuòfàn ma? | Sai cucinare? |
@@ -92,7 +92,7 @@ Soggetto + 会 + Verbo
 ### Esempi - Futuro/Predizione
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 明天 会 下雨。 | Míngtiān huì xiàyǔ. | Domani pioverà. |
 | 你 会 喜欢 这个 电影。 | Nǐ huì xǐhuan zhège diànyǐng. | Ti piacerà questo film. |
 | 价格 会 上涨。 | Jiàgé huì shàngzhǎng. | I prezzi aumenteranno. |
@@ -103,7 +103,7 @@ Soggetto + 会 + Verbo
 
 ### Struttura
 
-```
+```text
 Soggetto + 想 + Verbo
 ```
 
@@ -114,7 +114,7 @@ Soggetto + 想 + Verbo
 ### Esempi - Desiderio
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 想 吃 冰淇淋。 | Wǒ xiǎng chī bīngqílín. | Vorrei mangiare il gelato. |
 | 他 想 买 新 手机。 | Tā xiǎng mǎi xīn shǒujī. | Vorrebbe comprare un nuovo cellulare. |
 | 你 想 去 哪里？ | Nǐ xiǎng qù nǎlǐ? | Dove vorresti andare? |
@@ -122,7 +122,7 @@ Soggetto + 想 + Verbo
 ### Esempi - Pensare/Credere
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 想 他 不 会 来。 | Wǒ xiǎng tā bù huì lái. | Penso che non verrà. |
 | 你 想 这个 怎么样？ | Nǐ xiǎng zhège zěnmeyàng? | Cosa ne pensi di questo? |
 | 我 想 是 的。 | Wǒ xiǎng shì de. | Penso di sì. |
@@ -130,7 +130,7 @@ Soggetto + 想 + Verbo
 ### Confronto tra verbi ausiliari modali
 
 | Verbo | Significato principale | Forza | Esempio | Negazione |
-|-------|----------------------|-------|---------|-----------|
+| ------- | ---------------------- | ------- | --------- | ----------- |
 | **要** | volere/futuro definitivo | Forte | 我要去 (devo/voglio andare) | 不要 |
 | **想** | desiderare/pensare | Media | 我想去 (vorrei andare) | 不想 |
 | **会** | saper fare/futuro probabile | Media | 我会去 (saprò/andrò) | 不会 |
@@ -139,7 +139,7 @@ Soggetto + 想 + Verbo
 ### Verbi ausiliari di capacità
 
 | Verbo | Tipo di capacità | Esempio | Significato |
-|-------|------------------|---------|-------------|
+| ------- | ------------------ | --------- | ------------- |
 | **会** | Abilità acquisita | 会开车 | saper guidare |
 | **能** | Capacità fisica/permesso | 能跑 | poter correre |
 | **可以** | Permesso/possibilità | 可以进来 | poter entrare |
@@ -148,7 +148,7 @@ Soggetto + 想 + Verbo
 
 #### Con "要"
 
-```
+```text
 要不要 (yào bù yào) - vuoi o non vuoi?
 快要 (kuài yào) - sta per (imminente)
 不要紧 (bù yàojǐn) - non importa
@@ -156,7 +156,7 @@ Soggetto + 想 + Verbo
 
 #### Con "会"
 
-```
+```text
 会不会 (huì bù huì) - sai/sa o non sai/sa?
 一定会 (yīdìng huì) - sicuramente sarà
 可能会 (kěnéng huì) - forse sarà
@@ -164,7 +164,7 @@ Soggetto + 想 + Verbo
 
 #### Con "想"
 
-```
+```text
 想想 (xiǎng xiǎng) - pensarci su
 想要 (xiǎng yào) - desiderare fortemente
 想起来 (xiǎng qǐlái) - ricordare
@@ -174,14 +174,14 @@ Soggetto + 想 + Verbo
 
 Quando si usano più verbi ausiliari insieme, seguono un ordine specifico:
 
-```
+```text
 Soggetto + [Tempo] + [Modalità] + [Capacità] + Verbo principale
 ```
 
 ### Esempi con multiple modalità
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 明天 应该 会 来。 | Wǒ míngtiān yīnggāi huì lái. | Domani dovrei venire. |
 | 你 想 要 学 中文 吗？ | Nǐ xiǎng yào xué Zhōngwén ma? | Vuoi studiare cinese? |
 | 他 可能 不 会 去。 | Tā kěnéng bù huì qù. | Forse non andrà. |

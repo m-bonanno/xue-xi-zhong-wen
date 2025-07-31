@@ -6,7 +6,7 @@ I numeri A2 introducono concetti più avanzati per esprimere approssimazioni, or
 
 ### Struttura
 
-```
+```text
 Numero + Numero + Classificatore + Sostantivo
 ```
 
@@ -17,7 +17,7 @@ Per indicare approssimazione si usano due numeri consecutivi, che significa "cir
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 三 四 个 人。 | Sān sì gè rén. | Tre o quattro persone (circa). |
 | 五 六 天。 | Wǔ liù tiān. | Cinque o sei giorni (circa). |
 | 七 八 岁。 | Qī bā suì. | Sette o otto anni (circa). |
@@ -29,7 +29,7 @@ Per indicare approssimazione si usano due numeri consecutivi, che significa "cir
 
 ### Struttura
 
-```
+```text
 万 (wàn) = 10.000
 十万 (shí wàn) = 100.000
 百万 (bǎi wàn) = 1.000.000
@@ -44,7 +44,7 @@ Il sistema cinese raggruppa per 万 (10.000) invece che per 1.000 come in italia
 ### Esempi
 
 | Cinese | Pinyin | Numero | Italiano |
-|--------|--------|--------|----------|
+| -------- | -------- | -------- | ---------- |
 | 三 万 | sān wàn | 30.000 | trentamila |
 | 五十 万 | wǔshí wàn | 500.000 | cinquecentomila |
 | 一百 万 | yībǎi wàn | 1.000.000 | un milione |
@@ -54,7 +54,7 @@ Il sistema cinese raggruppa per 万 (10.000) invece che per 1.000 come in italia
 ### Esempi pratici con prezzi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这 个 房子 八十 万。 | Zhège fángzi bāshí wàn. | Questa casa costa 800.000. |
 | 人口 一千 万。 | Rénkǒu yīqiān wàn. | La popolazione è di 10 milioni. |
 
@@ -64,18 +64,18 @@ Il sistema cinese raggruppa per 万 (10.000) invece che per 1.000 come in italia
 
 ### Struttura per orari specifici
 
-```
+```text
 Numero + 点 + Numero + 分 + Numero + 秒
 ```
 
 ### Spiegazione
 
-Gli orari in cinese seguono il formato ore-minuti-secondi con 点-分-秒.
+Gli orari in cinese seguono il formato ore-minuti-secondi con 点-分-秒。
 
 ### Esempi di orari precisi
 
 | Cinese | Pinyin | Orario | Italiano |
-|--------|--------|--------|----------|
+| -------- | -------- | -------- | ---------- |
 | 八 点 三十 分。 | Bā diǎn sānshí fēn. | 8:30 | Le otto e trenta. |
 | 九 点 一 刻。 | Jiǔ diǎn yī kè. | 9:15 | Le nove e un quarto. |
 | 十 点 半。 | Shí diǎn bàn. | 10:30 | Le dieci e mezza. |
@@ -83,12 +83,12 @@ Gli orari in cinese seguono il formato ore-minuti-secondi con 点-分-秒.
 
 ### Struttura per periodi del giorno
 
-```
+```text
 Periodo + Numero + 点
 ```
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 早上 七 点。 | Zǎoshang qī diǎn. | Le sette di mattina. |
 | 下午 三 点。 | Xiàwǔ sān diǎn. | Le tre del pomeriggio. |
 | 晚上 八 点。 | Wǎnshang bā diǎn. | Le otto di sera. |
@@ -97,7 +97,7 @@ Periodo + Numero + 点
 ### Espressioni temporali avanzate
 
 | Cinese | Pinyin | Significato |
-|--------|--------|-------------|
+| -------- | -------- | ------------- |
 | **差 + Minuti + 点** | chà + fēn + diǎn | Mancano X minuti alle... |
 | **过了 + Minuti** | guòle + fēn | Sono passati X minuti |
 | **快到...了** | kuài dào...le | Sta quasi arrivando... |
@@ -105,14 +105,14 @@ Periodo + Numero + 点
 ### Esempi con "差"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 差 五 分 三 点。 | Chà wǔ fēn sān diǎn. | Mancano 5 minuti alle tre. |
 | 差 一 刻 四 点。 | Chà yī kè sì diǎn. | Mancano 15 minuti alle quattro. |
 
 ### Numeri approssimativi comuni
 
 | Espressione | Pinyin | Significato | Esempio d'uso |
-|-------------|--------|-------------|---------------|
+| ------------- | -------- | ------------- | --------------- |
 | **十几** | shí jǐ | 10-19 (una decina) | 十几个人 (una decina di persone) |
 | **二十几** | èrshí jǐ | 20-29 (una ventina) | 二十几岁 (sui vent'anni) |
 | **几十** | jǐ shí | Qualche decina | 几十块钱 (qualche decina di yuan) |
@@ -122,7 +122,7 @@ Periodo + Numero + 点
 ### Sequenze numeriche per età
 
 | Cinese | Pinyin | Significato |
-|--------|--------|-------------|
+| -------- | -------- | ------------- |
 | 七 八 岁 | qī bā suì | 7-8 anni |
 | 二十 出头 | èrshí chūtóu | poco più di 20 anni |
 | 三十 多 | sānshí duō | più di 30 anni |
@@ -131,7 +131,7 @@ Periodo + Numero + 点
 ### Frazioni e decimali
 
 | Cinese | Pinyin | Significato |
-|--------|--------|-------------|
+| -------- | -------- | ------------- |
 | **一半** | yībàn | metà |
 | **三分之一** | sān fēn zhī yī | un terzo |
 | **四分之三** | sì fēn zhī sān | tre quarti |
@@ -141,7 +141,7 @@ Periodo + Numero + 点
 ### Ordinali avanzati
 
 | Cinese | Pinyin | Significato |
-|--------|--------|-------------|
+| -------- | -------- | ------------- |
 | **第一次** | dì yī cì | la prima volta |
 | **最后一个** | zuìhòu yīgè | l'ultimo |
 | **倒数第二** | dàoshù dì èr | il penultimo |
@@ -156,7 +156,7 @@ Periodo + Numero + 点
 
 ### Esempi di numeri complessi
 
-```
+```text
 125.000 = 十二万五千 (shí èr wàn wǔ qiān)
 1.500.000 = 一百五十万 (yībǎi wǔshí wàn)
 2023 = 二千零二十三 (èr qiān líng èrshí sān)
@@ -164,7 +164,7 @@ Periodo + Numero + 点
 
 ### Espressioni comuni con numeri
 
-```
+```text
 成千上万 (chéng qiān shàng wàn) - migliaia e migliaia
 数以万计 (shù yǐ wàn jì) - decine di migliaia
 不计其数 (bù jì qí shù) - innumerevoli

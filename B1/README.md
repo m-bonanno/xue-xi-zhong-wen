@@ -37,10 +37,10 @@ Questo livello B1 (Intermedio) è il terzo livello secondo il Quadro Comune Euro
 - **[Sintagmi Nominali](./strutture-grammaticali/sintagmi-nominali.md)** (3 punti) - Totalità, alternatività, specificità
 - **[Forme di Domanda](./strutture-grammaticali/forme-di-domanda.md)** (1 punto) - Domande retoriche
 - **[Schemi di Frase](./strutture-grammaticali/schemi-di-frase.md)** (41 punti) - Pattern complessi suddivisi in:
-  - **Schemi di Base/Semplici** (19 punti)
-  - **Schemi di Confronto** (4 punti)
-  - **Schemi Complessi** (12 punti)
-  - **Costruzioni Speciali** (6 punti)
+- **Schemi di Base/Semplici** (19 punti)
+- **Schemi di Confronto** (4 punti)
+- **Schemi Complessi** (12 punti)
+- **Costruzioni Speciali** (6 punti)
 
 ### ⚖️ [Confronti](./confronti/)
 

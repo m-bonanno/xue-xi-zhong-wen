@@ -6,7 +6,7 @@ Gli avverbi in cinese modificano verbi, aggettivi o altre frasi. Ecco i quattro 
 
 ### Struttura
 
-```
+```text
 没 + 有 + (Oggetto)
 ```
 
@@ -17,7 +17,7 @@ Gli avverbi in cinese modificano verbi, aggettivi o altre frasi. Ecco i quattro 
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 没有 钱。 | Wǒ méiyǒu qián. | Non ho soldi. |
 | 他 没有 女朋友。 | Tā méiyǒu nǚpéngyǒu. | Non ha una ragazza. |
 | 这里 没有 人。 | Zhèlǐ méiyǒu rén. | Qui non c'è nessuno. |
@@ -33,7 +33,7 @@ Gli avverbi in cinese modificano verbi, aggettivi o altre frasi. Ecco i quattro 
 
 ### Struttura
 
-```
+```text
 不 + Verbo/Aggettivo
 ```
 
@@ -44,7 +44,7 @@ Gli avverbi in cinese modificano verbi, aggettivi o altre frasi. Ecco i quattro 
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他们 不 是 坏 孩子。 | Tāmen bù shì huài háizi. | Non sono bambini cattivi. |
 | 我 不 喜欢 咖啡。 | Wǒ bù xǐhuan kāfēi. | Non mi piace il caffè. |
 | 今天 不 热。 | Jīntiān bù rè. | Oggi non fa caldo. |
@@ -60,7 +60,7 @@ Gli avverbi in cinese modificano verbi, aggettivi o altre frasi. Ecco i quattro 
 
 ### Struttura
 
-```
+```text
 Soggetto + 都 + Verbo/Aggettivo
 ```
 
@@ -71,7 +71,7 @@ Soggetto + 都 + Verbo/Aggettivo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我们 都 住 在 上海。 | Wǒmen dōu zhù zài Shànghǎi. | Abitiamo tutti a Shanghai. |
 | 他们 都 是 学生。 | Tāmen dōu shì xuésheng. | Sono tutti studenti. |
 | 这些 书 都 很 好。 | Zhèxiē shū dōu hěn hǎo. | Questi libri sono tutti belli. |
@@ -87,7 +87,7 @@ Soggetto + 都 + Verbo/Aggettivo
 
 ### Struttura
 
-```
+```text
 Soggetto + 也 + Verbo/Aggettivo
 ```
 
@@ -98,7 +98,7 @@ Soggetto + 也 + Verbo/Aggettivo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 昨天 很 冷，今天 也 很 冷。 | Zuótiān hěn lěng, jīntiān yě hěn lěng. | Ieri faceva freddo, oggi fa freddo anche. |
 | 我 喜欢 茶，他 也 喜欢 茶。 | Wǒ xǐhuan chá, tā yě xǐhuan chá. | Mi piace il tè, anche a lui piace il tè. |
 | 她 是 老师，我 也 是 老师。 | Tā shì lǎoshī, wǒ yě shì lǎoshī. | Lei è insegnante, anch'io sono insegnante. |
@@ -115,7 +115,7 @@ Soggetto + 也 + Verbo/Aggettivo
 
 ### "也都" (yě dōu) - "anche tutti"
 
-```
+```text
 我们也都是学生。
 Wǒmen yě dōu shì xuésheng。
 Anche noi siamo tutti studenti。
@@ -123,7 +123,7 @@ Anche noi siamo tutti studenti。
 
 ### "都不" (dōu bù) - "tutti non"
 
-```
+```text
 他们都不来。
 Tāmen dōu bù lái。
 Non vengono tutti。 / Nessuno di loro viene。
@@ -131,7 +131,7 @@ Non vengono tutti。 / Nessuno di loro viene。
 
 ### "也不" (yě bù) - "anche non"
 
-```
+```text
 我不去，他也不去。
 Wǒ bù qù，tā yě bù qù。
 Io non vado，anche lui non va。

@@ -7,7 +7,7 @@ Questo file confronta avverbi che spesso creano confusione agli studenti di live
 ### Differenze principali
 
 | Aspetto | 不 (bù) | 没 (méi) |
-|---------|---------|----------|
+| --------- | --------- | ---------- |
 | **Uso principale** | Negazione generale | Negazione di azioni completate |
 | **Tempo** | Presente/Futuro/Abitudini | Passato/Esperienze |
 | **Con "有"** | ❌ Non si usa | ✅ 没有 |
@@ -18,7 +18,7 @@ Questo file confronta avverbi che spesso creano confusione agli studenti di live
 
 #### Struttura
 
-```
+```text
 Soggetto + 不 + Verbo/Aggettivo
 ```
 
@@ -27,7 +27,7 @@ Soggetto + 不 + Verbo/Aggettivo
 ##### 1. Stati e qualità permanenti
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 不 高。 | Wǒ bù gāo. | Non sono alto. |
 | 这个 不 好。 | Zhège bù hǎo. | Questo non è buono. |
 | 他 不 聪明。 | Tā bù cōngming. | Non è intelligente. |
@@ -35,7 +35,7 @@ Soggetto + 不 + Verbo/Aggettivo
 ##### 2. Abitudini e preferenze
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 不 抽烟。 | Wǒ bù chōuyān. | Non fumo. |
 | 她 不 喜欢 咖啡。 | Tā bù xǐhuan kāfēi. | Non le piace il caffè. |
 | 我们 不 看 电视。 | Wǒmen bù kàn diànshì. | Non guardiamo la TV. |
@@ -43,7 +43,7 @@ Soggetto + 不 + Verbo/Aggettivo
 ##### 3. Intenzioni future
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 明天 不 去。 | Míngtiān bù qù. | Domani non vado. |
 | 我 不 买 这个。 | Wǒ bù mǎi zhège. | Non compro questo. |
 | 不 告诉 他。 | Bù gàosu tā. | Non glielo dico. |
@@ -51,7 +51,7 @@ Soggetto + 不 + Verbo/Aggettivo
 ##### 4. Con verbi modali
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 不 要 去。 | Bù yào qù. | Non andare. |
 | 不 能 做。 | Bù néng zuò. | Non posso fare. |
 | 不 会 说。 | Bù huì shuō. | Non so dire. |
@@ -60,7 +60,7 @@ Soggetto + 不 + Verbo/Aggettivo
 
 #### Struttura
 
-```
+```text
 Soggetto + 没(有) + Verbo
 ```
 
@@ -69,7 +69,7 @@ Soggetto + 没(有) + Verbo
 ##### 1. Azioni non completate nel passato
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 没 吃饭。 | Wǒ méi chīfàn. | Non ho mangiato. |
 | 他 没 来。 | Tā méi lái. | Non è venuto. |
 | 没 买 书。 | Méi mǎi shū. | Non ho comprato libri. |
@@ -77,7 +77,7 @@ Soggetto + 没(有) + Verbo
 ##### 2. Esperienze mai avute
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 没 去 过 中国。 | Wǒ méi qù guò Zhōngguó. | Non sono mai stato in Cina. |
 | 没 见 过 他。 | Méi jiàn guò tā. | Non l'ho mai visto. |
 | 没 学 过 法语。 | Méi xué guò Fǎyǔ. | Non ho mai studiato francese. |
@@ -85,7 +85,7 @@ Soggetto + 没(有) + Verbo
 ##### 3. Possesso (con "有")
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 没有 钱。 | Wǒ méiyǒu qián. | Non ho soldi. |
 | 没有 时间。 | Méiyǒu shíjiān. | Non ho tempo. |
 | 他 没有 车。 | Tā méiyǒu chē. | Non ha una macchina. |
@@ -93,7 +93,7 @@ Soggetto + 没(有) + Verbo
 ##### 4. Con "了" per indicare cambiamento non avvenuto
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 还 没 下雨。 | Hái méi xiàyǔ. | Non ha ancora iniziato a piovere. |
 | 没 累。 | Méi lèi. | Non sono stanco. |
 | 没 好。 | Méi hǎo. | Non è guarito. |
@@ -101,7 +101,7 @@ Soggetto + 没(有) + Verbo
 ### Confronti diretti - Stesso verbo, significato diverso
 
 | Verbo | Con "不" | Con "没" |
-|-------|----------|----------|
+| ------- | ---------- | ---------- |
 | **去** | 不去 (non andrò) | 没去 (non sono andato) |
 | **吃** | 不吃 (non mangio/non mangerò) | 没吃 (non ho mangiato) |
 | **看** | 不看 (non guardo/non guarderò) | 没看 (non ho guardato) |
@@ -133,21 +133,21 @@ Soggetto + 没(有) + Verbo
 
 #### 1. Con aggettivi che indicano stati temporanei
 
-```
+```text
 不累 (bù lèi) - non stanco (in generale)
 没累 (méi lèi) - non si è stancato (risultato)
 ```
 
 #### 2. Con "是"
 
-```
+```text
 不是 (bù shì) - non essere (identità/stato)
 没是 ❌ (agrammaticale)
 ```
 
 #### 3. Con verbi che indicano capacità
 
-```
+```text
 不会 (bù huì) - non saper fare
 没会 ❌ (agrammaticale)
 ```
@@ -155,7 +155,7 @@ Soggetto + 没(有) + Verbo
 ### Errori comuni da evitare
 
 | ❌ Sbagliato | ✅ Corretto | Spiegazione |
-|-------------|-------------|-------------|
+| ------------- | ------------- | ------------- |
 | 我没喜欢 | 我不喜欢 | "喜欢" è stato, usa "不" |
 | 昨天不去 | 昨天没去 | Azione passata, usa "没" |
 | 没有聪明 | 不聪明 | Qualità permanente, usa "不" |
@@ -165,14 +165,14 @@ Soggetto + 没(有) + Verbo
 
 #### 1. Domande
 
-```
+```text
 你去不去？(Nǐ qù bù qù?) - Vai o non vai? (futuro)
 你去了没有？(Nǐ qù le méiyǒu?) - Sei andato? (passato)
 ```
 
 #### 2. Risposte
 
-```
+```text
 Q: 你累吗？(Nǐ lèi ma?) - Sei stanco?
 A: 不累。(Bù lèi.) - Non sono stanco.
 

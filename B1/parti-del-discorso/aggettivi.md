@@ -8,7 +8,7 @@ Questo file contiene le forme avanzate di aggettivi per il livello B1.
 
 #### Struttura
 
-```
+```text
 Aggettivo + 极了
 ```
 
@@ -19,7 +19,7 @@ Esprime un grado estremo dell'aggettivo, equivalente a "estremamente" o "moltiss
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这个 主意 好 极了。 | Zhège zhǔyì hǎo jíle. | Questa idea è ottima. |
 | 今天 热 极了。 | Jīntiān rè jíle. | Oggi fa caldissimo. |
 | 这 部 电影 有趣 极了。 | Zhè bù diànyǐng yǒuqù jíle. | Questo film è interessantissimo. |
@@ -36,7 +36,7 @@ Esprime un grado estremo dell'aggettivo, equivalente a "estremamente" o "moltiss
 
 #### Struttura
 
-```
+```text
 不怎么 + Aggettivo
 ```
 
@@ -47,7 +47,7 @@ Indica che qualcosa non è particolarmente caratterizzato dall'aggettivo, equiva
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这里 的 菜 不怎么 好吃。 | Zhèlǐ de cài bù zěnme hǎochī. | Il cibo qui non è molto buono. |
 | 他 不怎么 高。 | Tā bù zěnme gāo. | Non è molto alto. |
 | 这个 地方 不怎么 远。 | Zhège dìfang bù zěnme yuǎn. | Questo posto non è molto lontano. |
@@ -64,7 +64,7 @@ Indica che qualcosa non è particolarmente caratterizzato dall'aggettivo, equiva
 
 #### Struttura
 
-```
+```text
 全 + Sostantivo
 ```
 
@@ -75,7 +75,7 @@ Indica totalità, completezza, equivalente a "tutto", "intero", "l'intera".
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我们 全 家 都 去 旅游 了。 | Wǒmen quán jiā dōu qù lǚyóu le. | Tutta la nostra famiglia è andata in viaggio. |
 | 全 世界 都 知道 这 件 事。 | Quán shìjiè dōu zhīdao zhè jiàn shì. | Tutto il mondo sa di questa cosa. |
 | 他 全 身 都 湿 了。 | Tā quán shēn dōu shī le. | È bagnato dalla testa ai piedi. |
@@ -94,7 +94,7 @@ Indica totalità, completezza, equivalente a "tutto", "intero", "l'intera".
 
 #### Struttura
 
-```
+```text
 Aggettivo + Aggettivo
 ```
 
@@ -105,7 +105,7 @@ La ripetizione dell'aggettivo esprime attenuazione, gradualità o cortesia, spes
 #### Esempi di ridondanza comune
 
 | Ridondanza | Pinyin | Uso | Esempio |
-|------------|--------|-----|---------|
+| ------------ | -------- | ----- | --------- |
 | 慢慢 | mànman | lentamente, gradualmente | 你 应该 慢慢 地 走。 |
 | 快快 | kuàikuài | velocemente (enfatico) | 快快 来 帮忙！ |
 | 好好 | hǎohao | bene, per bene | 好好 学习。 |
@@ -122,7 +122,7 @@ La ripetizione dell'aggettivo esprime attenuazione, gradualità o cortesia, spes
 
 #### Struttura
 
-```
+```text
 Aggettivo + 地 + Verbo
 ```
 
@@ -133,7 +133,7 @@ Trasforma un aggettivo in avverbio di modo, indicando come viene svolta l'azione
 #### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 要 认真 地 学习。 | Nǐ yào rènzhēn de xuéxí. | Devi studiare seriamente. |
 | 她 安静 地 坐 在 那里。 | Tā ānjìng de zuò zài nàlǐ. | È seduta lì tranquillamente. |
 | 他 小心 地 开车。 | Tā xiǎoxīn de kāichē. | Guida attentamente. |
@@ -175,7 +175,7 @@ Trasforma un aggettivo in avverbio di modo, indicando come viene svolta l'azione
 ## Errori comuni da evitare
 
 | ❌ Sbagliato | ✅ Corretto | Spiegazione |
-|-------------|-------------|-------------|
+| ------------- | ------------- | ------------- |
 | 很极了 | 好极了 | Non combinare 很 con 极了 |
 | 全的家 | 全家 | 全 si attacca direttamente al sostantivo |
 | 认真学习 | 认真地学习 | Serve 地 per formare l'avverbio |

@@ -6,7 +6,7 @@ I verbi A2 includono verbi di stato mentale, verbi di capacità e verbi più com
 
 ### Struttura
 
-```
+```text
 Soggetto + 应该 + Verbo
 ```
 
@@ -17,7 +17,7 @@ Soggetto + 应该 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 应该 学习。 | Nǐ yīnggāi xuéxí. | Dovresti studiare. |
 | 我们 应该 帮助 他。 | Wǒmen yīnggāi bāngzhù tā. | Dovremmo aiutarlo. |
 | 应该 没 问题。 | Yīnggāi méi wèntí. | Non dovrebbero esserci problemi. |
@@ -28,7 +28,7 @@ Soggetto + 应该 + Verbo
 
 ### Struttura
 
-```
+```text
 Soggetto + 会 + Verbo
 ```
 
@@ -39,7 +39,7 @@ Soggetto + 会 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 会 说 中文。 | Wǒ huì shuō Zhōngwén. | So parlare cinese. |
 | 明天 会 下雨。 | Míngtiān huì xiàyǔ. | Domani pioverà. |
 | 她 不 会 开车。 | Tā bù huì kāichē. | Non sa guidare. |
@@ -50,7 +50,7 @@ Soggetto + 会 + Verbo
 
 ### Struttura
 
-```
+```text
 Soggetto + 可能 + Verbo
 ```
 
@@ -61,7 +61,7 @@ Soggetto + 可能 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他 可能 不 来。 | Tā kěnéng bù lái. | Forse non verrà. |
 | 可能 是 这样。 | Kěnéng shì zhèyàng. | Forse è così. |
 | 我 可能 明天 去。 | Wǒ kěnéng míngtiān qù. | Forse andrò domani. |
@@ -72,7 +72,7 @@ Soggetto + 可能 + Verbo
 
 ### Struttura
 
-```
+```text
 Soggetto + 需要 + Verbo/Sostantivo
 ```
 
@@ -83,7 +83,7 @@ Soggetto + 需要 + Verbo/Sostantivo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 需要 休息。 | Wǒ xūyào xiūxi. | Ho bisogno di riposare. |
 | 你 需要 帮助 吗？ | Nǐ xūyào bāngzhù ma? | Hai bisogno di aiuto? |
 | 需要 多少 钱？ | Xūyào duōshao qián? | Quanto costa? (di quanti soldi c'è bisogno?) |
@@ -94,7 +94,7 @@ Soggetto + 需要 + Verbo/Sostantivo
 
 ### Struttura
 
-```
+```text
 Soggetto + 打算 + Verbo
 ```
 
@@ -105,7 +105,7 @@ Soggetto + 打算 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 打算 明年 结婚。 | Wǒ dǎsuàn míngnián jiéhūn. | Ho intenzione di sposarmi l'anno prossimo. |
 | 你 打算 做 什么？ | Nǐ dǎsuàn zuò shénme? | Cosa hai intenzione di fare? |
 | 没 打算 买。 | Méi dǎsuàn mǎi. | Non ho intenzione di comprare. |
@@ -116,7 +116,7 @@ Soggetto + 打算 + Verbo
 
 ### Struttura
 
-```
+```text
 Soggetto + 决定 + Verbo
 ```
 
@@ -127,7 +127,7 @@ Soggetto + 决定 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 决定 去 中国。 | Wǒ juédìng qù Zhōngguó. | Ho deciso di andare in Cina. |
 | 还 没 决定。 | Hái méi juédìng. | Non ho ancora deciso. |
 | 你 决定 了 吗？ | Nǐ juédìng le ma? | Hai deciso? |
@@ -138,7 +138,7 @@ Soggetto + 决定 + Verbo
 
 ### Struttura
 
-```
+```text
 Soggetto + 准备 + Verbo/Sostantivo
 ```
 
@@ -149,7 +149,7 @@ Soggetto + 准备 + Verbo/Sostantivo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 在 准备 考试。 | Wǒ zài zhǔnbèi kǎoshì. | Sto preparando l'esame. |
 | 准备 好 了 吗？ | Zhǔnbèi hǎo le ma? | Sei pronto? |
 | 没 准备。 | Méi zhǔnbèi. | Non ho preparato. |
@@ -160,7 +160,7 @@ Soggetto + 准备 + Verbo/Sostantivo
 
 ### Struttura
 
-```
+```text
 Soggetto + 担心 + Oggetto/Frase
 ```
 
@@ -171,7 +171,7 @@ Soggetto + 担心 + Oggetto/Frase
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 担心 你。 | Wǒ dānxīn nǐ. | Mi preoccupo per te. |
 | 别 担心。 | Bié dānxīn. | Non preoccuparti. |
 | 担心 下雨。 | Dānxīn xiàyǔ. | Preoccuparsi che piova. |
@@ -182,7 +182,7 @@ Soggetto + 担心 + Oggetto/Frase
 
 ### Struttura
 
-```
+```text
 A + 影响 + B
 ```
 
@@ -193,7 +193,7 @@ A + 影响 + B
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 天气 影响 心情。 | Tiānqì yǐngxiǎng xīnqíng. | Il tempo influenza l'umore. |
 | 不 影响 工作。 | Bù yǐngxiǎng gōngzuò. | Non influenza il lavoro. |
 | 有 什么 影响？ | Yǒu shénme yǐngxiǎng? | Che influenza ha? |
@@ -204,7 +204,7 @@ A + 影响 + B
 
 ### Struttura
 
-```
+```text
 Soggetto + 提高 + Oggetto
 ```
 
@@ -215,7 +215,7 @@ Soggetto + 提高 + Oggetto
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 提高 中文 水平。 | Tígāo Zhōngwén shuǐpíng. | Migliorare il livello di cinese. |
 | 提高 工资。 | Tígāo gōngzī. | Aumentare lo stipendio. |
 | 怎么 提高？ | Zěnme tígāo? | Come migliorare? |
@@ -226,7 +226,7 @@ Soggetto + 提高 + Oggetto
 
 ### Struttura
 
-```
+```text
 Soggetto + 解决 + Problema
 ```
 
@@ -237,7 +237,7 @@ Soggetto + 解决 + Problema
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 解决 问题。 | Jiějué wèntí. | Risolvere il problema. |
 | 怎么 解决？ | Zěnme jiějué? | Come risolvere? |
 | 已经 解决 了。 | Yǐjīng jiějué le. | È già risolto. |
@@ -245,7 +245,7 @@ Soggetto + 解决 + Problema
 ### Verbi modali A2
 
 | Verbo Modale | Significato | Esempio | Negazione |
-|--------------|-------------|---------|-----------|
+| -------------- | ------------- | --------- | ----------- |
 | **应该** | dovrebbe | 应该去 | 不应该 |
 | **可能** | forse/potrebbe | 可能来 | 可能不 |
 | **需要** | aver bisogno | 需要帮助 | 不需要 |
@@ -255,7 +255,7 @@ Soggetto + 解决 + Problema
 ### Verbi di stato mentale
 
 | Verbo | Pinyin | Significato | Esempio d'uso |
-|-------|--------|-------------|---------------|
+| ------- | -------- | ------------- | --------------- |
 | **希望** | xīwàng | sperare | 希望你好 (spero tu stia bene) |
 | **担心** | dānxīn | preoccuparsi | 担心考试 (preoccuparsi per l'esame) |
 | **相信** | xiāngxìn | credere | 相信你 (credo in te) |
@@ -265,7 +265,7 @@ Soggetto + 解决 + Problema
 ### Verbi di cambiamento
 
 | Verbo | Pinyin | Significato | Uso tipico |
-|-------|--------|-------------|------------|
+| ------- | -------- | ------------- | ------------ |
 | **提高** | tígāo | migliorare/aumentare | 提高水平 (migliorare il livello) |
 | **降低** | jiàngdī | abbassare/ridurre | 降低价格 (ridurre il prezzo) |
 | **改变** | gǎibiàn | cambiare | 改变计划 (cambiare piano) |
@@ -276,7 +276,7 @@ Soggetto + 解决 + Problema
 
 #### Con "应该"
 
-```
+```text
 应该注意 (yīnggāi zhùyì) - dovrebbe fare attenzione
 应该努力 (yīnggāi nǔlì) - dovrebbe sforzarsi
 应该小心 (yīnggāi xiǎoxīn) - dovrebbe stare attento
@@ -284,7 +284,7 @@ Soggetto + 解决 + Problema
 
 #### Con "需要"
 
-```
+```text
 需要时间 (xūyào shíjiān) - aver bisogno di tempo
 需要帮助 (xūyào bāngzhù) - aver bisogno di aiuto
 需要休息 (xūyào xiūxi) - aver bisogno di riposo
@@ -292,7 +292,7 @@ Soggetto + 解决 + Problema
 
 #### Con "决定"
 
-```
+```text
 决定买 (juédìng mǎi) - decidere di comprare
 决定不去 (juédìng bù qù) - decidere di non andare
 很难决定 (hěn nán juédìng) - difficile da decidere

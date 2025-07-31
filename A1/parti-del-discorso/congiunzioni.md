@@ -6,7 +6,7 @@ Le congiunzioni in cinese collegano parole, frasi o proposizioni. Ecco le due co
 
 ### Struttura
 
-```
+```text
 Sostantivo1 + 和 + Sostantivo2
 ```
 
@@ -17,7 +17,7 @@ Sostantivo1 + 和 + Sostantivo2
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 和 他 都 不 去。 | Wǒ hé tā dōu bù qù. | Io e lui non andiamo entrambi. |
 | 苹果 和 香蕉 都 很 好吃。 | Píngguǒ hé xiāngjiāo dōu hěn hǎochī. | Le mele e le banane sono entrambe buone. |
 | 老师 和 学生 在 教室 里。 | Lǎoshī hé xuésheng zài jiàoshì lǐ. | L'insegnante e lo studente sono in aula. |
@@ -34,7 +34,7 @@ Sostantivo1 + 和 + Sostantivo2
 
 ### Struttura
 
-```
+```text
 A + 还是 + B？
 ```
 
@@ -45,14 +45,14 @@ A + 还是 + B？
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 要 喝 茶 还是 咖啡？ | Nǐ yào hē chá háishì kāfēi? | Vuoi bere tè o caffè? |
 | 我们 今天 去 还是 明天 去？ | Wǒmen jīntiān qù háishì míngtiān qù? | Andiamo oggi o domani? |
 | 你 是 学生 还是 老师？ | Nǐ shì xuésheng háishì lǎoshī? | Sei uno studente o un insegnante? |
 
 ### Risposte alle domande con "还是"
 
-```
+```text
 Q: 你要茶还是咖啡？
 A: 我要茶。/ 我要咖啡。/ 都可以。
 
@@ -71,14 +71,14 @@ A: Voglio il tè. / Voglio il caffè. / Vanno bene entrambi.
 ## Differenza tra "和" e "还是"
 
 | Aspetto | 和 (hé) | 还是 (háishì) |
-|---------|---------|---------------|
+| --------- | --------- | --------------- |
 | **Uso** | Collegare sostantivi in affermazioni | Offrire scelte in domande |
 | **Tipo di frase** | Affermazioni | Domande |
 | **Significato** | "e", "insieme a" | "o" (nelle scelte) |
 
 ### Esempi comparativi
 
-```
+```text
 ✓ 我喜欢苹果和香蕉。(Affermazione con "和")
 Mi piacciono le mele e le banane.
 
@@ -95,7 +95,7 @@ Ti piacciono le mele o le banane?
 
 ### Con più di due elementi
 
-```
+```text
 你要苹果、香蕉还是橘子？
 Nǐ yào píngguǒ, xiāngjiāo háishì júzi?
 Vuoi mele, banane o arance?
@@ -103,7 +103,7 @@ Vuoi mele, banane o arance?
 
 ### Con frasi complete
 
-```
+```text
 你今天来还是明天来？
 Nǐ jīntiān lái háishì míngtiān lái?
 Vieni oggi o domani?

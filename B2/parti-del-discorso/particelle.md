@@ -2,18 +2,18 @@
 
 Le particelle del livello B2 introducono sfumature comunicative complesse e registri linguistici avanzati. Questa sezione copre 4 punti grammaticali essenziali.
 
-## 1. Particella Assertiva "ne" (呢)
+## 1. Particella Assertiva "Ne" (呢)
 
 ### Struttura per Domande Retoriche
 
-```
+```text
 Soggetto + 呢？
 ```
 
 ### Esempi di Domande Retoriche
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你呢？ | nǐ ne? | E tu? |
 | 我的书呢？ | wǒ de shū ne? | Dov'è il mio libro? |
 | 下雨天呢，最好待在家里 | xiàyǔ tiān ne, zuì hǎo dāi zài jiālǐ | Quando piove, è meglio stare a casa |
@@ -22,14 +22,14 @@ Soggetto + 呢？
 ### Uso per Continuazione di Discorso
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 说到工作呢，我有个想法 | shuōdào gōngzuò ne, wǒ yǒu ge xiǎngfǎ | Parlando di lavoro, ho un'idea |
 | 至于明天呢，我们再看情况 | zhìyú míngtiān ne, wǒmen zài kàn qíngkuàng | Quanto a domani, vedremo la situazione |
 
 ### Uso per Enfasi e Contrasto
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他会说中文呢！ | tā huì shuō zhōngwén ne! | Sa parlare cinese! |
 | 还有三个小时呢 | hái yǒu sān ge xiǎoshí ne | Ci sono ancora tre ore |
 | 这件事情呢，不是那么简单 | zhè jiàn shìqing ne, bùshì nàme jiǎndān | Questa faccenda, non è così semplice |
@@ -41,18 +41,18 @@ Soggetto + 呢？
 - Può indicare sorpresa o enfasi
 - Rende il discorso più naturale
 
-## 2. Particella di Modo "de" (地)
+## 2. Particella di Modo "De" (地)
 
 ### Struttura
 
-```
+```text
 Aggettivo/Avverbio + 地 + Verbo
 ```
 
 ### Esempi con Aggettivi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他高兴地笑了 | tā gāoxìng de xiào le | Ha riso felicemente |
 | 她认真地学习 | tā rènzhēn de xuéxí | Studia seriamente |
 | 孩子们兴奋地跳起来 | háiziméi xīngfèn de tiào qǐlái | I bambini sono saltati eccitati |
@@ -61,7 +61,7 @@ Aggettivo/Avverbio + 地 + Verbo
 ### Esempi con Avverbi Complessi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 她小心翼翼地走路 | tā xiǎoxīn yìyì de zǒulù | Cammina con molta cautela |
 | 他毫不犹豫地回答 | tā háobù yóuyù de huídá | Risponde senza esitazione |
 | 大家异口同声地说 | dàjiā yìkǒu tóngshēng de shuō | Tutti dicono all'unisono |
@@ -69,7 +69,7 @@ Aggettivo/Avverbio + 地 + Verbo
 ### Costruzioni Idiomatiche
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 不知不觉地 | bùzhī bùjué de | inconsciamente |
 | 理所当然地 | lǐsuǒ dāngrán de | naturalmente |
 | 心甘情愿地 | xīngān qíngyuàn de | volentieri |
@@ -85,14 +85,14 @@ Aggettivo/Avverbio + 地 + Verbo
 
 ### "Ba" (吧) per Suggerimenti
 
-```
+```text
 Verbo + 吧
 ```
 
 ### Esempi con "吧"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 走吧 | zǒu ba | Andiamo |
 | 吃饭吧 | chīfàn ba | Mangiamo |
 | 这样吧，我们明天再说 | zhèyàng ba, wǒmen míngtiān zài shuō | Facciamo così, ne parliamo domani |
@@ -100,14 +100,14 @@ Verbo + 吧
 
 ### "Ma" (嘛) per Ovvietà
 
-```
+```text
 Soggetto + Predicato + 嘛
 ```
 
 ### Esempi con "嘛"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这很简单嘛 | zhè hěn jiǎndān ma | È molto semplice! |
 | 你是学生嘛，当然要好好学习 | nǐ shì xuésheng ma, dāngrán yào hǎohao xuéxí | Sei uno studente, ovviamente devi studiare bene |
 | 大家都是朋友嘛 | dàjiā dōu shì péngyou ma | Siamo tutti amici! |
@@ -115,7 +115,7 @@ Soggetto + Predicato + 嘛
 ### "A" (啊) per Esclamazioni
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 太好了啊！ | tài hǎo le a! | Fantastico! |
 | 你来了啊 | nǐ lái le a | Ah, sei arrivato |
 | 下雨了啊 | xiàyǔ le a | Oh, sta piovendo |
@@ -123,7 +123,7 @@ Soggetto + Predicato + 嘛
 ### Funzioni Tonali
 
 | Particella | Funzione | Registro |
-|-----------|----------|----------|
+| ----------- | ---------- | ---------- |
 | 吧 | Suggerimento, incertezza | Neutro |
 | 嘛 | Ovvietà, persuasione | Colloquiale |
 | 啊 | Esclamazione, scoperta | Informale |
@@ -132,14 +132,14 @@ Soggetto + Predicato + 嘛
 
 ### "Ne" (呢) in Domande Alternative
 
-```
-A呢，还是B？
+```text
+A 呢，还是 B？
 ```
 
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 喝茶呢，还是喝咖啡？ | hē chá ne, háishi hē kāfēi? | Tè o caffè? |
 | 今天去呢，还是明天去？ | jīntiān qù ne, háishi míngtiān qù? | Andiamo oggi o domani? |
 | 你觉得呢？ | nǐ juéde ne? | Tu cosa ne pensi? |
@@ -147,21 +147,21 @@ A呢，还是B？
 ### "Ma" (吗) vs "Ne" (呢)
 
 | Tipo Domanda | Particella | Esempio |
-|-------------|-----------|---------|
+| ------------- | ----------- | --------- |
 | Sì/No semplice | 吗 | 你来吗？ |
 | Situazione continuativa | 呢 | 你在做什么呢？ |
 | Contrasto/Alternative | 呢 | 你呢？ |
 
 ### Domande Retoriche con "Nándào" (难道)
 
-```
+```text
 难道 + Domanda + 吗/不成？
 ```
 
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 难道你不知道吗？ | nándào nǐ bù zhīdào ma? | Non lo sai forse? |
 | 难道这样做不对吗？ | nándào zhèyàng zuò bùduì ma? | Non è giusto fare così? |
 | 难道他会说谎不成？ | nándào tā huì shuōhuǎng bùchéng? | Mica dirà bugie? |
@@ -169,7 +169,7 @@ A呢，还是B？
 ### Particelle Multiple
 
 | Combinazione | Uso | Esempio |
-|-------------|-----|---------|
+| ------------- | ----- | --------- |
 | 呢吗 | Domanda + dubbio | 真的呢吗？ |
 | 了吧 | Completamento + suggerimento | 好了吧 |
 | 的啊 | Possesso + esclamazione | 是我的啊！ |
@@ -177,7 +177,7 @@ A呢，还是B？
 ### Differenze Regionali e Stilistiche
 
 | Particella | Regione/Stile | Note |
-|-----------|--------------|------|
+| ----------- | -------------- | ------ |
 | 咧 | Nord | Colloquiale forte |
 | 嘞 | Sud | Dialettale |
 | 嗯 | Universale | Conferma, accordo |

@@ -6,7 +6,7 @@ I numeri in cinese seguono regole specifiche e richiedono classificatori. Ecco l
 
 ### Struttura
 
-```
+```text
 Soggetto + Numero + 岁
 ```
 
@@ -17,7 +17,7 @@ Soggetto + Numero + 岁
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 20 岁。 | Wǒ èrshí suì. | Ho 20 anni. |
 | 她 五 岁。 | Tā wǔ suì. | Ha cinque anni. |
 | 他 多少 岁？ | Tā duōshao suì? | Quanti anni ha? |
@@ -33,7 +33,7 @@ Soggetto + Numero + 岁
 
 ### Struttura
 
-```
+```text
 Numero + 个 + Sostantivo
 ```
 
@@ -44,7 +44,7 @@ Numero + 个 + Sostantivo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 一 个 人 | yí gè rén | una persona |
 | 三 个 苹果 | sān gè píngguǒ | tre mele |
 | 两 个 问题 | liǎng gè wèntí | due domande |
@@ -61,7 +61,7 @@ Numero + 个 + Sostantivo
 
 ### Struttura
 
-```
+```text
 Anno(年) + Mese(月) + Giorno(日/号)
 ```
 
@@ -72,7 +72,7 @@ Le date in cinese seguono l'ordine: anno, mese, giorno. Si usano i numeri normal
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 今天 是 2011年 11月 11日。 | Jīntiān shì èr líng yī yī nián shíyī yuè shíyī rì. | Oggi è l'11 novembre 2011. |
 | 2024年 3月 15号 | èr líng èr sì nián sān yuè shíwǔ hào | 15 marzo 2024 |
 | 1999年 12月 31日 | yī jiǔ jiǔ jiǔ nián shí'èr yuè sānshíyī rì | 31 dicembre 1999 |
@@ -89,7 +89,7 @@ Le date in cinese seguono l'ordine: anno, mese, giorno. Si usano i numeri normal
 
 ### Struttura
 
-```
+```text
 星期 + Numero
 ```
 
@@ -100,7 +100,7 @@ I giorni della settimana usano "星期" (xīngqī) seguito da un numero. L'unica
 ### Giorni della settimana
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 星期一 | xīngqī yī | lunedì |
 | 星期二 | xīngqī èr | martedì |
 | 星期三 | xīngqī sān | mercoledì |
@@ -111,7 +111,7 @@ I giorni della settimana usano "星期" (xīngqī) seguito da un numero. L'unica
 
 ### Esempi d'uso
 
-```
+```text
 今天 星期三。
 Jīntiān xīngqī sān.
 Oggi è mercoledì.
@@ -132,14 +132,14 @@ Che giorno è domani?
 
 ### Struttura base
 
-```
+```text
 Numero + Unità
 ```
 
 ### Numeri di base (0-10)
 
 | Cinese | Pinyin | Numero |
-|--------|--------|--------|
+| -------- | -------- | -------- |
 | 零 | líng | 0 |
 | 一 | yī | 1 |
 | 二 | èr | 2 |
@@ -155,7 +155,7 @@ Numero + Unità
 ### Unità maggiori
 
 | Cinese | Pinyin | Valore |
-|--------|--------|--------|
+| -------- | -------- | -------- |
 | 十 | shí | 10 |
 | 百 | bǎi | 100 |
 | 千 | qiān | 1.000 |
@@ -164,7 +164,7 @@ Numero + Unità
 ### Esempi di numeri composti
 
 | Cinese | Pinyin | Numero |
-|--------|--------|--------|
+| -------- | -------- | -------- |
 | 三 百 五 十 九 | sān bǎi wǔ shí jiǔ | 359 |
 | 一 千 二 百 | yī qiān èr bǎi | 1.200 |
 | 两 万 三 千 | liǎng wàn sān qiān | 23.000 |
@@ -175,7 +175,7 @@ Numero + Unità
 
 ### Struttura
 
-```
+```text
 Numero + 点(钟)
 ```
 
@@ -186,14 +186,14 @@ Per gli orari si usa "点" (diǎn) per le ore. "钟" (zhōng) è opzionale e pi�
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 现在 十一 点。 | Xiànzài shíyī diǎn. | Ora sono le undici. |
 | 三 点 钟 | sān diǎn zhōng | le tre in punto |
 | 几 点？ | jǐ diǎn? | Che ore sono? |
 
 ### Mezz'ora e quarti
 
-```
+```text
 三点半 = 3:30
 sān diǎn bàn
 

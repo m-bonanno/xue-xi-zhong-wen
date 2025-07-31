@@ -6,7 +6,7 @@ Questo file copre le strutture grammaticali avanzate per contare, esprimere quan
 
 ### Struttura
 
-```
+```text
 Numero + 块/毛/分 + 钱
 ```
 
@@ -17,7 +17,7 @@ Il sistema monetario cinese usa 块 (yuan), 毛 (jiao = 0.1 yuan), e 分 (fen = 
 ### Esempi base
 
 | Cinese | Pinyin | Valore | Italiano |
-|--------|--------|--------|----------|
+| -------- | -------- | -------- | ---------- |
 | 五 块 钱 | wǔ kuài qián | 5 yuan | cinque yuan |
 | 三 毛 钱 | sān máo qián | 0.3 yuan | tre jiao |
 | 八 分 钱 | bā fēn qián | 0.08 yuan | otto fen |
@@ -25,7 +25,7 @@ Il sistema monetario cinese usa 块 (yuan), 毛 (jiao = 0.1 yuan), e 分 (fen = 
 ### Esempi combinati
 
 | Cinese | Pinyin | Valore | Italiano |
-|--------|--------|--------|----------|
+| -------- | -------- | -------- | ---------- |
 | 十 二 块 五 毛 | shí èr kuài wǔ máo | 12.5 yuan | dodici yuan e cinquanta |
 | 三 块 八 毛 七 | sān kuài bā máo qī | 3.87 yuan | tre yuan ottantasette |
 | 一 百 块 | yī bǎi kuài | 100 yuan | cento yuan |
@@ -36,7 +36,7 @@ Il sistema monetario cinese usa 块 (yuan), 毛 (jiao = 0.1 yuan), e 分 (fen = 
 
 ### Struttura
 
-```
+```text
 每 + Classificatore + Sostantivo
 ```
 
@@ -47,7 +47,7 @@ Il sistema monetario cinese usa 块 (yuan), 毛 (jiao = 0.1 yuan), e 分 (fen = 
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 每 个 人 | měi gè rén | ogni persona |
 | 每 天 | měi tiān | ogni giorno |
 | 每 次 | měi cì | ogni volta |
@@ -57,7 +57,7 @@ Il sistema monetario cinese usa 块 (yuan), 毛 (jiao = 0.1 yuan), e 分 (fen = 
 ### In frasi complete
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 每 天 学习 中文。 | Wǒ měi tiān xuéxí Zhōngwén. | Studio cinese ogni giorno. |
 | 每 个 学生 都 很 努力。 | Měi gè xuésheng dōu hěn nǔlì. | Ogni studente è molto diligente. |
 | 每 次 考试 都 很 难。 | Měi cì kǎoshì dōu hěn nán. | Ogni esame è difficile. |
@@ -68,7 +68,7 @@ Il sistema monetario cinese usa 块 (yuan), 毛 (jiao = 0.1 yuan), e 分 (fen = 
 
 ### Struttura
 
-```
+```text
 半 + Classificatore + Sostantivo
 Numero + 半 + Classificatore + Sostantivo
 ```
@@ -80,7 +80,7 @@ Numero + 半 + Classificatore + Sostantivo
 ### Esempi con solo "半"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 半 个 苹果 | bàn gè píngguǒ | mezza mela |
 | 半 杯 水 | bàn bēi shuǐ | mezzo bicchiere d'acqua |
 | 半 天 | bàn tiān | mezza giornata |
@@ -88,7 +88,7 @@ Numero + 半 + Classificatore + Sostantivo
 ### Esempi con numero + "半"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 一 个 半 小时 | yī gè bàn xiǎoshí | un'ora e mezza |
 | 两 天 半 | liǎng tiān bàn | due giorni e mezzo |
 | 三 本 半 书 | sān běn bàn shū | tre libri e mezzo |
@@ -99,7 +99,7 @@ Numero + 半 + Classificatore + Sostantivo
 
 ### Struttura
 
-```
+```text
 Numero + Classificatore + Sostantivo
 ```
 
@@ -110,7 +110,7 @@ Classificatori specifici per diversi tipi di oggetti e concetti.
 ### Classificatori per oggetti
 
 | Classificatore | Uso | Esempi |
-|----------------|-----|--------|
+| ---------------- | ----- | -------- |
 | **张** | superfici piatte | 张纸 (foglio), 张桌子 (tavolo) |
 | **把** | oggetti con manico | 把椅子 (sedia), 把刀 (coltello) |
 | **辆** | veicoli | 辆车 (macchina), 辆自行车 (bici) |
@@ -121,7 +121,7 @@ Classificatori specifici per diversi tipi di oggetti e concetti.
 ### Classificatori per azioni
 
 | Classificatore | Uso | Esempi |
-|----------------|-----|--------|
+| ---------------- | ----- | -------- |
 | **次** | volte/occasioni | 次会议 (riunione), 次考试 (esame) |
 | **遍** | volte complete | 遍文章 (articolo letto), 遍电影 (film visto) |
 | **下** | azioni brevi | 下门铃 (suonare campanello) |
@@ -132,7 +132,7 @@ Classificatori specifici per diversi tipi di oggetti e concetti.
 
 ### Struttura per domande
 
-```
+```text
 有 + 多少/几 + Classificatore + Sostantivo？
 ```
 
@@ -143,7 +143,7 @@ Classificatori specifici per diversi tipi di oggetti e concetti.
 ### Esempi con "几"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 有 几 本 书？ | Nǐ yǒu jǐ běn shū? | Quanti libri hai? |
 | 几 个 人 来 了？ | Jǐ gè rén lái le? | Quante persone sono venute? |
 | 买 几 斤 苹果？ | Mǎi jǐ jīn píngguǒ? | Comprare quanti jin di mele? |
@@ -151,7 +151,7 @@ Classificatori specifici per diversi tipi di oggetti e concetti.
 ### Esempi con "多少"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 多少 钱 一 斤？ | Duōshao qián yī jīn? | Quanto costa al jin? |
 | 有 多少 个 学生？ | Yǒu duōshao gè xuésheng? | Quanti studenti ci sono? |
 
@@ -161,7 +161,7 @@ Classificatori specifici per diversi tipi di oggetti e concetti.
 
 ### Struttura
 
-```
+```text
 这/那 + Classificatore + Sostantivo
 这些/那些 + Sostantivo
 ```
@@ -173,7 +173,7 @@ Dimostrativi richiedono classificatori per sostantivi singolari, "些" per plura
 ### Esempi singolari
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这 本 书 | zhè běn shū | questo libro |
 | 那 个 人 | nà gè rén | quella persona |
 | 这 只 猫 | zhè zhī māo | questo gatto |
@@ -182,7 +182,7 @@ Dimostrativi richiedono classificatori per sostantivi singolari, "些" per plura
 ### Esempi plurali
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这些 书 | zhèxiē shū | questi libri |
 | 那些 人 | nàxiē rén | quelle persone |
 | 这些 问题 | zhèxiē wèntí | questi problemi |
@@ -193,7 +193,7 @@ Dimostrativi richiedono classificatori per sostantivi singolari, "些" per plura
 
 ### Struttura
 
-```
+```text
 第 + Numero + (Classificatore) + Sostantivo
 ```
 
@@ -204,7 +204,7 @@ Dimostrativi richiedono classificatori per sostantivi singolari, "些" per plura
 ### Esempi base
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 第 一 | dì yī | primo |
 | 第 二 | dì èr | secondo |
 | 第 三 | dì sān | terzo |
@@ -213,7 +213,7 @@ Dimostrativi richiedono classificatori per sostantivi singolari, "些" per plura
 ### In contesti specifici
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 第 一 次 | dì yī cì | la prima volta |
 | 第 二 个 问题 | dì èr gè wèntí | la seconda domanda |
 | 第 三 天 | dì sān tiān | il terzo giorno |
@@ -222,7 +222,7 @@ Dimostrativi richiedono classificatori per sostantivi singolari, "些" per plura
 ### Classificatori speciali per misure
 
 | Classificatore | Misura | Esempi |
-|----------------|--------|---------|
+| ---------------- | -------- | --------- |
 | **斤** | peso (0.5 kg) | 三斤苹果 (3 jin di mele) |
 | **公斤** | chilogrammo | 五公斤大米 (5 kg di riso) |
 | **米** | metro | 十米布 (10 metri di stoffa) |
@@ -232,7 +232,7 @@ Dimostrativi richiedono classificatori per sostantivi singolari, "些" per plura
 ### Classificatori per tempo
 
 | Classificatore | Periodo | Esempi |
-|----------------|---------|---------|
+| ---------------- | --------- | --------- |
 | **年** | anno | 三年时间 (3 anni di tempo) |
 | **月** | mese | 六个月 (6 mesi) |
 | **周/星期** | settimana | 两个星期 (2 settimane) |

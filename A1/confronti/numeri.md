@@ -7,7 +7,7 @@ Alcuni punti grammaticali in cinese sembrano simili ma hanno usi diversi. Ecco i
 ### Differenza principale
 
 | 二 (èr) | 两 (liǎng) |
-|---------|------------|
+| --------- | ------------ |
 | Numero ordinale/matematico | Numero cardinale con classificatori |
 | Conteggio astratto | Quantità specifica di oggetti |
 
@@ -15,7 +15,7 @@ Alcuni punti grammaticali in cinese sembrano simili ma hanno usi diversi. Ecco i
 
 #### 1. Numeri di sequenza/ordinali
 
-```
+```text
 第二 = secondo
 二楼 = secondo piano
 二月 = febbraio
@@ -24,7 +24,7 @@ Alcuni punti grammaticali in cinese sembrano simili ma hanno usi diversi. Ecco i
 
 #### 2. Numeri di telefono, indirizzi, matematica
 
-```
+```text
 电话号码: 1234-5678 = 一二三四，五六七八
 地址: 二号楼 = Edificio numero 2
 数学: 二加三等于五 = 2+3=5
@@ -32,7 +32,7 @@ Alcuni punti grammaticali in cinese sembrano simili ma hanno usi diversi. Ecco i
 
 #### 3. In numeri composti
 
-```
+```text
 二十 = venti
 三十二 = trentadue
 一百二十 = centoventi
@@ -42,7 +42,7 @@ Alcuni punti grammaticali in cinese sembrano simili ma hanno usi diversi. Ecco i
 
 #### 1. Con classificatori (sempre)
 
-```
+```text
 两个人 = due persone
 两本书 = due libri
 两杯茶 = due tazze di tè
@@ -50,7 +50,7 @@ Alcuni punti grammaticali in cinese sembrano simili ma hanno usi diversi. Ecco i
 
 #### 2. Con unità di misura
 
-```
+```text
 两公斤 = due chilogrammi
 两米 = due metri
 两块钱 = due yuan
@@ -58,7 +58,7 @@ Alcuni punti grammaticali in cinese sembrano simili ma hanno usi diversi. Ecco i
 
 #### 3. Con sostantivi di tempo specifici
 
-```
+```text
 两天 = due giorni
 两年 = due anni
 两个月 = due mesi
@@ -67,7 +67,7 @@ Alcuni punti grammaticali in cinese sembrano simili ma hanno usi diversi. Ecco i
 ### Esempi comparativi
 
 | Cinese | Uso | Traduzione |
-|--------|-----|------------|
+| -------- | ----- | ------------ |
 | 二 十 二 | Numero in sequenza | Ventidue |
 | 两 个 人 | Quantità + classificatore | Due persone |
 | 二 月 | Mese (ordinale) | Febbraio |
@@ -96,7 +96,7 @@ Alcuni punti grammaticali in cinese sembrano simili ma hanno usi diversi. Ecco i
 
 #### 1. Con "百" (cento) e "千" (mila)
 
-```
+```text
 两百 = duecento (NON 二百)
 两千 = duemila (NON 二千)
 
@@ -105,7 +105,7 @@ Ma: 二十 = venti (NON 两十)
 
 #### 2. Con "万" (diecimila)
 
-```
+```text
 Entrambi possibili:
 两万 = ventimila (più comune)
 二万 = ventimila (meno comune)
@@ -113,7 +113,7 @@ Entrambi possibili:
 
 #### 3. Anni (date)
 
-```
+```text
 二〇二四年 = Anno 2024 (lettura cifra per cifra)
 两千二十四年 = Anno 2024 (come numero)
 ```
@@ -122,7 +122,7 @@ Entrambi possibili:
 
 #### Conversazione al negozio
 
-```
+```text
 A: 这本书多少钱？
 B: 二十二块。
 A: 我要两本。
@@ -136,7 +136,7 @@ B: Va bene, in totale quarantaquattro yuan.
 
 #### Dare informazioni personali
 
-```
+```text
 A: 你的电话号码是多少？
 B: 一三八，二四五六，七八九零。
 A: 你家有几个人？
@@ -152,7 +152,7 @@ B: Nella mia famiglia ci sono due persone, io e mia moglie.
 
 #### ❌ Sbagliato → ✅ Corretto
 
-```
+```text
 ❌ 二个人 → ✅ 两个人
 ❌ 两十 → ✅ 二十
 ❌ 二百 → ✅ 两百

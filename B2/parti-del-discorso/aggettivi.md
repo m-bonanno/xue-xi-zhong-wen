@@ -6,7 +6,7 @@ Gli aggettivi del livello B2 introducono complementi aggettivali avanzati per es
 
 ### Struttura
 
-```
+```text
 Aggettivo + 得不得了
 ```
 
@@ -17,7 +17,7 @@ Esprime un grado estremo di una qualità, spesso con una sfumatura emotiva forte
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 爸爸气得不得了，你要倒霉啦 | bàba qì de bùdéliǎo, nǐ yào dǎoméi la | Papà è arrabbiatissimo, sarai nei guai |
 | 今天热得不得了 | jīntiān rè de bùdéliǎo | Oggi fa un caldo incredibile |
 | 她紧张得不得了 | tā jǐnzhāng de bùdéliǎo | È nervossissima |
@@ -34,7 +34,7 @@ Esprime un grado estremo di una qualità, spesso con una sfumatura emotiva forte
 ### Confronto con altre strutture intensive
 
 | Struttura | Intensità | Registro | Esempio |
-|-----------|-----------|----------|---------|
+| ----------- | ----------- | ---------- | --------- |
 | 很 + Adj | Normale | Neutro | 很热 |
 | Adj + 得很 | Alto | Leggermente formale | 热得很 |
 | Adj + 得不得了 | Estremo | Colloquiale/emotivo | 热得不得了 |
@@ -44,18 +44,18 @@ Esprime un grado estremo di una qualità, spesso con una sfumatura emotiva forte
 
 ### Struttura
 
-```
+```text
 Aggettivo + 得很
 ```
 
 ### Funzione
 
-Enfatizza significativamente l'intensità di un aggettivo, ma in modo più controllato rispetto a 得不得了.
+Enfatizza significativamente l'intensità di un aggettivo, ma in modo più controllato rispetto a 得不得了。
 
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这个题目简单得很 | zhège tímù jiǎndān de hěn | Questo problema è molto semplice |
 | 他聪明得很 | tā cōngming de hěn | È molto intelligente |
 | 这条路远得很 | zhè tiáo lù yuǎn de hěn | Questa strada è molto lunga |
@@ -72,7 +72,7 @@ Enfatizza significativamente l'intensità di un aggettivo, ma in modo più contr
 ### Esempi contestuali
 
 | Situazione | Cinese | Pinyin | Italiano |
-|------------|--------|--------|----------|
+| ------------ | -------- | -------- | ---------- |
 | Modestia apparente | 这不难，简单得很 | zhè bù nán, jiǎndān de hěn | Non è difficile, è molto semplice |
 | Rassicurazione | 别担心，他可靠得很 | bié dānxīn, tā kěkào de hěn | Non preoccuparti, è molto affidabile |
 | Enfasi | 这里安静得很 | zhèlǐ ānjìng de hěn | Qui è molto tranquillo |
@@ -81,7 +81,7 @@ Enfatizza significativamente l'intensità di un aggettivo, ma in modo più contr
 
 ### Struttura
 
-```
+```text
 Aggettivo + 了 + (一)点儿
 ```
 
@@ -92,7 +92,7 @@ Esprime che qualcosa eccede leggermente il livello desiderato o appropriato.
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 那个地方离我家远了点儿 | nàge dìfang lí wǒ jiā yuǎn le diǎnr | Quel posto è un po' troppo lontano da casa mia |
 | 这件衣服大了点儿 | zhè jiàn yīfu dà le diǎnr | Questo vestito è un po' troppo grande |
 | 菜咸了点儿 | cài xián le diǎnr | Il cibo è un po' troppo salato |
@@ -109,7 +109,7 @@ Esprime che qualcosa eccede leggermente il livello desiderato o appropriato.
 ### Varianti
 
 | Variante | Registro | Esempio | Traduzione |
-|----------|----------|---------|-------------|
+| ---------- | ---------- | --------- | ------------- |
 | Adj + 了点儿 | Colloquiale | 贵了点儿 | un po' troppo caro |
 | Adj + 了一点儿 | Più enfatico | 贵了一点儿 | un po' troppo caro |
 | Adj + 了些 | Formale | 贵了些 | un po' troppo caro |
@@ -118,7 +118,7 @@ Esprime che qualcosa eccede leggermente il livello desiderato o appropriato.
 
 ### Struttura
 
-```
+```text
 Soggetto + 有的是 + Sostantivo
 ```
 
@@ -129,7 +129,7 @@ Enfatizza l'abbondanza di qualcosa, spesso implicando che non c'è da preoccupar
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 川菜上海有的是 | chuāncài shànghǎi yǒudeshì | A Shanghai c'è un sacco di cucina del Sichuan |
 | 钱我有的是，别担心 | qián wǒ yǒudeshì, bié dānxīn | Di soldi ne ho in abbondanza, non preoccuparti |
 | 时间他有的是 | shíjiān tā yǒudeshì | Di tempo ne ha quanto vuole |
@@ -146,7 +146,7 @@ Enfatizza l'abbondanza di qualcosa, spesso implicando che non c'è da preoccupar
 ### Confronti semantici
 
 | Espressione | Significato | Atteggiamento | Esempio |
-|-------------|-------------|---------------|---------|
+| ------------- | ------------- | --------------- | --------- |
 | 有很多 | Ho molto | Neutro | 我有很多书 |
 | 有的是 | Ne ho in abbondanza | Rassicurante/Confident | 书我有的是 |
 | 多得很 | Tantissimi | Enfatico | 书多得很 |
@@ -154,7 +154,7 @@ Enfatizza l'abbondanza di qualcosa, spesso implicando che non c'è da preoccupar
 ### Esempi contestuali avanzati
 
 | Contesto | Cinese | Pinyin | Italiano |
-|----------|--------|--------|----------|
+| ---------- | -------- | -------- | ---------- |
 | Rassicurazione | 别急，机会有的是 | bié jí, jīhuì yǒudeshì | Non avere fretta, le opportunità non mancano |
 | Vanteria leggera | 像这样的经验，我有的是 | xiàng zhèyàng de jīngyàn, wǒ yǒudeshì | Esperienze come questa, ne ho tante |
 | Minimizzare problema | 这点钱算什么，我有的是 | zhè diǎn qián suàn shénme, wǒ yǒudeshì | Questi pochi soldi che sono, ne ho tanti |

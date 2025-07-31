@@ -6,7 +6,7 @@ Le frasi verbali A2 includono costruzioni complesse per esprimere azioni sequenz
 
 ### Struttura
 
-```
+```text
 Soggetto + Verbo1 + Verbo2 + Verbo3 + ...
 ```
 
@@ -17,7 +17,7 @@ In cinese si possono collegare più azioni in sequenza senza congiunzioni, indic
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 起床 洗脸 刷牙 吃饭。 | Wǒ qǐchuáng xǐliǎn shuāyá chīfàn. | Mi alzo, mi lavo la faccia, mi lavo i denti e mangio. |
 | 他 回家 做饭 看电视。 | Tā huíjiā zuòfàn kàn diànshì. | Torna a casa, cucina e guarda la TV. |
 | 我们 去 商店 买 东西 回来。 | Wǒmen qù shāngdiàn mǎi dōngxi huílái. | Andiamo al negozio a comprare cose e torniamo. |
@@ -28,7 +28,7 @@ In cinese si possono collegare più azioni in sequenza senza congiunzioni, indic
 
 ### Struttura
 
-```
+```text
 Verbo + 难
 难 + Verbo
 ```
@@ -40,7 +40,7 @@ Verbo + 难
 ### Esempi con "难" + Verbo
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 中文 难 学。 | Zhōngwén nán xué. | Il cinese è difficile da imparare. |
 | 这个 问题 难 回答。 | Zhège wèntí nán huídá. | Questa domanda è difficile da rispondere. |
 | 这 首 歌 难 唱。 | Zhè shǒu gē nán chàng. | Questa canzone è difficile da cantare. |
@@ -48,7 +48,7 @@ Verbo + 难
 ### Esempi con Verbo + "难"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 说 难 也 不 难。 | Shuō nán yě bù nán. | Se dici difficile, non è (poi così) difficile. |
 
 ---
@@ -57,7 +57,7 @@ Verbo + 难
 
 ### Struttura
 
-```
+```text
 Verbo + 了 + Durata + (了)
 ```
 
@@ -68,7 +68,7 @@ Verbo + 了 + Durata + (了)
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 学 了 三 年 中文。 | Wǒ xué le sān nián Zhōngwén. | Ho studiato cinese per tre anni. |
 | 他 睡 了 八 个 小时。 | Tā shuì le bā gè xiǎoshí. | Ha dormito per otto ore. |
 | 下 了 一 天 雨。 | Xià le yī tiān yǔ. | Ha piovuto per tutto il giorno. |
@@ -79,7 +79,7 @@ Verbo + 了 + Durata + (了)
 
 ### Struttura
 
-```
+```text
 Soggetto + 从来 + 不/没 + Verbo
 ```
 
@@ -90,7 +90,7 @@ Soggetto + 从来 + 不/没 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 从来 不 抽烟。 | Wǒ cónglái bù chōuyān. | Non fumo mai. |
 | 他 从来 没 去 过 欧洲。 | Tā cónglái méi qù guò Ōuzhōu. | Non è mai stato in Europa. |
 | 从来 没 见过 这样 的 事。 | Cónglái méi jiàn guò zhèyàng de shì. | Non ho mai visto una cosa del genere. |
@@ -101,7 +101,7 @@ Soggetto + 从来 + 不/没 + Verbo
 
 ### Struttura
 
-```
+```text
 Verbo + 了 + Durata + 了
 ```
 
@@ -112,7 +112,7 @@ Due "了" indicano che l'azione dura da un tempo specifico e continua ancora ade
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 等 了 一 个 小时 了。 | Wǒ děng le yī gè xiǎoshí le. | Sto aspettando da un'ora. |
 | 下 了 三 天 雨 了。 | Xià le sān tiān yǔ le. | Piove da tre giorni. |
 | 他 学 了 两 年 中文 了。 | Tā xué le liǎng nián Zhōngwén le. | Studia cinese da due anni. |
@@ -123,7 +123,7 @@ Due "了" indicano che l'azione dura da un tempo specifico e continua ancora ade
 
 ### Struttura
 
-```
+```text
 Soggetto + (跟 + Qualcuno) + 一起 + Verbo
 ```
 
@@ -134,7 +134,7 @@ Soggetto + (跟 + Qualcuno) + 一起 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我们 一起 吃饭。 | Wǒmen yīqǐ chīfàn. | Mangiamo insieme. |
 | 我 跟 朋友 一起 去 看 电影。 | Wǒ gēn péngyou yīqǐ qù kàn diànyǐng. | Vado al cinema insieme agli amici. |
 | 一起 学习 更 有 意思。 | Yīqǐ xuéxí gèng yǒu yìsi. | Studiare insieme è più divertente. |
@@ -145,7 +145,7 @@ Soggetto + (跟 + Qualcuno) + 一起 + Verbo
 
 ### Struttura
 
-```
+```text
 Soggetto + 没办法 + Verbo
 ```
 
@@ -156,7 +156,7 @@ Soggetto + 没办法 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 没办法 帮 你。 | Wǒ méi bànfǎ bāng nǐ. | Non posso aiutarti. |
 | 没办法，只能 等。 | Méi bànfǎ, zhǐ néng děng. | Non c'è modo, possiamo solo aspettare. |
 | 这个 问题 没办法 解决。 | Zhège wèntí méi bànfǎ jiějué. | Questo problema non si può risolvere. |
@@ -167,7 +167,7 @@ Soggetto + 没办法 + Verbo
 
 ### Struttura
 
-```
+```text
 Soggetto + 在 + Luogo + Verbo
 ```
 
@@ -178,7 +178,7 @@ Soggetto + 在 + Luogo + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 在 家 吃饭。 | Wǒ zài jiā chīfàn. | Mangio a casa. |
 | 他 在 学校 学习。 | Tā zài xuéxiào xuéxí. | Studia a scuola. |
 | 孩子 在 公园 玩。 | Háizi zài gōngyuán wán. | I bambini giocano nel parco. |
@@ -189,9 +189,9 @@ Soggetto + 在 + Luogo + Verbo
 
 ### Struttura
 
-```
+```text
 Verbo + Verbo (AA)
-Verbo + 一 + Verbo (A一A)
+Verbo + 一 + Verbo (A 一 A)
 ```
 
 ### Spiegazione
@@ -201,15 +201,15 @@ Ripetere il verbo indica un'azione breve, casuale o di prova.
 ### Esempi con AA
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 看看。 | Kànkan. | Dare un'occhiata. |
 | 想想。 | Xiǎngxiang. | Pensarci su. |
 | 试试。 | Shìshi. | Provare. |
 
-### Esempi con A一A
+### Esempi con A 一 A
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 看 一 看。 | Kàn yī kàn. | Dare un'occhiata. |
 | 听 一 听。 | Tīng yī tīng. | Sentire un po'. |
 | 说 一 说。 | Shuō yī shuō. | Dire qualcosa. |
@@ -220,7 +220,7 @@ Ripetere il verbo indica un'azione breve, casuale o di prova.
 
 ### Struttura
 
-```
+```text
 Verbo + 在 + Luogo
 ```
 
@@ -231,7 +231,7 @@ Verbo + 在 + Luogo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 书 放 在 桌子 上。 | Shū fàng zài zhuōzi shàng. | Il libro è messo sul tavolo. |
 | 他 住 在 北京。 | Tā zhù zài Běijīng. | Vive a Pechino. |
 | 坐 在 椅子 上。 | Zuò zài yǐzi shàng. | Seduto sulla sedia. |
@@ -242,7 +242,7 @@ Verbo + 在 + Luogo
 
 ### Struttura
 
-```
+```text
 Soggetto + 很 + Verbo di stato
 ```
 
@@ -253,7 +253,7 @@ Alcuni verbi che esprimono stati mentali o fisici possono essere modificati da "
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 很 喜欢 这个 电影。 | Wǒ hěn xǐhuan zhège diànyǐng. | Mi piace molto questo film. |
 | 他 很 担心 考试。 | Tā hěn dānxīn kǎoshì. | È molto preoccupato per l'esame. |
 | 很 想 家。 | Hěn xiǎng jiā. | Sento molto la mancanza di casa. |
@@ -264,7 +264,7 @@ Alcuni verbi che esprimono stati mentali o fisici possono essere modificati da "
 
 ### Struttura
 
-```
+```text
 Verbo di movimento + 到 + Destinazione
 ```
 
@@ -275,7 +275,7 @@ Verbo di movimento + 到 + Destinazione
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 走 到 学校。 | Zǒu dào xuéxiào. | Camminare fino alla scuola. |
 | 开车 到 机场。 | Kāichē dào jīchǎng. | Guidare fino all'aeroporto. |
 | 跑 到 终点。 | Pǎo dào zhōngdiǎn. | Correre fino al traguardo. |
@@ -286,7 +286,7 @@ Verbo di movimento + 到 + Destinazione
 
 ### Struttura
 
-```
+```text
 Verbo + 好
 好 + Verbo
 ```
@@ -298,7 +298,7 @@ Verbo + 好
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这个 字 写 好。 | Zhège zì xiě hǎo. | Questo carattere è facile da scrivere bene. |
 | 好 做 的 菜。 | Hǎo zuò de cài. | Piatto facile da cucinare. |
 | 问题 解决 好 了。 | Wèntí jiějué hǎo le. | Il problema è stato risolto bene. |
@@ -309,7 +309,7 @@ Verbo + 好
 
 ### Struttura
 
-```
+```text
 Verbo + 一下
 ```
 
@@ -320,7 +320,7 @@ Verbo + 一下
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 请 等 一下。 | Qǐng děng yīxià. | Aspetta un momento, per favore. |
 | 我 看 一下。 | Wǒ kàn yīxià. | Lascio che dia un'occhiata. |
 | 试 一下 这个。 | Shì yīxià zhège. | Prova questo. |
@@ -331,7 +331,7 @@ Verbo + 一下
 
 ### Struttura
 
-```
+```text
 Soggetto + Verbo + Persona + Oggetto
 ```
 
@@ -342,7 +342,7 @@ Alcuni verbi (dare, insegnare, dire) prendono due oggetti: persona + cosa.
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 给 你 钱。 | Wǒ gěi nǐ qián. | Ti do dei soldi. |
 | 老师 教 我们 中文。 | Lǎoshī jiāo wǒmen Zhōngwén. | Il professore ci insegna cinese. |
 | 他 告诉 我 消息。 | Tā gàosu wǒ xiāoxi. | Mi dice la notizia. |
@@ -350,7 +350,7 @@ Alcuni verbi (dare, insegnare, dire) prendono due oggetti: persona + cosa.
 ### Verbi comuni con oggetti doppi
 
 | Verbo | Pinyin | Significato | Struttura | Esempio |
-|-------|--------|-------------|-----------|---------|
+| ------- | -------- | ------------- | ----------- | --------- |
 | **给** | gěi | dare | 给 + Persona + Cosa | 给我书 (dammi il libro) |
 | **教** | jiāo | insegnare | 教 + Persona + Materia | 教他英语 (insegnargli inglese) |
 | **告诉** | gàosu | dire/informare | 告诉 + Persona + Informazione | 告诉你真相 (dirti la verità) |

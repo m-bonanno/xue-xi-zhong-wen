@@ -6,7 +6,7 @@ Gli avverbi A2 introducono concetti più complessi di tempo, aspetto e modalità
 
 ### Struttura
 
-```
+```text
 Soggetto + 差不多 + (Predicato)
 ```
 
@@ -17,7 +17,7 @@ Soggetto + 差不多 + (Predicato)
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我们 的 中文 水平 差不多。 | Wǒmen de Zhōngwén shuǐpíng chàbuduō. | Il nostro livello di cinese è più o meno uguale. |
 | 这两个 苹果 差不多 大。 | Zhè liǎng gè píngguǒ chàbuduō dà. | Queste due mele sono più o meno della stessa grandezza. |
 | 差不多 了，我们 走 吧。 | Chàbuduō le, wǒmen zǒu ba. | È quasi ora, andiamo. |
@@ -28,7 +28,7 @@ Soggetto + 差不多 + (Predicato)
 
 ### Struttura
 
-```
+```text
 大家/很多人 + 都 + ...
 ```
 
@@ -39,7 +39,7 @@ Soggetto + 差不多 + (Predicato)
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 很 多 地方 都 有 wifi。 | Hěn duō dìfang dōu yǒu wifi. | Molti posti hanno tutti il wifi. |
 | 大家 都 喜欢 这个 老师。 | Dàjiā dōu xǐhuan zhège lǎoshī. | A tutti piace questo insegnante. |
 
@@ -49,7 +49,7 @@ Soggetto + 差不多 + (Predicato)
 
 ### Struttura
 
-```
+```text
 (正)在 + Verbo + (着)
 ```
 
@@ -60,7 +60,7 @@ Soggetto + 差不多 + (Predicato)
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我们 正在 吃饭。 | Wǒmen zhèngzài chīfàn. | Stiamo mangiando. |
 | 他 在 睡觉。 | Tā zài shuìjiào. | Sta dormendo. |
 | 妈妈 在 做饭 呢。 | Māma zài zuòfàn ne. | La mamma sta cucinando. |
@@ -71,7 +71,7 @@ Soggetto + 差不多 + (Predicato)
 
 ### Struttura
 
-```
+```text
 Soggetto + 一直 + Predicato
 ```
 
@@ -82,7 +82,7 @@ Soggetto + 一直 + Predicato
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 一直 在 现在 的 公司 工作。 | Wǒ yīzhí zài xiànzài de gōngsī gōngzuò. | Lavoro sempre nella compagnia attuale. |
 | 他 一直 很 努力。 | Tā yīzhí hěn nǔlì. | È sempre molto diligente. |
 
@@ -92,7 +92,7 @@ Soggetto + 一直 + Predicato
 
 ### Struttura
 
-```
+```text
 已经 + Predicato + 了
 ```
 
@@ -103,7 +103,7 @@ Soggetto + 一直 + Predicato
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他 已经 走 了。 | Tā yǐjīng zǒu le. | È già andato via. |
 | 我 已经 吃 过 了。 | Wǒ yǐjīng chī guò le. | Ho già mangiato. |
 
@@ -113,7 +113,7 @@ Soggetto + 一直 + Predicato
 
 ### Struttura
 
-```
+```text
 总是 + Verbo/Aggettivo
 ```
 
@@ -124,7 +124,7 @@ Soggetto + 一直 + Predicato
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他 总是 迟到。 | Tā zǒngshì chídào. | Arriva sempre in ritardo. |
 | 她 总是 很 开心。 | Tā zǒngshì hěn kāixīn. | È sempre molto felice. |
 
@@ -134,7 +134,7 @@ Soggetto + 一直 + Predicato
 
 ### Struttura
 
-```
+```text
 还 + Verbo/Aggettivo
 ```
 
@@ -145,7 +145,7 @@ Soggetto + 一直 + Predicato
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 她 有 一个 弟弟，还 有 一个 妹妹。 | Tā yǒu yī gè dìdi, hái yǒu yī gè mèimei. | Ha un fratello minore e anche una sorella minore. |
 | 他 会 说 中文，还 会 说 英文。 | Tā huì shuō Zhōngwén, hái huì shuō Yīngwén. | Sa parlare cinese e anche inglese. |
 
@@ -155,7 +155,7 @@ Soggetto + 一直 + Predicato
 
 ### Struttura
 
-```
+```text
 Soggetto + 刚 + Verbo
 ```
 
@@ -166,7 +166,7 @@ Soggetto + 刚 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他 刚 走。 | Tā gāng zǒu. | È appena andato via. |
 | 我 刚 到。 | Wǒ gāng dào. | Sono appena arrivato. |
 
@@ -176,7 +176,7 @@ Soggetto + 刚 + Verbo
 
 ### Struttura
 
-```
+```text
 只 + Verbo/Aggettivo/Numero
 ```
 
@@ -187,7 +187,7 @@ Soggetto + 刚 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 只 有 一个 妹妹。 | Wǒ zhǐ yǒu yī gè mèimei. | Ho solo una sorella minore. |
 | 我 只 会 说 一点 中文。 | Wǒ zhǐ huì shuō yīdiǎn Zhōngwén. | So parlare solo un po' di cinese. |
 
@@ -197,7 +197,7 @@ Soggetto + 刚 + Verbo
 
 ### Struttura
 
-```
+```text
 就 + Verbo/Frase
 ```
 
@@ -208,7 +208,7 @@ Soggetto + 刚 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我们 现在 有 时间，就 去 吧。 | Wǒmen xiànzài yǒu shíjiān, jiù qù ba. | Ora abbiamo tempo, allora andiamo. |
 | 你 不 来，我 就 一个人 去。 | Nǐ bù lái, wǒ jiù yī gè rén qù. | Se tu non vieni, allora vado da solo. |
 
@@ -218,7 +218,7 @@ Soggetto + 刚 + Verbo
 
 ### Struttura
 
-```
+```text
 别 + Verbo
 ```
 
@@ -229,7 +229,7 @@ Soggetto + 刚 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 别 走。 | Bié zǒu. | Non andare. |
 | 别 担心。 | Bié dānxīn. | Non preoccuparti. |
 
@@ -239,7 +239,7 @@ Soggetto + 刚 + Verbo
 
 ### Struttura
 
-```
+```text
 一边 + Verbo1 + (，)一边 + Verbo2
 ```
 
@@ -250,14 +250,14 @@ Soggetto + 刚 + Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 不要 一边 说话，一边 吃 东西。 | Bùyào yībiān shuōhuà, yībiān chī dōngxi. | Non parlare mentre mangi. |
 | 我 喜欢 一边 听 音乐 一边 工作。 | Wǒ xǐhuan yībiān tīng yīnyuè yībiān gōngzuò. | Mi piace lavorare mentre ascolto musica. |
 
 ### Differenze tra avverbi A2
 
 | Avverbio | Significato | Esempio |
-|----------|-------------|---------|
+| ---------- | ------------- | --------- |
 | **差不多** | Pressappoco | 差不多了 |
 | **一直** | Da sempre | 一直在家 |
 | **已经** | Già | 已经走了 |

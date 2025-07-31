@@ -6,14 +6,14 @@ I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanz
 
 ### Struttura
 
-```
+```text
 用 + Sostantivo + 来 + Verbo
 ```
 
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 用这种方法来解决问题 | yòng zhè zhǒng fāngfǎ lái jiějué wèntí | Usare questo metodo per risolvere il problema |
 | 我们用行动来证明诚意 | wǒmen yòng xíngdòng lái zhèngmíng chéngyì | Usiamo le azioni per dimostrare la sincerità |
 | 她用笑容来掩饰悲伤 | tā yòng xiàoróng lái yǎnshì bēishāng | Usa il sorriso per nascondere la tristezza |
@@ -28,7 +28,7 @@ I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanz
 ### Variazioni Comuni
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 以...来... | yǐ...lái... | Con/mediante...per... |
 | 拿...来... | ná...lái... | Prendere...per... |
 
@@ -36,14 +36,14 @@ I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanz
 
 ### Struttura
 
-```
+```text
 去 + Verbo/Sostantivo
 ```
 
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他去买菜了 | tā qù mǎi cài le | È andato a comprare verdure |
 | 我们去看电影吧 | wǒmen qù kàn diànyǐng ba | Andiamo a vedere un film |
 | 你去试试看 | nǐ qù shì shi kàn | Vai a provare |
@@ -52,7 +52,7 @@ I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanz
 ### Usi Avanzati
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这个办法不去想也罢 | zhège bànfǎ bù qù xiǎng yě bà | È meglio non pensare a questo metodo |
 | 去他的！ | qù tā de! | Al diavolo! |
 
@@ -66,14 +66,14 @@ I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanz
 
 ### Struttura
 
-```
+```text
 看/听/闻/感觉 + 起来/出来/到 + Risultato
 ```
 
 ### Esempi con "看"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这道菜看起来很好吃 | zhè dào cài kàn qǐlái hěn hǎochī | Questo piatto sembra molto buono |
 | 我看出来他很紧张 | wǒ kàn chūlái tā hěn jǐnzhāng | Ho visto che era molto nervoso |
 | 看到这个消息我很高兴 | kàn dào zhège xiāoxi wǒ hěn gāoxìng | Vedere questa notizia mi rende felice |
@@ -81,7 +81,7 @@ I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanz
 ### Esempi con "听"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这首歌听起来很熟悉 | zhè shǒu gē tīng qǐlái hěn shúxī | Questa canzone suona familiare |
 | 我听出来了这是他的声音 | wǒ tīng chūlái le zhè shì tā de shēngyīn | Ho riconosciuto che è la sua voce |
 | 听到好消息很开心 | tīng dào hǎo xiāoxi hěn kāixīn | Sentire buone notizie rende felici |
@@ -96,14 +96,14 @@ I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanz
 
 ### Struttura
 
-```
+```text
 让/使 + Persona + Verbo Emotivo
 ```
 
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这个消息让我很担心 | zhège xiāoxi ràng wǒ hěn dānxīn | Questa notizia mi preoccupa |
 | 他的行为使大家很愤怒 | tā de xíngwéi shǐ dàjiā hěn fènnù | Il suo comportamento fa arrabbiare tutti |
 | 这部电影让观众感动流泪 | zhè bù diànyǐng ràng guānzhòng gǎndòng liúlèi | Questo film commuove gli spettatori fino alle lacrime |
@@ -111,7 +111,7 @@ I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanz
 ### Verbi Emotivi Avanzati
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 感动 | gǎndòng | commuovere |
 | 愤怒 | fènnù | fare arrabbiare |
 | 惊讶 | jīngyà | sorprendere |
@@ -128,7 +128,7 @@ I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanz
 
 ### Struttura
 
-```
+```text
 值得 + Verbo
 不值得 + Verbo
 ```
@@ -136,7 +136,7 @@ I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanz
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 这本书值得一读 | zhè běn shū zhídé yī dú | Questo libro vale la pena leggerlo |
 | 这个地方值得参观 | zhège dìfang zhídé cānguān | Questo posto vale la pena visitarlo |
 | 为了这点小事不值得生气 | wèile zhè diǎn xiǎoshì bù zhídé shēngqì | Non vale la pena arrabbiarsi per questa piccola cosa |
@@ -144,7 +144,7 @@ I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanz
 ### Espressioni Idiomatiche
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 值得深思 | zhídé shēnsī | degno di riflessione profonda |
 | 值得称赞 | zhídé chēngzàn | degno di lode |
 | 值得骄傲 | zhídé jiāo'ào | di cui essere orgogliosi |
@@ -160,28 +160,28 @@ I verbi del livello B2 introducono usi specializzati e costruzioni verbali avanz
 
 ### Struttura con "必须" (bìxū)
 
-```
+```text
 Soggetto + 必须 + Verbo
 ```
 
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 学生必须遵守校规 | xuésheng bìxū zūnshǒu xiàoguī | Gli studenti devono rispettare le regole scolastiche |
 | 我们必须找到解决办法 | wǒmen bìxū zhǎodào jiějué bànfǎ | Dobbiamo trovare una soluzione |
 | 司机必须有驾驶证 | sījī bìxū yǒu jiàshǐzhèng | Gli autisti devono avere la patente |
 
 ### Struttura con "应该" (yīnggāi)
 
-```
+```text
 Soggetto + 应该 + Verbo
 ```
 
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你应该多休息 | nǐ yīnggāi duō xiūxi | Dovresti riposare di più |
 | 我们应该保护环境 | wǒmen yīnggāi bǎohù huánjìng | Dovremmo proteggere l'ambiente |
 | 他应该道歉 | tā yīnggāi dàoqiàn | Dovrebbe scusarsi |
@@ -189,7 +189,7 @@ Soggetto + 应该 + Verbo
 ### Differenze d'uso
 
 | Verbo | Forza | Contesto |
-|-------|--------|----------|
+| ------- | -------- | ---------- |
 | 必须 | Obbligo forte | Regole, leggi, necessità |
 | 应该 | Dovere morale | Consigli, raccomandazioni |
 | 需要 | Necessità pratica | Bisogni, requisiti |
@@ -198,7 +198,7 @@ Soggetto + 应该 + Verbo
 ### Strutture Negative
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 不必 + Verbo | bùbì + verbo | non è necessario |
 | 不应该 + Verbo | bù yīnggāi + verbo | non dovrebbe |
 | 不需要 + Verbo | bù xūyào + verbo | non c'è bisogno |

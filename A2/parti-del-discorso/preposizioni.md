@@ -6,7 +6,7 @@ Le preposizioni A2 introducono concetti spaziali e temporali più complessi per 
 
 ### Struttura
 
-```
+```text
 A + 离 + B + Aggettivo/Verbo
 ```
 
@@ -17,7 +17,7 @@ A + 离 + B + Aggettivo/Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 学校 离 我家 很 近。 | Xuéxiào lí wǒ jiā hěn jìn. | La scuola è vicina a casa mia. |
 | 这儿 离 医院 不 远。 | Zhèr lí yīyuàn bù yuǎn. | Qui non è lontano dall'ospedale. |
 
@@ -27,7 +27,7 @@ A + 离 + B + Aggettivo/Verbo
 
 ### Struttura
 
-```
+```text
 往 + Direzione/Luogo + Verbo
 ```
 
@@ -38,7 +38,7 @@ A + 离 + B + Aggettivo/Verbo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 往 东 走。 | Wǎng dōng zǒu. | Vai verso est. |
 | 往 右 转。 | Wǎng yòu zhuǎn. | Gira a destra. |
 
@@ -48,7 +48,7 @@ A + 离 + B + Aggettivo/Verbo
 
 ### Struttura
 
-```
+```text
 从 + Punto di partenza + 到 + Destinazione
 ```
 
@@ -59,7 +59,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 从 家 到 学校 要 二十 分钟。 | Cóng jiā dào xuéxiào yào èrshí fēnzhōng. | Da casa a scuola ci vogliono 20 minuti. |
 | 从 早上 到 晚上。 | Cóng zǎoshang dào wǎnshang. | Dalla mattina alla sera. |
 
@@ -69,7 +69,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 
 ### Struttura
 
-```
+```text
 通过 + Mezzo/Metodo + Verbo
 ```
 
@@ -80,7 +80,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 通过 网络 学习 中文。 | Tōngguò wǎngluò xuéxí Zhōngwén. | Studiare cinese attraverso internet. |
 | 通过 朋友 认识 她。 | Tōngguò péngyǒu rènshi tā. | Conoscerla tramite amici. |
 
@@ -90,7 +90,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 
 ### Struttura
 
-```
+```text
 向 + Persona/Direzione + Verbo
 ```
 
@@ -101,7 +101,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 向 老师 问 问题。 | Xiàng lǎoshī wèn wèntí. | Fare domande al professore. |
 | 向 前 走。 | Xiàng qián zǒu. | Andare avanti. |
 
@@ -111,7 +111,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 
 ### Struttura
 
-```
+```text
 沿着 + Strada/Percorso + Verbo
 ```
 
@@ -122,7 +122,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 沿着 这 条 路 走。 | Yánzhe zhè tiáo lù zǒu. | Camminare lungo questa strada. |
 | 沿着 河 跑步。 | Yánzhe hé pǎobù. | Correre lungo il fiume. |
 
@@ -132,7 +132,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 
 ### Struttura
 
-```
+```text
 除了 + Elemento + 以外，(都/也)...
 ```
 
@@ -143,7 +143,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 除了 星期一 以外，我 都 有 课。 | Chúle xīngqīyī yǐwài, wǒ dōu yǒu kè. | Eccetto lunedì, ho lezione tutti i giorni. |
 | 除了 中文 以外，我 也 学 英文。 | Chúle Zhōngwén yǐwài, wǒ yě xué Yīngwén. | Oltre al cinese, studio anche inglese. |
 
@@ -153,7 +153,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 
 ### Struttura
 
-```
+```text
 按照 + Standard/Regola + Verbo
 ```
 
@@ -164,7 +164,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 按照 老师 的 意思 做。 | Ànzhào lǎoshī de yìsi zuò. | Fare secondo l'intenzione del professore. |
 | 按照 这个 方法。 | Ànzhào zhège fāngfǎ. | Secondo questo metodo. |
 
@@ -174,7 +174,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 
 ### Struttura
 
-```
+```text
 关于 + Argomento + 的 + Sostantivo
 ```
 
@@ -185,7 +185,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 关于 中国 历史 的 书。 | Guānyú Zhōngguó lìshǐ de shū. | Un libro sulla storia cinese. |
 | 关于 这个 问题。 | Guānyú zhège wèntí. | Riguardo a questo problema. |
 
@@ -195,7 +195,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 
 ### Struttura
 
-```
+```text
 由于 + Causa，Risultato
 ```
 
@@ -206,7 +206,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 由于 下雨，我 没 去。 | Yóuyú xiàyǔ, wǒ méi qù. | A causa della pioggia, non sono andato. |
 | 由于 生病，她 不 能 来。 | Yóuyú shēngbìng, tā bù néng lái. | A causa della malattia, non può venire. |
 
@@ -216,7 +216,7 @@ Esprime movimento o periodo temporale da un punto all'altro.
 
 ### Struttura
 
-```
+```text
 为了 + Scopo，Azione
 ```
 
@@ -227,24 +227,24 @@ Esprime movimento o periodo temporale da un punto all'altro.
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 为了 学 中文，她 去 中国。 | Wèile xué Zhōngwén, tā qù Zhōngguó. | Per studiare cinese, va in Cina. |
 | 为了 健康，我 每天 运动。 | Wèile jiànkāng, wǒ měitiān yùndòng. | Per la salute, faccio sport ogni giorno. |
 
 ### Preposizioni di luogo avanzate
 
 | Preposizione | Significato | Esempio | Traduzione |
-|--------------|-------------|---------|-------------|
+| -------------- | ------------- | --------- | ------------- |
 | **旁边** | accanto a | 在学校旁边 | accanto alla scuola |
 | **对面** | di fronte a | 在银行对面 | di fronte alla banca |
 | **附近** | nelle vicinanze | 在家附近 | vicino a casa |
-| **之间** | tra (due cose) | 在A和B之间 | tra A e B |
+| **之间** | tra (due cose) | 在 A 和 B 之间 | tra A e B |
 | **中间** | in mezzo | 在中间 | nel mezzo |
 
 ### Preposizioni temporali specifiche
 
 | Preposizione | Uso | Esempio | Significato |
-|--------------|-----|---------|-------------|
+| -------------- | ----- | --------- | ------------- |
 | **以前** | prima di | 吃饭以前 | prima di mangiare |
 | **以后** | dopo | 下课以后 | dopo la lezione |
 | **之前** | prima di (formale) | 考试之前 | prima dell'esame |

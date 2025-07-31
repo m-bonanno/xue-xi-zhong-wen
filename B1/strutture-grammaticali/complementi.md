@@ -6,14 +6,14 @@ I complementi del livello B1 introducono strutture più sofisticate per esprimer
 
 ### Struttura
 
-```
+```text
 Verbo/Aggettivo + 得 + Complemento di Grado
 ```
 
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他跑得很快 | tā pǎo de hěn kuài | Corre molto velocemente |
 | 她唱得真好听 | tā chàng de zhēn hǎotīng | Canta davvero bene |
 | 写得太慢了 | xiě de tài màn le | Scrive troppo lentamente |
@@ -29,14 +29,14 @@ Verbo/Aggettivo + 得 + Complemento di Grado
 
 ### Struttura
 
-```
+```text
 Verbo + 来/去
 ```
 
 ### Esempi con 来 (verso chi parla)
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 过来 | guò lái | venire qui |
 | 走来 | zǒu lái | camminare verso qui |
 | 跑来 | pǎo lái | correre verso qui |
@@ -45,7 +45,7 @@ Verbo + 来/去
 ### Esempi con 去 (lontano da chi parla)
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 过去 | guò qù | andare là |
 | 走去 | zǒu qù | camminare verso là |
 | 跑去 | pǎo qù | correre verso là |
@@ -61,14 +61,14 @@ Verbo + 来/去
 
 ### Struttura
 
-```
+```text
 Verbo + Direzione + 来/去
 ```
 
 ### Esempi principali
 
 | Cinese | Pinyin | Italiano | Uso |
-|--------|--------|----------|-----|
+| -------- | -------- | ---------- | ----- |
 | 拿出来 | ná chūlái | tirare fuori (verso chi parla) | Movimento dall'interno all'esterno |
 | 拿出去 | ná chūqù | portare fuori (lontano da chi parla) | Movimento dall'interno all'esterno |
 | 走进来 | zǒu jìnlái | entrare camminando (verso qui) | Movimento dall'esterno all'interno |
@@ -86,20 +86,20 @@ Verbo + Direzione + 来/去
 
 ### Struttura Affermativa
 
-```
+```text
 Verbo + 得 + Complemento
 ```
 
 ### Struttura Negativa
 
-```
+```text
 Verbo + 不 + Complemento
 ```
 
 ### Esempi con azioni fisiche
 
 | Affermativo | Negativo | Pinyin | Italiano |
-|-------------|----------|--------|----------|
+| ------------- | ---------- | -------- | ---------- |
 | 看得见 | 看不见 | kàn de jiàn / kàn bù jiàn | riuscire a vedere / non riuscire a vedere |
 | 听得懂 | 听不懂 | tīng de dǒng / tīng bù dǒng | riuscire a capire / non riuscire a capire |
 | 买得起 | 买不起 | mǎi de qǐ / mǎi bù qǐ | permettersi di comprare / non permettersi |
@@ -108,7 +108,7 @@ Verbo + 不 + Complemento
 ### Esempi con movimento
 
 | Affermativo | Negativo | Pinyin | Italiano |
-|-------------|----------|--------|----------|
+| ------------- | ---------- | -------- | ---------- |
 | 进得去 | 进不去 | jìn de qù / jìn bù qù | riuscire a entrare / non riuscire a entrare |
 | 出得来 | 出不来 | chū de lái / chū bù lái | riuscire a uscire / non riuscire a uscire |
 | 上得去 | 上不去 | shàng de qù / shàng bù qù | riuscire a salire / non riuscire a salire |
@@ -123,14 +123,14 @@ Verbo + 不 + Complemento
 
 ### Struttura
 
-```
+```text
 Verbo + Risultato
 ```
 
 ### Esempi di risultati comuni
 
 | Cinese | Pinyin | Italiano | Tipo di Risultato |
-|--------|--------|----------|------------------|
+| -------- | -------- | ---------- | ------------------ |
 | 打破 | dǎ pò | rompere (colpendo) | Cambiamento di stato |
 | 洗干净 | xǐ gānjìng | lavare fino a rendere pulito | Raggiungimento di qualità |
 | 写完 | xiě wán | finire di scrivere | Completamento |
@@ -141,7 +141,7 @@ Verbo + Risultato
 ### Esempi in frasi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我打破了杯子 | wǒ dǎ pò le bēizi | Ho rotto la tazza |
 | 衣服洗干净了 | yīfu xǐ gānjìng le | I vestiti sono stati lavati fino a essere puliti |
 | 作业写完了吗？ | zuòyè xiě wán le ma? | Hai finito i compiti? |
@@ -159,7 +159,7 @@ Verbo + Risultato
 ### Per enfatizzare "tutto/tutti"
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我都知道 | wǒ dōu zhīdào | So tutto / Lo so |
 | 他们都来了 | tāmen dōu lái le | Sono venuti tutti |
 | 什么都没有 | shénme dōu méiyǒu | Non c'è niente di niente |
@@ -167,7 +167,7 @@ Verbo + Risultato
 ### Per enfatizzare sorpresa o grado estremo
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 连小孩都知道 | lián xiǎohái dōu zhīdào | Persino i bambini lo sanno |
 | 这么简单都不会 | zhème jiǎndān dōu bù huì | Non sa nemmeno una cosa così semplice |
 | 他都三十岁了 | tā dōu sānshí suì le | Ha già trent'anni (enfasi sul fatto che è vecchio) |

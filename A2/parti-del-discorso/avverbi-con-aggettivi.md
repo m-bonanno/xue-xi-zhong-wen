@@ -6,7 +6,7 @@ Questi costrutti combinano avverbi e aggettivi per esprimere confronti, intensit
 
 ### Struttura
 
-```
+```text
 Soggetto + 多 + Aggettivo？
 ```
 
@@ -17,7 +17,7 @@ Soggetto + 多 + Aggettivo？
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他 多 高？ | Tā duō gāo? | Quanto è alto? |
 | 这个 包 多 重？ | Zhège bāo duō zhòng? | Quanto pesa questa borsa? |
 | 你 多 大？ | Nǐ duō dà? | Quanti anni hai? |
@@ -28,7 +28,7 @@ Soggetto + 多 + Aggettivo？
 
 ### Struttura
 
-```
+```text
 Sostantivo1 + 跟/和 + Sostantivo2 + 一样 + Aggettivo
 ```
 
@@ -39,7 +39,7 @@ Sostantivo1 + 跟/和 + Sostantivo2 + 一样 + Aggettivo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 跟 他 一样 高。 | Nǐ gēn tā yīyàng gāo. | Sei alto quanto lui. |
 | 这个 苹果 和 那个 一样 大。 | Zhège píngguǒ hé nàge yīyàng dà. | Questa mela è grande quanto quella. |
 
@@ -49,7 +49,7 @@ Sostantivo1 + 跟/和 + Sostantivo2 + 一样 + Aggettivo
 
 ### Struttura
 
-```
+```text
 有点(儿) + Aggettivo
 ```
 
@@ -60,7 +60,7 @@ Sostantivo1 + 跟/和 + Sostantivo2 + 一样 + Aggettivo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 有点 饿。 | Wǒ yǒudiǎn è. | Ho un po' di fame. |
 | 这个 菜 有点 咸。 | Zhège cài yǒudiǎn xián. | Questo piatto è un po' salato. |
 | 今天 有点儿 冷。 | Jīntiān yǒudiǎnr lěng. | Oggi fa un po' freddo. |
@@ -71,7 +71,7 @@ Sostantivo1 + 跟/和 + Sostantivo2 + 一样 + Aggettivo
 
 ### Struttura
 
-```
+```text
 又 + Aggettivo1 + 又 + Aggettivo2
 ```
 
@@ -82,7 +82,7 @@ Sostantivo1 + 跟/和 + Sostantivo2 + 一样 + Aggettivo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他 又 高 又 帅。 | Tā yòu gāo yòu shuài. | È sia alto che bello. |
 | 这个 地方 又 安静 又 漂亮。 | Zhège dìfang yòu ānjìng yòu piàoliang. | Questo posto è sia tranquillo che bello. |
 
@@ -92,7 +92,7 @@ Sostantivo1 + 跟/和 + Sostantivo2 + 一样 + Aggettivo
 
 ### Struttura
 
-```
+```text
 Luogo1 + 离 + Luogo2 + Avverbio + 近/远
 ```
 
@@ -103,7 +103,7 @@ Luogo1 + 离 + Luogo2 + Avverbio + 近/远
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 家 离 大学 很 近。 | Wǒ jiā lí dàxué hěn jìn. | Casa mia è molto vicina all'università. |
 | 银行 离 这里 不 远。 | Yínháng lí zhèlǐ bù yuǎn. | La banca non è lontana da qui. |
 
@@ -113,7 +113,7 @@ Luogo1 + 离 + Luogo2 + Avverbio + 近/远
 
 ### Struttura
 
-```
+```text
 更 + Aggettivo
 ```
 
@@ -124,7 +124,7 @@ Luogo1 + 离 + Luogo2 + Avverbio + 近/远
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 我 想 找 一个 更 有钱 的 男朋友。 | Wǒ xiǎng zhǎo yī gè gèng yǒuqián de nánpéngyǒu. | Voglio trovare un fidanzato ancora più ricco. |
 | 这个 更 好。 | Zhège gèng hǎo. | Questo è ancora meglio. |
 
@@ -134,7 +134,7 @@ Luogo1 + 离 + Luogo2 + Avverbio + 近/远
 
 ### Struttura
 
-```
+```text
 不太 + Aggettivo/Verbo
 ```
 
@@ -145,7 +145,7 @@ Luogo1 + 离 + Luogo2 + Avverbio + 近/远
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 他 不太 高兴。 | Tā bù tài gāoxìng. | Non è molto contento. |
 | 我 不太 喜欢。 | Wǒ bù tài xǐhuan. | Non mi piace molto. |
 
@@ -155,7 +155,7 @@ Luogo1 + 离 + Luogo2 + Avverbio + 近/远
 
 ### Struttura
 
-```
+```text
 真 + Aggettivo
 ```
 
@@ -166,7 +166,7 @@ Luogo1 + 离 + Luogo2 + Avverbio + 近/远
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 你 女朋友 真 漂亮。 | Nǐ nǚpéngyǒu zhēn piàoliang. | La tua ragazza è davvero bella. |
 | 这个 菜 真 好吃。 | Zhège cài zhēn hǎochī. | Questo piatto è davvero buono. |
 
@@ -176,7 +176,7 @@ Luogo1 + 离 + Luogo2 + Avverbio + 近/远
 
 ### Struttura
 
-```
+```text
 Soggetto + 多 + Aggettivo
 ```
 
@@ -187,7 +187,7 @@ Soggetto + 多 + Aggettivo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 多 好！ | Duō hǎo! | Quanto è bello! |
 | 外面 多 舒服！ | Wàimiàn duō shūfu! | Quanto è comodo fuori! |
 
@@ -197,7 +197,7 @@ Soggetto + 多 + Aggettivo
 
 ### Struttura
 
-```
+```text
 还 + Aggettivo
 ```
 
@@ -208,7 +208,7 @@ Soggetto + 多 + Aggettivo
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 还 可以。 | Hái kěyǐ. | Va abbastanza bene. / Non male. |
 | 还 好。 | Hái hǎo. | Abbastanza bene. |
 
@@ -218,7 +218,7 @@ Soggetto + 多 + Aggettivo
 
 ### Struttura
 
-```
+```text
 Aggettivo + 的 + Sostantivo
 ```
 
@@ -229,7 +229,7 @@ Gli aggettivi che modificano sostantivi richiedono "的" quando sono descrittivi
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 好喝 的 啤酒 | hǎohē de píjiǔ | birra buona da bere |
 | 可爱 的 宝宝 | kě'ài de bǎobao | bambino carino |
 
@@ -239,7 +239,7 @@ Gli aggettivi che modificano sostantivi richiedono "的" quando sono descrittivi
 
 ### Struttura
 
-```
+```text
 Frase + 的 + Sostantivo
 ```
 
@@ -250,7 +250,7 @@ Intere frasi possono modificare sostantivi usando "的".
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 去 北京 的 火车 | qù Běijīng de huǒchē | il treno che va a Pechino |
 | 今天 来 的 人 | jīntiān lái de rén | le persone che sono venute oggi |
 
@@ -260,7 +260,7 @@ Intere frasi possono modificare sostantivi usando "的".
 
 ### Struttura
 
-```
+```text
 最 + Aggettivo + (了)
 ```
 
@@ -271,7 +271,7 @@ Intere frasi possono modificare sostantivi usando "的".
 ### Esempi
 
 | Cinese | Pinyin | Italiano |
-|--------|--------|----------|
+| -------- | -------- | ---------- |
 | 谁 最 有钱？ | Shuí zuì yǒuqián? | Chi è il più ricco? |
 | 这个 最 好。 | Zhège zuì hǎo. | Questo è il migliore. |
 | 他 最 聪明 了。 | Tā zuì cōngming le. | Lui è il più intelligente. |
@@ -279,7 +279,7 @@ Intere frasi possono modificare sostantivi usando "的".
 ### Tabella riassuntiva intensificatori
 
 | Intensificatore | Funzione | Esempio | Traduzione |
-|----------------|----------|---------|-------------|
+| ---------------- | ---------- | --------- | ------------- |
 | **有点** | Leggero eccesso negativo | 有点累 | Un po' stanco |
 | **很** | Intensificazione neutrale | 很好 | Molto bene |
 | **真** | Enfasi sincera | 真好 | Davvero bene |
