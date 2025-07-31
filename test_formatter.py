@@ -97,13 +97,46 @@ Testo dopo"""
         
         result = self.formatter.fix_code_blocks(input_text)
         
-        # Dovrebbe avere righe vuote intorno al code block
-        lines = result.split('\n')
-        code_start = next(i for i, line in enumerate(lines) if line.startswith('```'))
+        # Verifica che i tripli backticks di chiusura non siano rimossi
+        self.assertIn('```', result)
+        self.assertEqual(result.count('```'), 2)  # Apertura e chiusura
+        
+        # Verifica che il linguaggio sia aggiunto
+        self.assertIn('```text', result)
         
         # Verifica spaziatura
+        lines = result.split('\n')
+        code_start = next(i for i, line in enumerate(lines) if line.startswith('```text'))
+        code_end = next(i for i, line in enumerate(lines[code_start+1:], code_start+1) if line == '```')
+        
+        # Verifica che ci sia spazio prima del code block
         if code_start > 0:
             self.assertEqual(lines[code_start - 1].strip(), '')
+            
+        # Verifica che ci sia spazio dopo il code block
+        if code_end + 1 < len(lines):
+            self.assertEqual(lines[code_end + 1].strip(), '')
+    
+    def test_code_blocks_bug_fix(self):
+        """Test specifico per il bug dei tripli backticks rimossi."""
+        input_text = """### Struttura
+
+```text
+怎么 + Verbo？
+
+```text
+### Spiegazione"""
+        
+        result = self.formatter.fix_code_blocks(input_text)
+        
+        # Verifica che tutti i backticks siano presenti
+        backtick_count = result.count('```')
+        self.assertEqual(backtick_count, 2, f"Expected 2 ```, found {backtick_count}")
+        
+        # Verifica che la struttura sia corretta
+        lines = result.split('\n')
+        code_lines = [i for i, line in enumerate(lines) if line.startswith('```')]
+        self.assertEqual(len(code_lines), 2)  # Apertura e chiusura
     
     def test_trailing_whitespace(self):
         """Test rimozione spazi trailing."""

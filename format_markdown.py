@@ -87,17 +87,57 @@ class MarkdownFormatter:
     
     def fix_headers_spacing(self, content: str) -> str:
         """Corregge la spaziatura intorno agli headers."""
-        # Assicura una riga vuota prima degli headers (eccetto all'inizio del file)
-        content = re.sub(r'(?<!^)\n(#{1,6}\s)', r'\n\n\1', content, flags=re.MULTILINE)
+        lines = content.split('\n')
+        formatted_lines = []
         
-        # Assicura una riga vuota dopo gli headers
-        content = re.sub(r'(#{1,6}\s[^\n]+)\n(?!\n)', r'\1\n\n', content)
-        
-        # Rimuove spazi extra alla fine degli headers
-        content = re.sub(r'(#{1,6}\s[^\n]+?)\s+$', r'\1', content, flags=re.MULTILINE)
+        i = 0
+        while i < len(lines):
+            line = lines[i]
+            
+            # Salta le righe vuote se stiamo aspettando un header
+            if line.strip() == '' and i + 1 < len(lines):
+                # Guarda avanti per vedere se c'è un header
+                next_non_empty = i + 1
+                while (next_non_empty < len(lines) and 
+                       lines[next_non_empty].strip() == ''):
+                    next_non_empty += 1
+                
+                if (next_non_empty < len(lines) and 
+                    re.match(r'^#{1,6}[^#]', lines[next_non_empty])):
+                    # C'è un header in arrivo, salta le righe vuote per ora
+                    i += 1
+                    continue
+            
+            # Se la riga è un header
+            if re.match(r'^#{1,6}[^#]', line):
+                # Prima sistema headers senza spazio dopo #
+                line = re.sub(r'^(#{1,6})([^\s#])', r'\1 \2', line)
+                line = line.rstrip()  # Rimuovi spazi extra alla fine
+                
+                # Aggiungi riga vuota prima se necessario (non all'inizio del file)
+                if (len(formatted_lines) > 0 and formatted_lines[-1].strip() != ''):
+                    formatted_lines.append('')
+                
+                formatted_lines.append(line)
+                
+                # Controlla se c'è contenuto dopo (non header)
+                next_idx = i + 1
+                while (next_idx < len(lines) and 
+                       lines[next_idx].strip() == ''):
+                    next_idx += 1
+                
+                # Se c'è contenuto dopo l'header, aggiungi una riga vuota
+                if next_idx < len(lines):
+                    formatted_lines.append('')
+                
+                i += 1
+            else:
+                # Non è un header, aggiungi così com'è
+                formatted_lines.append(line)
+                i += 1
         
         self._track_fix('headers_spacing')
-        return content
+        return '\n'.join(formatted_lines)
     
     def fix_table_formatting(self, content: str) -> str:
         """Migliora la formattazione delle tabelle."""
@@ -147,15 +187,42 @@ class MarkdownFormatter:
     
     def fix_code_blocks(self, content: str) -> str:
         """Migliora la formattazione dei blocchi di codice."""
-        # Assicura riga vuota prima e dopo i code blocks
-        content = re.sub(r'(?<!^)\n(```)', r'\n\n\1', content, flags=re.MULTILINE)
-        content = re.sub(r'(```.*?)\n(?!\n)', r'\1\n\n', content, flags=re.DOTALL)
+        lines = content.split('\n')
+        formatted_lines = []
+        in_code_block = False
         
-        # Specifica il linguaggio per i code blocks senza linguaggio
-        content = re.sub(r'^```\s*\n', '```text\n', content, flags=re.MULTILINE)
+        for i, line in enumerate(lines):
+            # Identifica apertura/chiusura code block
+            if line.startswith('```'):
+                if not in_code_block:
+                    # Apertura code block
+                    in_code_block = True
+                    
+                    # Aggiungi riga vuota prima se necessario
+                    if (i > 0 and formatted_lines and 
+                        formatted_lines[-1].strip() != ''):
+                        formatted_lines.append('')
+                    
+                    # Specifica linguaggio se mancante
+                    if line.strip() == '```':
+                        line = '```text'
+                    
+                    formatted_lines.append(line)
+                else:
+                    # Chiusura code block
+                    in_code_block = False
+                    formatted_lines.append(line)
+                    
+                    # Aggiungi riga vuota dopo se necessario
+                    if (i + 1 < len(lines) and 
+                        lines[i + 1].strip() != ''):
+                        formatted_lines.append('')
+            else:
+                # Riga normale o contenuto code block
+                formatted_lines.append(line)
         
         self._track_fix('code_blocks')
-        return content
+        return '\n'.join(formatted_lines)
     
     def fix_list_formatting(self, content: str) -> str:
         """Migliora la formattazione delle liste."""
@@ -200,7 +267,7 @@ class MarkdownFormatter:
         content = re.sub(r'([\u4e00-\u9fff]),(?=[\u4e00-\u9fff])', r'\1，', content)
         
         # Sostituisci punti inglesi con cinesi alla fine di frasi cinesi
-        content = re.sub(r'([\u4e00-\u9fff])\.(?=\s|$)', r'\1。', content)
+        content = re.sub(r'([\u4e00-\u9fff])\.', r'\1。', content)
         
         self._track_fix('chinese_punctuation')
         return content
