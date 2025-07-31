@@ -267,7 +267,8 @@ class MarkdownFormatter:
         content = re.sub(r'([\u4e00-\u9fff]),(?=[\u4e00-\u9fff])', r'\1，', content)
         
         # Sostituisci punti inglesi con cinesi alla fine di frasi cinesi
-        content = re.sub(r'([\u4e00-\u9fff])\.', r'\1。', content)
+        # Ma NON convertire ellissi (due o più punti consecutivi)
+        content = re.sub(r'([\u4e00-\u9fff])\.(?!\.)', r'\1。', content)
         
         self._track_fix('chinese_punctuation')
         return content

@@ -17,11 +17,13 @@ Questo progetto è una traduzione e riorganizzazione italiana delle risorse dell
 ## Termini d'Uso
 
 Questo materiale può essere:
+
 - ✅ Utilizzato per scopi educativi non commerciali
 - ✅ Condiviso con attribuzione appropriata
 - ✅ Modificato per uso personale o educativo
 
 Questo materiale NON può essere:
+
 - ❌ Utilizzato per scopi commerciali senza permesso
 - ❌ Redistribuito senza attribuzione
 - ❌ Venduto o monetizzato
@@ -33,6 +35,7 @@ Questa è una traduzione non ufficiale. Per la versione ufficiale e più aggiorn
 ## Contatti
 
 Per domande sui diritti d'uso, contattare:
+
 - **AllSet Learning**: [Contact](https://resources.allsetlearning.com/chinese/grammar/Contact)
 - **Questo progetto**: Aprire una issue su GitHub
 

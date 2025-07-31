@@ -77,6 +77,11 @@ Content"""
         
         result = self.formatter.normalize_chinese_punctuation(input_text)
         self.assertEqual(result, expected)
+        
+        # Test che le ellissi non vengano convertite
+        ellipsis_input = "因为...所以...这样..."
+        ellipsis_result = self.formatter.normalize_chinese_punctuation(ellipsis_input)
+        self.assertEqual(ellipsis_result, ellipsis_input)  # Dovrebbe rimanere invariato
     
     def test_pinyin_formatting(self):
         """Test formattazione pinyin."""

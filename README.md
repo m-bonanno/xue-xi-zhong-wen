@@ -29,10 +29,11 @@ Fornire spiegazioni chiare, semplici e in italiano della grammatica cinese per f
 
 1. Inizia dal livello A1 se sei principiante
 2. Ogni punto grammaticale include:
-   - Spiegazione in italiano
-   - Struttura/Formula
-   - Esempi pratici con traduzione
-   - Note ed eccezioni
+
+- Spiegazione in italiano
+- Struttura/Formula
+- Esempi pratici con traduzione
+- Note ed eccezioni
 
 ## 🤝 Contributi
 

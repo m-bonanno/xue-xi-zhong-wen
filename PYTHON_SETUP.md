@@ -5,6 +5,7 @@ Questi file sono stati aggiunti per supportare l'ambiente di sviluppo Python:
 ## File di Configurazione Python
 
 ### 📦 Package e Dipendenze
+
 - **`setup.py`** - Setup script tradizionale per il package Python
 - **`pyproject.toml`** - Configurazione moderna Python (PEP 518)
 - **`requirements.txt`** - Dipendenze di produzione (attualmente vuoto)
@@ -12,31 +13,40 @@ Questi file sono stati aggiunti per supportare l'ambiente di sviluppo Python:
 - **`MANIFEST.in`** - Specifica quali file includere nel package
 
 ### 🔧 Script e Utilità
+
 - **`format.sh`** - Script bash per Linux/Mac (equivalente a format.bat)
 - **`format.bat`** - Script batch per Windows (aggiornato)
 - **`Makefile`** - Makefile aggiornato con comandi Python
 
 ### 🚫 File Esclusi
+
 - **`.gitignore`** - Aggiornato con regole complete per Python
 
 ## Comandi Utili
 
 ### Setup Iniziale
+
 ```bash
+
 # Crea virtual environment
+
 python3 -m venv venv
 
 # Attiva (Linux/Mac)
+
 source venv/bin/activate
 
 # Attiva (Windows)
+
 venv\Scripts\activate
 
 # Installa in modalità development
+
 pip install -e .
 ```
 
 ### Con Make (Linux/Mac)
+
 ```bash
 make venv          # Crea virtual environment
 make install       # Installa progetto
@@ -45,6 +55,7 @@ make test          # Esegue test
 ```
 
 ### Testing
+
 ```bash
 python test_formatter.py    # Test diretti
 pytest                     # Se pytest è installato
