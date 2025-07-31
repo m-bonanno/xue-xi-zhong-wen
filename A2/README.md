@@ -180,7 +180,7 @@ Prima di iniziare A2, assicurati di aver completato:
 
 Una volta completato l'A2, puoi procedere con:
 
-- **[B1 - Intermedio](../B1/README.md)** (in arrivo)
+- **[B1 - Intermedio](../B1/README.md)** - 143 punti grammaticali avanzati
 
 ## 📝 Note
 

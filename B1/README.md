@@ -102,6 +102,19 @@ A questo livello gli studenti dovrebbero essere in grado di:
 - **Pratica**: È essenziale l'uso attivo di queste strutture nella conversazione
 - **Cultura**: Molti pattern riflettono peculiarità del pensiero cinese
 
+## 📚 Prerequisiti
+
+Prima di iniziare B1, assicurati di aver completato:
+
+- **[A1 - Principiante](../A1/README.md)** - 40 punti grammaticali fondamentali
+- **[A2 - Elementare](../A2/README.md)** - 99 punti grammaticali intermedi
+
+## 📚 Prossimi Passi
+
+Una volta completato B1, puoi procedere con:
+
+- **[B2 - Intermedio-Avanzato](../B2/README.md)** - 154 punti grammaticali sofisticati
+
 ---
 
 *Fonte: [AllSet Learning Chinese Grammar Wiki](https://resources.allsetlearning.com/chinese/grammar/B1_grammar_points)*

@@ -40,11 +40,7 @@ Questo livello B2 (Intermedio-Avanzato) è il quarto livello secondo il Quadro C
 - **[Dichiarazioni "Anche Se"](./strutture-grammaticali/dichiarazioni-anche-se.md)** (4 punti) - Concessioni
 - **[Dichiarazioni "Se"](./strutture-grammaticali/dichiarazioni-se.md)** (4 punti) - Ipotesi e condizioni
 - **[Dichiarazioni "Non Importa"](./strutture-grammaticali/dichiarazioni-non-importa.md)** (2 punti) - Indifferenza
-- **[Schemi di Frase Avanzati](./strutture-grammaticali/schemi-di-frase-avanzati.md)** (9 punti) - Pattern complessi suddivisi in:
-  - **O... o** (1 punto)
-  - **Figuriamoci** (2 punti)
-  - **Non solo... ma anche** (1 punto)
-  - **Schemi Vari** (5 punti)
+- **[Espressioni Condizionali](./strutture-grammaticali/espressioni-condizionali.md)** (9 punti) - Costruzioni sofisticate per ipotesi e contrasti
 
 ### ⚖️ [Confronti](./confronti/)
 
@@ -105,6 +101,14 @@ A questo livello gli studenti dovrebbero essere in grado di:
 - **Registro**: Fondamentale la distinzione tra formale e informale
 - **Cultura**: Molte strutture riflettono modi di pensare tipicamente cinesi
 - **Precisione**: A questo livello la precisione semantica diventa cruciale
+
+## 📚 Prerequisiti
+
+Prima di iniziare B2, assicurati di aver completato:
+
+- **[A1 - Principiante](../A1/README.md)** - 40 punti grammaticali fondamentali
+- **[A2 - Elementare](../A2/README.md)** - 99 punti grammaticali intermedi
+- **[B1 - Intermedio](../B1/README.md)** - 143 punti grammaticali avanzati
 
 ---
 

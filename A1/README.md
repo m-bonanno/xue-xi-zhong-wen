@@ -12,7 +12,7 @@ Le seguenti regole grammaticali si inseriscono perfettamente in una categoria sp
 
 #### 🔸 [Avverbi](./parti-del-discorso/avverbi.md)
 
-- [Negazione di "有" con "没"](./parti-del-discorso/avverbi.md#negazione-di-你-con-没)
+- [Negazione di "有" con "没"](./parti-del-discorso/avverbi.md#negazione-di-有-con-没)
 - [Negazione standard con "不"](./parti-del-discorso/avverbi.md#negazione-standard-con-不)
 - [L'avverbio "tutto" - "都"](./parti-del-discorso/avverbi.md#lavverbio-tutto---都)
 - [L'avverbio "anche" - "也"](./parti-del-discorso/avverbi.md#lavverbio-anche---也)
@@ -94,7 +94,7 @@ Qual è la differenza tra questo punto grammaticale e quello? Controlla qui.
 
 Una volta completato l'A1, puoi procedere con:
 
-- **[A2 - Elementare](../A2/README.md)** (in arrivo)
+- **[A2 - Elementare](../A2/README.md)** - 99 punti grammaticali intermedi
 
 ## 📝 Note
 
